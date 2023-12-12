@@ -1,0 +1,13 @@
+name = "Endercage"
+filename = "endercage-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8JT4MbwQ/versions/fgNx725w/endercage-1.1.jar"
+hash-format = "sha1"
+hash = "75862443ff133f689311e5161031770f045ff480"
+
+[update]
+[update.modrinth]
+mod-id = "8JT4MbwQ"
+version = "fgNx725w"

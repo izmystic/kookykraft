@@ -1,0 +1,13 @@
+name = "Orb of Origin Plus"
+filename = "orb_of_origins_plus_1_20_1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cd7yNcXr/versions/qnfki2kO/orb_of_origins_plus_1_20_1.jar"
+hash-format = "sha1"
+hash = "dcc143e66678dfe78457f2591d2f773c8b4ccd1e"
+
+[update]
+[update.modrinth]
+mod-id = "cd7yNcXr"
+version = "qnfki2kO"
