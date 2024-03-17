@@ -1,13 +1,13 @@
 name = "Automated Crafting"
-filename = "automated-crafting-1.4.13+MC1.20-1.20.1.jar"
+filename = "automated-crafting-1.4.15-1+MC1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KwD3Y4Jn/versions/YvvaW6nO/automated-crafting-1.4.13%2BMC1.20-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/KwD3Y4Jn/versions/oozeGpP8/automated-crafting-1.4.15-1%2BMC1.20.1.jar"
 hash-format = "sha1"
-hash = "494f1ef895937e65844e4d0384ef5c922c07023f"
+hash = "6ffc3bf2b9bbf7f6294b5ec82acca8ff60daa362"
 
 [update]
 [update.modrinth]
 mod-id = "KwD3Y4Jn"
-version = "YvvaW6nO"
+version = "oozeGpP8"
