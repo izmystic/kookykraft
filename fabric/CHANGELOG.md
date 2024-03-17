@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1 (2024-03-17)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.0.1 ([cd33a3d](https://github.com/izmystic/kookykraft/commit/cd33a3db95017f28d81d9e9fbc4413dfaf8113aa))
+
 ## [1.0.2](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.1...fabric-v1.0.2) (2024-03-17)
 
 
