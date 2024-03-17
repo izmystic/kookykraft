@@ -1,13 +1,13 @@
 name = "Item Collectors"
-filename = "itemcollectors-1.1.8-fabric-mc1.20.jar"
+filename = "itemcollectors-1.1.9-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y9vDr4Th/versions/pTgc4civ/itemcollectors-1.1.8-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/y9vDr4Th/versions/btBxRdgd/itemcollectors-1.1.9-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "f4955bedd9fdd93c3b31a1f364862e34f99876e4"
+hash = "3f52feef43b0bee8b8990b3f65ad9d091bd82ead"
 
 [update]
 [update.modrinth]
 mod-id = "y9vDr4Th"
-version = "pTgc4civ"
+version = "btBxRdgd"
