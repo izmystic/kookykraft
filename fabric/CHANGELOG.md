@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.1...fabric-v1.0.2) (2024-03-17)
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated mods ([96becad](https://github.com/izmystic/kookykraft/commit/96becad7a808713d2c9d9ec0ccfcff402593f922))
+
 ## 1.0.1 (2023-12-12)
 
 
