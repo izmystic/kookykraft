@@ -1,0 +1,13 @@
+name = "[Let's Do] Brewery"
+filename = "letsdo-brewery-fabric-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cV5LQXKx/versions/GRQCrlJf/letsdo-brewery-fabric-1.1.5.jar"
+hash-format = "sha1"
+hash = "e3c1b07d5b89fa666b7c6b2a76cb846667e92c92"
+
+[update]
+[update.modrinth]
+mod-id = "cV5LQXKx"
+version = "GRQCrlJf"

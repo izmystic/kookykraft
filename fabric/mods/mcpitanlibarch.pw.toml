@@ -1,0 +1,13 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-2.2.4-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/Qv2qr9J9/mcpitanlib-2.2.4-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "b82d79a2bd2d361a7fb50cdeea0d9fa44ce3ef97"
+
+[update]
+[update.modrinth]
+mod-id = "uNRoUnGT"
+version = "Qv2qr9J9"

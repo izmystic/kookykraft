@@ -3,7 +3,3 @@
 
 # Exclude README
 /README.md
-/README.template.md
-
-# Exclude Changelog
-/CHANGELOG.release.md

@@ -1,0 +1,13 @@
+name = "kookykraft"
+author = "izmystic"
+version = "0.2.9"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc9a3ce67a4f00f6d65e141dad03723d6579004f3f75943c972be0cc4ef87239"
+
+[versions]
+fabric = "0.15.9"
+minecraft = "1.20.1"
