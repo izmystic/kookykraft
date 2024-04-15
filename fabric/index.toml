@@ -421,6 +421,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "077bd2c2db737eec8e8c41b7faab34926cf96736e0d946cb4e1bb33db84857bf"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "66bf8dde3ef8075f20d5b3b93ff35df80e56063000a46b0878b90cb19f7b0ce1"
 metafile = true
@@ -633,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "90d44341ae2126a91ebdd1ecab13a23e2ee0f21af87fc286bb5eb8a53e87e463"
+metafile = true
+
+[[files]]
+file = "mods/statement.pw.toml"
+hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
 metafile = true
 
 [[files]]
