@@ -601,6 +601,11 @@ hash = "b43514f73ebf7e1fcc30882ae98a610794f295709289a6a065515055f9798565"
 metafile = true
 
 [[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "5bcf5b6742a1689ed67578adfe02702fbe710b9d0ea79079bedaebc086d539d9"
 metafile = true
