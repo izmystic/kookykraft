@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
-hash = "b9495ace43368ab8bb1504a7836ab1f55e406d9a96f5c6eca7814bbab9ab6adc"
+hash = "cfbdf7dd93d40c54c9bc7b006e154fa456d760d0e4d830d85e14481d4a9d4dca"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
+hash = "1c8baf39dc5447b05a4adf7ec3ec283ee6d8a2db9c359bdc6a0dcd698c7411f6"
 metafile = true
 
 [[files]]
