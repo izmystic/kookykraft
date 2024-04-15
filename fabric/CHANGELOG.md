@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.4...fabric-v1.0.5) (2024-04-15)
+
+
+### ☀ Modpack Changes
+
+* **fabric/double-doors:** add double-doors ([f04e255](https://github.com/izmystic/kookykraft/commit/f04e255bc1f2e06f92a1249d1bd54888854f86d9))
+
 ## [1.0.4](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.3...fabric-v1.0.4) (2024-04-15)
 
 
