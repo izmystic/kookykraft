@@ -536,6 +536,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "fc17f54efea6b8e4640320a9a96f65af058eed05aa2c2f07b34940ffd91092e4"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
 metafile = true
