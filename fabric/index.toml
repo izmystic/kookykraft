@@ -11,6 +11,11 @@ hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "b9495ace43368ab8bb1504a7836ab1f55e406d9a96f5c6eca7814bbab9ab6adc"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "afac24264bfd01add240bd58e6705c2e3c3cbbe7bdee2563ee3658ab8c3ec18d"
 metafile = true
