@@ -216,11 +216,6 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "1c8baf39dc5447b05a4adf7ec3ec283ee6d8a2db9c359bdc6a0dcd698c7411f6"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "2c1625c08620d5724eda682498afd20e344cbf2fe2b1f486edc2481c530864bf"
 metafile = true
