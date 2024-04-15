@@ -266,6 +266,11 @@ hash = "a91122759d18905df8ae6c86265d02eadd3a2abeda939e96c913ed851555fd34"
 metafile = true
 
 [[files]]
+file = "mods/endertanks.pw.toml"
+hash = "13219878ce27f47e2a1197f8d0c5c54131e26a7a8b47ff0fe241159bd8b8a9ed"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2701f19fc28b3a44eb8bb51db1e65036aa9a541cbe105565ae08f435f96268bc"
 metafile = true
@@ -613,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "dcb97552f92c7b5c6fb6a8f403617bf30336829b482627fa2f3abeaf8bfb86e6"
 metafile = true
 
 [[files]]
