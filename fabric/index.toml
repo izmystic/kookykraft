@@ -271,6 +271,11 @@ hash = "867a44ae75aa88b8b42f8d5673bd8e2b4453401c5ce63e52e2de4fdc72d91595"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
+metafile = true
+
+[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "8c7ce4d65712393c9cb64ad3130aaea3cde54e3d9a6e0ed3b340e38d8078174e"
 metafile = true
