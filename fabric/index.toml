@@ -266,6 +266,11 @@ hash = "a91122759d18905df8ae6c86265d02eadd3a2abeda939e96c913ed851555fd34"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "3c20ab637590cb3b34132ab095d260cce7672938a6e298d541ec490292fd442d"
+metafile = true
+
+[[files]]
 file = "mods/endertanks.pw.toml"
 hash = "13219878ce27f47e2a1197f8d0c5c54131e26a7a8b47ff0fe241159bd8b8a9ed"
 metafile = true
