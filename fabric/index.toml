@@ -641,6 +641,11 @@ hash = "f755f712bb78b28a4d128a24178accce8a6f418957adca184c5538b9327f493e"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
+metafile = true
+
+[[files]]
 file = "mods/tempad.pw.toml"
 hash = "0a3a680ed7c131426ffe490a94bb7d35e456fd586c83a8fb321b0a77e1eb6eb2"
 metafile = true
@@ -653,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/things.pw.toml"
 hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
