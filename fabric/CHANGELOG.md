@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.3...fabric-v1.0.4) (2024-04-15)
+
+
+### ☀ Modpack Changes
+
+* **fabric/bits-and-chisels:** remove bits-and-chisels ([cff7afb](https://github.com/izmystic/kookykraft/commit/cff7afbfaef49a043298c927950df132de8c94e6))
+
 ## [1.0.3](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.1...fabric-v1.0.3) (2024-04-15)
 
 
