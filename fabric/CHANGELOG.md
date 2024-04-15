@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.3](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.1...fabric-v1.0.3) (2024-04-15)
+
+
+### ☀ Modpack Changes
+
+* **fabric/dashloader:** remove dashloader ([8f71925](https://github.com/izmystic/kookykraft/commit/8f71925c7c77033a756f9d01b929afe2db610964))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.0.3 ([f54faf7](https://github.com/izmystic/kookykraft/commit/f54faf73449df823e968507e3ad3a96ba07ec4c7))
+
 ## [1.0.1](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.0...fabric-v1.0.1) (2024-04-15)
 
 
