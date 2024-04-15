@@ -116,11 +116,6 @@ hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "7f7d1d347a6b91ad53d94e17f4b57baf5eb87dd64dbfebe4edae09ea63b84a2e"
 metafile = true
