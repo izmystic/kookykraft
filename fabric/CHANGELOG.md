@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.6...fabric-v1.1.0) (2024-04-16)
+
+
+### ★ Features
+
+* **fabric:** fix sides ([fc39a9e](https://github.com/izmystic/kookykraft/commit/fc39a9e2aa266bb1992680b08f4c84d5e7292e54))
+
 ## [1.0.6](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.5...fabric-v1.0.6) (2024-04-16)
 
 
