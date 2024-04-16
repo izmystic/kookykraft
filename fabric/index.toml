@@ -646,6 +646,11 @@ hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "624b26b1f2def748fab13e6b56f8ea8bab8cbe25c4a01f237437e6da4fe4ed88"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f67e844da15746b63d9eeaf8e83361e10e1982d288a1e6770f6abe254fb395a1"
 metafile = true
