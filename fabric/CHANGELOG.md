@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.5...fabric-v1.0.6) (2024-04-16)
+
+
+### ☀ Modpack Changes
+
+* **fabric:** add athena ([3ad8c0a](https://github.com/izmystic/kookykraft/commit/3ad8c0a674cdbb584bc15b539175b954c233fcb2))
+* **fabric:** add sleep-warp ([7c66022](https://github.com/izmystic/kookykraft/commit/7c66022ca42cba05b48aee90130ff799877f68fe))
+
 ## [1.0.5](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.4...fabric-v1.0.5) (2024-04-15)
 
 
