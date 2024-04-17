@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.7 (2024-04-17)
+
+
+### ★ Features
+
+* **kookykraft:** new folder ([13624dd](https://github.com/izmystic/kookykraft/commit/13624dd50134900ba392d5259f15b2be5c347506))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.0.3 ([f54faf7](https://github.com/izmystic/kookykraft/commit/f54faf73449df823e968507e3ad3a96ba07ec4c7))
+* **main:** release 1.0.7 ([84c6c6e](https://github.com/izmystic/kookykraft/commit/84c6c6e9bd5cb07b24c45bb5690b9fee09640ff8))
+
 ## [1.1.0](https://github.com/izmystic/kookykraft/compare/fabric-v1.0.6...fabric-v1.1.0) (2024-04-16)
 
 
