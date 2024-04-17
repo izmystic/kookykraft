@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "63577d4abd5be5c2b061bd3d5f6bdf0878b7ab0e8e2e0b7f98bdeb50e009134f"
+hash = "2ce4b85768ecd006e8cee9857ab0a80c58571ed8119bf0175d322bfdb5607d09"
 metafile = true
 
 [[files]]
@@ -511,6 +511,11 @@ hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "48103c30f30b24a9c2bcc3cd6d4a72e2e5c4dda00d8af25bbc27b4f8d1af1f0b"
+metafile = true
+
+[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "f68b8ebead2ce9859d357117e846cafbab9003f997c1be04dee11ec94474aa38"
 metafile = true
@@ -652,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp.pw.toml"
-hash = "624b26b1f2def748fab13e6b56f8ea8bab8cbe25c4a01f237437e6da4fe4ed88"
+hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
 metafile = true
 
 [[files]]
