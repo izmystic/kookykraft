@@ -36,6 +36,11 @@ hash = "39a3326f916d937da54dbe1a4b2b19cf976a1056873c40ec4b9a212b64e1e866"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
