@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.12](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.11...kookykraft-v1.0.12) (2024-04-18)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** downgrade do api ([758b17c](https://github.com/izmystic/kookykraft/commit/758b17ce4ed834e2fb6af0a3751bff7cba495b11))
+
 ## [1.0.11](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.10...kookykraft-v1.0.11) (2024-04-18)
 
 
