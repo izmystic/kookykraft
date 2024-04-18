@@ -1,6 +1,10 @@
+name: 'Gitub Release to Discord Webhook'
+
 on:
-  release:
-    types: [created]
+  workflow_run:
+    workflows: [Release Modpack From A Release | Action]
+    types:
+      - completed
 
 jobs:
   github-releases-to-discord:

@@ -55,7 +55,7 @@ runs:
         echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to GitHub Releases as a .mrpack"
       shell: bash
       env:
-        GITHUB_TOKEN: ${{ secrets.ACCOUNT_PAT }}
+        GITHUB_TOKEN: ${{ github.token }}
       working-directory: ${{ inputs.modpack }}
 
     - name: Upload CurseForge Modpack to GitHub Releases
@@ -67,5 +67,5 @@ runs:
         echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to GitHub Releases as a .zip"
       shell: bash
       env:
-        GITHUB_TOKEN: ${{ secrets.ACCOUNT_PAT }}
+        GITHUB_TOKEN: ${{ github.token }}
       working-directory: ${{ inputs.modpack }}
