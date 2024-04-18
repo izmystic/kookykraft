@@ -176,6 +176,11 @@ hash = "72a3735d583544a0d2ceb43b43426d4cda9bf099097216e9824f12272a973025"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
