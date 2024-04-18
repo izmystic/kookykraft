@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.10](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.9...kookykraft-v1.0.10) (2024-04-18)
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update argonauts ([7e9cc68](https://github.com/izmystic/kookykraft/commit/7e9cc68b8785bc4ba7b717c2d51ee1ee69176a17))
+* **kookykraft:** update better combat ([9b42bfd](https://github.com/izmystic/kookykraft/commit/9b42bfd9a6e994b3d73affc637c24fea91a5177f))
+* **kookykraft:** update do api ([8be5c6f](https://github.com/izmystic/kookykraft/commit/8be5c6f1169fad1f73786d6dbe7a8264e57f9e15))
+* **kookykraft:** update every compat ([8f359dd](https://github.com/izmystic/kookykraft/commit/8f359dd50fbb6508363c1e35a6bf213054692b1d))
+* **kookykraft:** update journeymap ([c32a6f1](https://github.com/izmystic/kookykraft/commit/c32a6f19b475c611598988033bffffa932a722c7))
+* **kookykraft:** update modernfix ([4afdd0b](https://github.com/izmystic/kookykraft/commit/4afdd0bb882d42ab75e79e6befba0bd71f9113a2))
+* **kookykraft:** update yungs better dungeons ([833be00](https://github.com/izmystic/kookykraft/commit/833be0099998899c219b35f778a16785795fde88))
+
 ## [1.0.9](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.8...kookykraft-v1.0.9) (2024-04-18)
 
 
