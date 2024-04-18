@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.11](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.10...kookykraft-v1.0.11) (2024-04-18)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add chipped ([c9d6a6b](https://github.com/izmystic/kookykraft/commit/c9d6a6b7e13c882a330c4dac66d21fa14869578f))
+* **kookykraft:** add chunky ([83f6568](https://github.com/izmystic/kookykraft/commit/83f6568d5c4dfc5c3d39d5cb2ebe9211e86b2c0b))
+* **kookykraft:** add tooltipfix ([a62e49c](https://github.com/izmystic/kookykraft/commit/a62e49c576461602757e5580a665a899f0ecb9a8))
+
 ## [1.0.10](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.9...kookykraft-v1.0.10) (2024-04-18)
 
 
