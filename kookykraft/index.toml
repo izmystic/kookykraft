@@ -66,11 +66,6 @@ hash = "f328312f56dc4dcd1a28808989d9a6fa424f206999d56a344a047d7e68974893"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
-metafile = true
-
-[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
 metafile = true
