@@ -246,6 +246,11 @@ hash = "6cbd5c96694c4f76563a640abbc1ae1f42029b31b877a08be9b8df210ee5f24d"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/elytra_trinket.pw.toml"
 hash = "755a85188faa0c454c1c52498274c3286a19a31c82bd1693b5bdc261cead213c"
 metafile = true
