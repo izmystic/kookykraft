@@ -66,6 +66,11 @@ hash = "f328312f56dc4dcd1a28808989d9a6fa424f206999d56a344a047d7e68974893"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "303c50a88955169354363c01890adc461d0be1f30a2f364be005abae62651acf"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
