@@ -57,7 +57,7 @@ runs:
         uses: cardinalby/git-get-release-action@v1
         id: latest-release
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.ACCOUNT_PAT }}
         with:
           tag: ${{ inputs.release-tag }}
 
