@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.9](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.8...kookykraft-v1.0.9) (2024-04-18)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add continuity ([7d073d8](https://github.com/izmystic/kookykraft/commit/7d073d804a3498ecdf493eae95061ef44c7cc268))
+* **kookykraft:** add enhanced block entities ([400f7e8](https://github.com/izmystic/kookykraft/commit/400f7e87f4bfa361723ea92ed91998b74ad4097e))
+* **kookykraft:** add moreculling ([5b6ddab](https://github.com/izmystic/kookykraft/commit/5b6ddab4c5ca55dfc055e875fcdd8d6170e567f4))
+* **kookykraft:** remove athena ([c0991b7](https://github.com/izmystic/kookykraft/commit/c0991b77eef2f5056287895f327f75b7eaf2cbca))
+
 ## [1.0.8](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.7...kookykraft-v1.0.8) (2024-04-17)
 
 
