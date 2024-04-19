@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.13](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.12...kookykraft-v1.0.13) (2024-04-19)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add packet fixer ([c8f373f](https://github.com/izmystic/kookykraft/commit/c8f373fb72978326f6d3cfb15aa22b0a45be10c6))
+
 ## [1.0.12](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.11...kookykraft-v1.0.12) (2024-04-18)
 
 
