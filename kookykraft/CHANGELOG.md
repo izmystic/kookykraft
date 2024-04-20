@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.14](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.13...kookykraft-v1.0.14) (2024-04-20)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add heart canisters ([f72598d](https://github.com/izmystic/kookykraft/commit/f72598d9e37629be7fe4d1d1818a2e4a0449e59c))
+* **kookykraft:** add hephaestus ([8ef0dd5](https://github.com/izmystic/kookykraft/commit/8ef0dd5ae281bbbda8cae0fc507f0571d00a3a41))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update entity model features ([dcdeb6b](https://github.com/izmystic/kookykraft/commit/dcdeb6bb7028202147365e7140494f75fe854734))
+* **kookykraft:** update entity texture features ([6fde3fb](https://github.com/izmystic/kookykraft/commit/6fde3fb5afcb3150fcef3a39f41c6b51a6066546))
+* **kookykraft:** update lavender ([2b478d2](https://github.com/izmystic/kookykraft/commit/2b478d204d2c5d756a2aac4ef4cdbefe2949a06f))
+
 ## [1.0.13](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.12...kookykraft-v1.0.13) (2024-04-19)
 
 
