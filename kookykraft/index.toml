@@ -931,6 +931,11 @@ hash = "a0901b4370db28295247f597239c174a7c37fa1bee4683850d0586c1ca776a2d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "dc2e282212a7aa26776893e60bd53f16710645f81f7a3a5d67d72cc7f884c9d5"
 metafile = true
