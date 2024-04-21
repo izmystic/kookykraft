@@ -331,6 +331,11 @@ hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "6d084c374baf3f5168236755b2dd68e66a1e463dfdeffdd3ffe55a1fd5271dac"
+metafile = true
+
+[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "8c7ce4d65712393c9cb64ad3130aaea3cde54e3d9a6e0ed3b340e38d8078174e"
 metafile = true
