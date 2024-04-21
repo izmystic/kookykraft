@@ -836,6 +836,11 @@ hash = "8d531e14178e1273592625607dd194bee84cdbfc4bee4459621f400d8e583c05"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
