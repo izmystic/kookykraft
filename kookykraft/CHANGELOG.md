@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.0.15](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.14...kookykraft-v1.0.15) (2024-04-21)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Default Dark Mode ([9e346f7](https://github.com/izmystic/kookykraft/commit/9e346f75e3c98130535438a31541eb6902d6d857))
+* **kookykraft:** add EMI Addon: Extra Mod Integrations ([8c10c37](https://github.com/izmystic/kookykraft/commit/8c10c37ddc78f9339d784c6b47f19c22e766e174))
+* **kookykraft:** add EMI Ores ([1b33e9a](https://github.com/izmystic/kookykraft/commit/1b33e9ad4fed7cf7a37fab4860a3ea2aeb4226e6))
+* **kookykraft:** add Simple Voice Chat ([d118d44](https://github.com/izmystic/kookykraft/commit/d118d44bf2c4612d48959e1e14cece6f9861a801))
+* **kookykraft:** add Voice Chat Interaction ([bdae518](https://github.com/izmystic/kookykraft/commit/bdae518bff0ab4a120a41993c2b78df3fe25f578))
+* **kookykraft:** remove sleep warp ([2272ca6](https://github.com/izmystic/kookykraft/commit/2272ca6c4244c7665183cd200c1264dccabf6af5))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Collective ([271cb21](https://github.com/izmystic/kookykraft/commit/271cb21ee270d535e2fc4dd8ebbf7e40adf00d3d))
+* **kookykraft:** update Create: Steam 'n' Rails ([6ec5702](https://github.com/izmystic/kookykraft/commit/6ec5702ecadaa688ed75d8dbd4cd2f50f6741861))
+* **kookykraft:** update Explorify ([b6b178b](https://github.com/izmystic/kookykraft/commit/b6b178b46514c77b647c2479f7a6fcb1f426f434))
+* **kookykraft:** update More Culling ([a185892](https://github.com/izmystic/kookykraft/commit/a185892b048198174ad4c0f933e8901d2c52dae8))
+* **kookykraft:** update Packet Fixer ([c727a09](https://github.com/izmystic/kookykraft/commit/c727a096a24d4386a02d2b5c1bd26905323ca0d5))
+* **kookykraft:** update Voice Chat Interaction side ([f73c6b3](https://github.com/izmystic/kookykraft/commit/f73c6b3cb7a0bb9bb841eda2e2608cec3025c4a8))
+
 ## [1.0.14](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.13...kookykraft-v1.0.14) (2024-04-20)
 
 
