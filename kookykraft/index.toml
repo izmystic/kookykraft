@@ -276,6 +276,11 @@ hash = "2ce4b85768ecd006e8cee9857ab0a80c58571ed8119bf0175d322bfdb5607d09"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "6cbd5c96694c4f76563a640abbc1ae1f42029b31b877a08be9b8df210ee5f24d"
 metafile = true
