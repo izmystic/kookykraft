@@ -1,6 +1,6 @@
 name = "[ETF] Entity Texture Features"
 filename = "entity_texture_features_fabric_1.20.1-6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/gSrsrmM1/entity_texture_features_fabric_1.20.1-6.0.jar"

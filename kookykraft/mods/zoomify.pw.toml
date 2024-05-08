@@ -1,6 +1,6 @@
 name = "Zoomify"
 filename = "Zoomify-2.11.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.jar"
