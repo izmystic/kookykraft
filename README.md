@@ -1,86 +1,222 @@
-<div align="center">
-  <img src="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/003f8682-7e4f-4797-bdc8-2610a5d505de" alt="Logo">
-</div>
+## kookykraft: Where Tech Meets Magic!
+kookykraft is a Minecraft modpack for the curiously inclined.  Ditch the ordinary and embrace the extraordinary! This pack throws open the doors to a world brimming with **advanced technology** and **potent magic**. Build elaborate machines, automate your life, then delve into the mysteries of arcane arts, crafting powerful artifacts and mastering forgotten spells.
 
-<p align="center">Streamline the Minecraft Modpack Release Process with GitHub Actions!</p>
+kookykraft offers a unique blend of styles, perfect for players who crave both innovation and wonder. The possibilities are endless! So grab your tools, fire up your imagination, and get ready to write your own kooky legend in Kookykraft!
 
-<p align="center">
-  <a href="https://github.com/badges/shields/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github&style=for-the-badge" alt="Use this template"></a>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge" alt="GitHub Actions Badge">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge" alt="Minecraft Badge">
-</p>
-
----
-**mc-modpack-kit** is a GitHub Actions workflow template designed to simplify the release process of Minecraft modpacks using a structured monorepo approach. It automates essential tasks such as versioning, modpack building, and publishing on platforms like Modrinth and CurseForge. 
-
-It also includes an `nix flake` for you fellow nix enjoyers! The actions also use it!
-
-### Key Features
-
-1. **Monorepo Structure**
-
-   Embrace the power of organization with a monorepo-style architecture. Each subdirectory represents a different modpack version or loader type, streamlining your management of multiple modpack variations within a single repository.
-
-   Example subdirectories:
-   - `fabric/`: Fabric loader version.
-   - `forge/`: Forge loader version.
-
-   You can create more just by initializing packwiz in the said directory of your choosing.
-
-2. **Automated Releases**
-
-   Experience effortless version control with Release Please, which generates changelogs and handles version releases automatically, in sync with your pull requests. Maintain clarity with Conventional Commit Messages.
-
-   Examples:
-    - `feat(modpack/<mod>): <description>` for adding new features, configurations or content.
-    - `chore(modpack/<mod>): <description>` for routine maintenance tasks or cleanups.
-    - `update(modpack/<mod>): update <mod>` for updating mods to newer versions.
-    - `mod(modpack/<mod>): add <mod>` for introducing new mods to the modpack.
-       
-4. **Mod Updates**
-
-   Update your mods effortlessly by utilizing the `update.yml` workflow located in `.github/workflows/update.yml`. This action efficiently updates all mods across all subdirectories.
-
-### Getting Started
-
-1. **Fork the Repository**
-
-   Start by forking this repository to your GitHub account.
-
-2. **Set Up Secrets and Permissions**
-
-   - Navigate to "Settings" -> "Secrets" and add the following secrets:
-     - `MODRINTH_TOKEN`, `MODRINTH_ID` for Modrinth authentication.
-     - `CURSEFORGE_TOKEN`, `CURSEFORGE_ID` for CurseForge authentication.
-   - Enable "Allow GitHub Actions to create and approve pull requests" under "Settings" -> "Actions" -> "General" -> "Workflow permissions".
-
-3. **Initialize Your Modpack**
-
-   - Generate a `pack.toml` file using `packwiz` (installation instructions [here](https://packwiz.infra.link/installation/)) within a modpack folder.
-   - Begin by running `packwiz init`, preferably within the `main` directory.
-  
-4. **Set a release channel**
-   - By default this template uses the `beta (0.1.0)` channel, you can switch it to `release (1.0.0)` when you are ready!
-   - This can be done via executing `.github/workflows/bump-version-release.yml`!
-
-5. **You are good to go!**
-   - You can now merge the release PR that release please has made, sit back and enjoy a cup of coffee! ☕ ^-^
-
-### Troubleshooting and Support
-
-If you encounter any issues or need assistance, consult the [Issues](https://github.com/jh-devv/mc-modpack-kit/issues) page or reach out via my GitHub profile.
-
-### License
-
-This project is licensed under the [CC0 1.0 Universal License](LICENSE).
-
-### Acknowledgments
-
-- This project makes effective use of GitHub Actions and various tools to automate the modpack release process.
-- A heartfelt ❤️ thank you to [Rafii](https://github.com/Rafii2198) for helping with this!
-- Special thanks to the GitHub community for their contributions and support.
-
----
-
-Contributions, feedback, and improvements are warmly welcomed! Let's propel this project forward together! 🚀
+### Mod List
+- [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
+- [**AE2 EMI Crafting Integration**](https://modrinth.com/mod/ae2-emi-crafting) - Adds support for crafting with EMI on Applied Energistics 2 terminals
+- [**Ad Astra**](https://modrinth.com/mod/ad-astra) - Live long and prosper, Ad Astra!
+- [**Additional Structures**](https://modrinth.com/mod/additional-structures) - Adds >200 new structures that integrate perfectly into your world!
+- [**Advanced Netherite**](https://modrinth.com/mod/advanced-netherite) - A vanilla and add-on friendly, open-source mod that adds in more tiers of Netherite!
+- [**Alternate Origin GUI**](https://modrinth.com/mod/altorigingui) - Overhauls the origin selection screen to show multiple in a grid for selection.
+- [**Amecs**](https://modrinth.com/mod/amecs) - Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.
+- [**Another Furniture**](https://modrinth.com/mod/another-furniture) - Vanilla-styled Minecraft furniture mod.
+- [**AppleSkin**](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
+- [**Applied Energistics 2**](https://modrinth.com/mod/ae2) - AE2: A popular automation and storage mod
+- [**Archers (RPG Series)**](https://modrinth.com/mod/archers) - 🏹 Draw, Release, Conquer - Master the art of Archery!
+- [**Architectury API**](https://modrinth.com/mod/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
+- [**Archon**](https://modrinth.com/mod/archon) - Sorcery, Necromancy, Bosses, and More!
+- [**Argonauts**](https://modrinth.com/mod/argonauts) - A guild and party mod to work and play together with your teammates on a server!
+- [**Armorful**](https://modrinth.com/mod/armorful) - Adds armor for various mobs naturally.
+- [**Athena**](https://modrinth.com/mod/athena-ctm) - A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+
+- [**AttributeFix**](https://modrinth.com/mod/attributefix) - Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!
+- [**AzureLib**](https://modrinth.com/mod/azurelib) - Based off Geckolib but now just for my own needs.
+- [**AzureLib Armor**](https://modrinth.com/mod/azurelib-armor) - A striped down Azurelib just for Armor!
+- [**BCLib**](https://modrinth.com/mod/bclib) - A Library Mod for the BetterX Team
+- [**BSL Shaders**](https://modrinth.com/mod/bsl-shaders) - Shaderpack for Minecraft: Java Edition. It's bright, colorful, and distinct.
+- [**Balm**](https://modrinth.com/mod/balm) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
+- [**Better Advancements**](https://modrinth.com/mod/better-advancements) - Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment
+- [**Better Combat**](https://modrinth.com/mod/better-combat) - ⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.
+- [**Better Ping Display [Fabric]**](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
+- [**BetterEnd**](https://modrinth.com/mod/betterend) - New Biomes, mysterious rituals and Mobs for your End
+- [**BetterF3**](https://modrinth.com/mod/betterf3) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
+- [**BetterNether**](https://modrinth.com/mod/betternether) - More Biomes, More Mobs, More Tools for the fiery Dimension
+- [**Borderless Mining**](https://modrinth.com/mod/borderless-mining) - Changes Fullscreen to use a borderless window.
+- [**Bosses of Mass Destruction**](https://modrinth.com/mod/bosses-of-mass-destruction) - Adds boss fights to minecraft
+- [**Botarium**](https://modrinth.com/mod/botarium) - A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things
+- [**CC: Tweaked**](https://modrinth.com/mod/cc-tweaked) - ComputerCraft fork adding programmable computers, turtles and more to Minecraft.
+- [**CIT Resewn**](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)
+- [**Capes**](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
+- [**Cardinal Components API**](https://modrinth.com/mod/cardinal-components-api) - A data attachment API that is easy, modular, and extremely fast.
+- [**Chat Heads**](https://modrinth.com/mod/chat-heads) - See who you're chatting with!
+- [**Chipped**](https://modrinth.com/mod/chipped) - Every block deserves a friend.
+- [**ChoiceTheorem's Overhauled Village**](https://modrinth.com/mod/ct-overhaul-village) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
+- [**Chunky**](https://modrinth.com/mod/chunky) - Pre-generates chunks, quickly and efficiently
+- [**Cinderscapes**](https://modrinth.com/mod/cinderscapes) - A biome mod expanding the life of The Nether
+- [**Cloth Config API**](https://modrinth.com/mod/cloth-config) - Configuration Library for Minecraft Mods
+- [**Collective**](https://modrinth.com/mod/collective) - 🎓 Collective is a shared library with common code for all of Serilum's mods.
+- [**Combat Roll**](https://modrinth.com/mod/combat-roll) - 🧶 Adds combat roll ability, with related attributes and enchantments.
+- [**Complementary Shaders - Reimagined**](https://modrinth.com/mod/complementary-reimagined) - Preserving the elements of Minecraft with exceptional quality, detail, and performance.
+- [**Complementary Shaders - Unbound**](https://modrinth.com/mod/complementary-unbound) - Transforming the visuals of Minecraft with exceptional quality, detail, and performance.
+- [**Concurrent Chunk Management Engine (Fabric)**](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
+- [**Continuity**](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures
+- [**Cosmetic Armor**](https://modrinth.com/mod/cosmetic-armor) - Adds 4 Curios/Trinkets slots for visual armor overrides.
+- [**Create Crafts & Additions**](https://modrinth.com/mod/createaddition) - Create Crafts & Additions extends Create and acts as a bridge between electricity and kinetic energy
+- [**Create Deco**](https://modrinth.com/mod/create-deco) - Industrial decoration themed around the aesthetics of the Create mod.
+- [**Create Enchantment Industry Fabric**](https://modrinth.com/mod/create-enchantment-industry-fabric) - Automatic Enchanting, with Create
+- [**Create Fabric**](https://modrinth.com/mod/create-fabric) - Building Tools and Aesthetic Technology
+- [**Create Goggles**](https://modrinth.com/mod/create-goggles) - Adds Goggle Helmets and Armored Backtanks for Create Mod
+- [**Create: Steam 'n' Rails**](https://modrinth.com/mod/create-steam-n-rails) - Adding depth to Create's rail network & steam system
+- [**Create: Structures**](https://modrinth.com/mod/create-structures) - Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.
+- [**Deeper and Darker**](https://modrinth.com/mod/deeperdarker) - A Minecraft 1.19+ mod which features more blocks, items, armors, and hidden mysteries to complement the new Deep Dark biome. Our website: https://kyanitemods.dev
+- [**Default Dark Mode**](https://modrinth.com/mod/default-dark-mode) - 🌙 The Dark Mode Resource Pack for Minecraft: Java Edition
+- [**Disenchanter**](https://modrinth.com/mod/disenchanter) - A flexible Disenchanter because loot shouldn't go to waste
+- [**Double Doors**](https://modrinth.com/mod/double-doors) - 🚪 Multiple identical double doors, trapdoors and fence gates can be opened simultaneously.
+- [**Dungeons and Taverns**](https://modrinth.com/mod/dungeons-and-taverns) - A Structure Datapack adding dungeons, taverns and other structures to find while you explore the world.
+- [**EMI**](https://modrinth.com/mod/emi) - A featureful and accessible item and recipe viewer
+- [**EMI Addon: Extra Mod Integrations**](https://modrinth.com/mod/extra-mod-integrations) - EMI addon adding support for as many mods as possible
+- [**EMI Enchanting**](https://modrinth.com/mod/emi-enchanting) - EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.
+- [**EMI Loot**](https://modrinth.com/mod/emi-loot) - A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.
+- [**EMI Ores**](https://modrinth.com/mod/emi-ores) - Easily view ore generation information from inside EMI.
+- [**EMI Trades**](https://modrinth.com/mod/emitrades) - Villager trading for EMI.
+- [**EMIffect**](https://modrinth.com/mod/emiffect) - EMI addon that appends status effects in EMI and provides information about each status effect.
+- [**Eating Animation**](https://modrinth.com/mod/eating-animation) - A mod that adds sprite animations for edible and drinkable items.
+- [**Eldritch End**](https://modrinth.com/mod/eldritch-end) - Descend into madness with new end biomes, forbidden magic, and more.
+- [**Elytra Trinket**](https://modrinth.com/mod/elytra_trinket) - A Minecraft Fabric mod that adds the Elytra to the cape slot in the Trinkets API.
+- [**EnderChests**](https://modrinth.com/mod/enderchests) - Adds linked Chests and Bags that share inventory. Can be Public, Personal, or Team, each with their own set of storage available. Works across dimensions.
+- [**EnderTanks**](https://modrinth.com/mod/endertanks) - Adds linked Tanks and Buckets that share inventory. Can be Public, Personal, or Team, each with their own set of storage available. Works across dimensions.
+- [**Enhanced Block Entities**](https://modrinth.com/mod/ebe) - Reduce FPS lag with block entities, as well as customize them with resource packs
+- [**Entity Culling**](https://modrinth.com/mod/entityculling) - Using async path-tracing to hide Block-/Entities that are not visible
+- [**Every Compat (Wood Good)**](https://modrinth.com/mod/every-compat) - Universal Wood Compat: Quark, Twilight Forest, Twigs, Another Furniture, Farmers Delight, Macaw's,  Valhelsia, Architects Palette, Deco Blocks, Crayfish FM
+- [**Explorify**](https://modrinth.com/mod/explorify) - An integrated vanilla-friendly collection of new dungeons and structures
+- [**Extra Origins**](https://modrinth.com/mod/extra-origins) - Adds more origins to the Origins mod
+- [**Fabric API**](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+- [**Fabric Language Kotlin**](https://modrinth.com/mod/fabric-language-kotlin) - This is a mod that enables usage of the Kotlin programming language for Fabric mods.
+- [**Fabric Seasons**](https://modrinth.com/mod/fabric-seasons) - A simple mod that adds seasons to the game, dynamically changing biomes as you play.
+- [**Fabric Seasons: Delight Compat**](https://modrinth.com/mod/fabric-seasons-delight-compat) - Farmer's Delight compatibility for Fabric Seasons
+- [**Fabric Seasons: Extras**](https://modrinth.com/mod/fabric-seasons-extras) - Custom blocks and items to make your Fabric Seasons experience better.
+- [**Fabric Seasons: Terraformers Compat**](https://modrinth.com/mod/fabric-seasons-terraformers-compat) - Traverse and Terrestria compatibility for Fabric Seasons
+- [**Falling Leaves**](https://modrinth.com/mod/fallingleaves) - Adds a neat little particle effect to leaf blocks
+- [**Farmer's Delight Refabricated**](https://modrinth.com/mod/farmers-delight-refabricated) - Modern Fabric port of the cooking and farming mod, "Farmer's Delight"
+- [**FerriteCore**](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
+- [**First-person Model**](https://modrinth.com/mod/first-person-model) - Enables the third-person Model in first-person
+- [**Forge Config API Port**](https://modrinth.com/mod/forge-config-api-port) - NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
+- [**Geckolib**](https://modrinth.com/mod/geckolib) - A 3D animation library for entities, blocks, items, armor, and more!
+- [**Geophilic**](https://modrinth.com/mod/geophilic) - A subtle overhaul of vanilla Overworld biomes
+- [**Heart Canisters**](https://modrinth.com/mod/heartcanister) - Adds Tinkers' Construct-like Heart Canisters
+- [**Hephaestus**](https://modrinth.com/mod/hephaestus) - Modify all the things, then do it again! Fabric port of Tinkers' Construct
+- [**Heracles**](https://modrinth.com/mod/heracles) - A tree-style questing mod, allowing pack makers to make and include completable quests for their players
+- [**Idwtialsimmoedm**](https://modrinth.com/mod/idwtialsimmoedm) - I didn't want to install a library so I made my own Enchantment Descriptions mod
+- [**ImmediatelyFast**](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
+- [**Immersive Armors**](https://modrinth.com/mod/immersive-armors) - A lot of unique and vanilla-faithful armor sets.
+- [**Indium**](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
+- [**Iris Shaders**](https://modrinth.com/mod/iris) - A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
+- [**Iron Chests: Restocked**](https://modrinth.com/mod/ironchests) - Iron Chests: Restocked provide multiple variants of chests that increase in size and have different properties.
+- [**Item Alchemy**](https://modrinth.com/mod/item-alchemy) - Add an EMC system like Project E. It can equivalent exchange of items.
+- [**Jewelry (RPG Series)**](https://modrinth.com/mod/jewelry) - 💍 Find precious gems deep down, and craft them into powerful jewelry!
+- [**JourneyMap**](https://modrinth.com/mod/journeymap) - Real-time mapping in game or in a web browser as you explore.
+- [**Keebsz's Battletowers**](https://modrinth.com/mod/keebszs-battletowers) - Climb your way to the top of the tower and defeat the boss if you can!
+- [**Knaves' Needs**](https://modrinth.com/mod/knaves-needs) - Additional swords for Simply Swords.
+- [**Krypton**](https://modrinth.com/mod/krypton) - A mod to optimize the Minecraft networking stack
+- [**LambDynamicLights**](https://modrinth.com/mod/lambdynamiclights) - A dynamic lights mod for Fabric.
+- [**Lanterns Belong on Walls**](https://modrinth.com/mod/lanterns-bow) - Allows the placement of lanterns on walls.
+- [**Lavender**](https://modrinth.com/mod/lavender) - A Guidebook API and alternative to Patchouli
+- [**LazyDFU**](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization
+- [**Lithium**](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
+- [**Lithostitched**](https://modrinth.com/mod/lithostitched) - Library mod with new configurability and compatibility enhancements for worldgen
+- [**Lookin' sharp**](https://modrinth.com/mod/lookin-sharp) - A combat mod which expands the vanilla melee weapon options!
+- [**Lootr**](https://modrinth.com/mod/lootr) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
+- [**MC Dungeons Armors**](https://modrinth.com/mod/mcda) - Bringing the armors of Minecraft Dungeons to Minecraft
+- [**MC Dungeons Weapons**](https://modrinth.com/mod/mcdw) - Adds the weapons, tools and weapon enchantments from Minecraft Dungeons
+- [**MCPitanLib**](https://modrinth.com/mod/mcpitanlibarch) - Pitan's Minecraft Mod Library (Architectury API)
+- [**Macaw's Bridges**](https://modrinth.com/mod/macaws-bridges) - A simple mod that adds a lot of bridges!
+- [**Macaw's Doors**](https://modrinth.com/mod/macaws-doors) - Adds vanilla doors with every wood color and new unique doors! Such as western, garage, shoji and more...!
+- [**Macaw's Fences and Walls**](https://modrinth.com/mod/macaws-fences-and-walls) - Adds new vanilla styled fences, walls and gates!
+- [**Macaw's Lights and Lamps**](https://modrinth.com/mod/macaws-lights-and-lamps) - Adds vanilla styled lamps, torches, street lamps, paper lamps, wall lamps, slabs... Make your world brighter!
+- [**Macaw's Paintings**](https://modrinth.com/mod/macaws-paintings) - Adds custom drawn paintings to fit in your world!
+- [**Macaw's Paths and Pavings**](https://modrinth.com/mod/macaws-paths-and-pavings) - Adds vanila styled paths and pavings!
+- [**Macaw's Roofs**](https://modrinth.com/mod/macaws-roofs) - Build roofs with actual roofs instead of stairs!
+- [**Macaw's Trapdoors**](https://modrinth.com/mod/macaws-trapdoors) - Adds vanila trapdoors in every plank variation, and some new trapdoors too!
+- [**Macaw's Windows**](https://modrinth.com/mod/macaws-windows) - Adds lots of Windows, Mosaic Glass, Blinds, Shutters, Curtains and more...!
+- [**Marium's Soulslike Weaponry**](https://modrinth.com/mod/mariums-soulslike-weaponry) - A minecraft mod that adds new bosses and legendary weapons
+- [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix) - A mod that fixes random memory leaks for both the client and server
+- [**MidnightLib**](https://modrinth.com/mod/midnightlib) - Common library with a built-in configuration system
+- [**Mine Cells - Dead Cells Mod**](https://modrinth.com/mod/minecells) - Dead Cells content in Minecraft
+- [**Mod Menu**](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
+- [**Modern Dynamics**](https://modrinth.com/mod/modern-dynamics) - Modern item and fluid transport for Fabric, inspired by Thermal Dynamics.
+- [**Modern Industrialization**](https://modrinth.com/mod/modern-industrialization) - Modern Industrialization is a standalone tech mod, where the ultimate objective is total automation. Of course, there is a long way to go before getting there. Can you do it?
+- [**ModernFix**](https://modrinth.com/mod/modernfix) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
+- [**Moonlight Lib**](https://modrinth.com/mod/moonlight) - dynamic data pack and registration, villager activities, custom map marker and a lot more
+- [**More Culling**](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
+- [**Mouse Wheelie**](https://modrinth.com/mod/mouse-wheelie) - A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more!
+- [**Mutant Monsters**](https://modrinth.com/mod/mutant-monsters) - The mutants are back! Face scary creatures and powerful beasts like never before.
+- [**Mythic Mobs**](https://modrinth.com/mod/mythic-mobs) - Discover a world of mythical creatures in Minecraft
+- [**Mythic Mounts**](https://modrinth.com/mod/mythic-mounts) - Befriend legendary creatures to accompany you across the world!
+- [**Naturalist**](https://modrinth.com/mod/naturalist) - Adds new immersive wildlife with realistic behavior!
+- [**Necronomicon API**](https://modrinth.com/mod/necronomicon) - A personal utility library for my mods.
+- [**Not Enough Animations**](https://modrinth.com/mod/not-enough-animations) - Bringing first-person animations to the third-person
+- [**Orb of Origin Plus**](https://modrinth.com/mod/orb-of-origin-plus) - Makes the orb of origin possible to obtain in survival mode.
+- [**Origins**](https://modrinth.com/mod/origins) - Players choose an Origin at the beginning of the game to gain benefits and drawbacks
+- [**Origins++**](https://modrinth.com/mod/origins-plus-plus) - A collection of more than 100 origins to fully expand the origins experience.
+- [**OriginsTweaks**](https://modrinth.com/mod/originstweaks) - Reworks the Origins Mod's abilities and adds new ones.
+- [**Packet Fixer**](https://modrinth.com/mod/packet-fixer) - A simple mod to solve various problems with packets.
+- [**Paladins & Priests (RPG Series)**](https://modrinth.com/mod/paladins-and-priests) - ✨ Protect and heal your friends as a Paladin or a Priest
+- [**Patchouli**](https://modrinth.com/mod/patchouli) - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers
+- [**Pehkui**](https://modrinth.com/mod/pehkui) - Lets you change the size of most entities, shrinking them smaller or growing them larger
+- [**Powah!**](https://modrinth.com/mod/powah) - A tech mod that adds various ways to generate, store and transmit Energy.
+- [**Presence Footsteps**](https://modrinth.com/mod/presence-footsteps) - ..An Overly complicated Sound Mod...
+- [**Puzzles Lib**](https://modrinth.com/mod/puzzles-lib) - Why's it called Puzzles you ask? That's the puzzle!
+- [**Qu Enchantments**](https://modrinth.com/mod/qu-enchantments) - Adds Vanilla inspired enchantments to the game.
+- [**Ranged Weapon API**](https://modrinth.com/mod/ranged-weapon-api) - 🏹 Create fully functional bows and crossbows, with ease
+- [**Reese's Sodium Options**](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium
+- [**Resourceful Config**](https://modrinth.com/mod/resourceful-config) - Resourceful Config is a mod that allows for developers to make cross-platform configs
+- [**Resourceful Lib**](https://modrinth.com/mod/resourceful-lib) - Resourceful Lib
+- [**Rethinking Voxels**](https://modrinth.com/mod/rethinking-voxels) - [WIP] A gameplay shaderpack based on complementary reimagined that has coloured block light with sharp shadows
+- [**Runes**](https://modrinth.com/mod/runes) - 🪨 Craft runes to serve as ammo for spells
+- [**Sawmill**](https://modrinth.com/mod/universal-sawmill) - Ultimate Woodcutter. As it was intented, compatible with any mod, automatically. Includes Carpenter Villager
+- [**ShetiPhianCore**](https://modrinth.com/mod/shetiphiancore) - Required for ShetiPhians Mods
+- [**Simple Voice Chat**](https://modrinth.com/mod/simple-voice-chat) - A working voice chat in Minecraft!
+- [**Simply Swords**](https://modrinth.com/mod/simply-swords) - Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!
+- [**Sodium**](https://modrinth.com/mod/sodium) - A modern rendering engine for Minecraft which greatly improves performance
+- [**Sodium Extra**](https://modrinth.com/mod/sodium-extra) - A Sodium addon that adds features that shouldn't be in Sodium.
+- [**Solas Shader**](https://modrinth.com/mod/solas-shader) - A good performing fantasy stylised shaderpack with colored lighting and fancy volumetrics
+- [**Spell Engine**](https://modrinth.com/mod/spell-engine) - 🪄 Data driven magic library
+- [**Spell Power Attributes**](https://modrinth.com/mod/spell-power) - 🔮 Spell Power entity attributes with related status effects and enchantments
+- [**Statement**](https://modrinth.com/mod/statement) - Library for blockstate property manipulation
+- [**Structure Pool API**](https://modrinth.com/mod/structure-pool-api) - 📚 API to inject structures into structure pools.
+- [**SuperMartijn642's Core Lib**](https://modrinth.com/mod/supermartijn642s-core-lib) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
+- [**Tempad**](https://modrinth.com/mod/tempad) - Create a portal to anywhere from anywhere
+- [**Terrestria**](https://modrinth.com/mod/terrestria) - Terrestria is a detailed and vibrant biomes mod for Minecraft running on the Fabric mod loader.
+- [**The Graveyard (FABRIC)**](https://modrinth.com/mod/the-graveyard-fabric) - A mod that adds structures, mobs, bosses and blocks themed aroung the graveyard.
+- [**The Lost Castle**](https://modrinth.com/mod/the-lost-castle) - Former structure of End Remastered, The Lost Castle introduces an enormous castle. Inside resides infinite fortune and mysteries from a long forgotten civilization that disappeared a long time ago...
+- [**Things**](https://modrinth.com/mod/things) - Trinkets and Utilities to enhance casual play
+- [**ToolTipFix**](https://modrinth.com/mod/tooltipfix) - Fixes Tooltips from runnning off the screen.
+- [**Trash Cans**](https://modrinth.com/mod/trash-cans) - Trash Cans adds trash cans which can be used to void items, liquids, and energy!
+- [**Traveler's Backpack**](https://modrinth.com/mod/travelersbackpack) - Unique and upgradeable backpacks with customisation, Curios API/Trinkets integration and more!
+- [**Traverse**](https://modrinth.com/mod/traverse) - A biome expansion mod that embraces the simplistic nature of Minecraft biomes
+- [**Trinkets**](https://modrinth.com/mod/trinkets) - A data-driven accessory mod
+- [**Voice Chat Interaction**](https://modrinth.com/mod/voice-chat-interaction) - Voice chat skulk sensor activation and warden detection
+- [**WTHIT**](https://modrinth.com/mod/wthit) - What the hell is that?
+- [**Waystones**](https://modrinth.com/mod/waystones) - Teleport back to activated waystones. For Survival, Adventure or Servers.
+- [**When Dungeons Arise**](https://modrinth.com/mod/when-dungeons-arise) - Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!
+- [**Wizards (RPG Series)**](https://modrinth.com/mod/wizards) - 🧙🏻‍♂️ Destroy your enemies with Arcane, Fire and Frost magic
+- [**YUNG's API**](https://modrinth.com/mod/yungs-api) - Library mod for YUNG's mods.
+- [**YUNG's Better Desert Temples**](https://modrinth.com/mod/yungs-better-desert-temples) - A complete redesign of Minecraft's desert temples!
+- [**YUNG's Better Dungeons**](https://modrinth.com/mod/yungs-better-dungeons) - A complete redesign of Minecraft's dungeons!
+- [**YUNG's Better End Island**](https://modrinth.com/mod/yungs-better-end-island) - An overhaul of the main End Island where the dragon fight takes place!
+- [**YUNG's Better Jungle Temples**](https://modrinth.com/mod/yungs-better-jungle-temples) - A complete redesign of Minecraft's jungle temples!
+- [**YUNG's Better Mineshafts**](https://modrinth.com/mod/yungs-better-mineshafts) - A long-awaited and much-needed abandoned mineshaft overhaul!
+- [**YUNG's Better Nether Fortresses**](https://modrinth.com/mod/yungs-better-nether-fortresses) - A complete redesign of Minecraft's Nether fortresses!
+- [**YUNG's Better Ocean Monuments**](https://modrinth.com/mod/yungs-better-ocean-monuments) - A complete redesign of Minecraft's ocean monuments!
+- [**YUNG's Better Strongholds**](https://modrinth.com/mod/yungs-better-strongholds) - A complete redesign of Minecraft's strongholds!
+- [**YUNG's Better Witch Huts**](https://modrinth.com/mod/yungs-better-witch-huts) - Adds overhauled witch huts to swamps!
+- [**YUNG's Bridges**](https://modrinth.com/mod/yungs-bridges) - Adds beautiful naturally generated bridges throughout the world!
+- [**YUNG's Extras**](https://modrinth.com/mod/yungs-extras) - Extra structures, features, and vanilla+ content suitable for any modpack!
+- [**YetAnotherConfigLib**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
+- [**You're in Grave Danger**](https://modrinth.com/mod/yigd) - A mod focused around death. Will add graves to minecraft
+- [**Zoomify**](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
+- [**[EMF] Entity Model Features**](https://modrinth.com/mod/entity-model-features) - EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.
+- [**[ETF] Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
+- [**[Let's Do] API**](https://modrinth.com/mod/do-api) - A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API
+- [**[Let's Do] Bakery**](https://modrinth.com/mod/lets-do-bakery) - Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable.
+- [**[Let's Do] Beachparty**](https://modrinth.com/mod/lets-do-beachparty) - Get your Suncream out! We're going to the beach.
+- [**[Let's Do] Brewery**](https://modrinth.com/mod/lets-do-brewery) - Ozapft is! Brau Bier, beiss in a Bretzn – willkomme zum Braufescht!
+- [**[Let's Do] Candlelight**](https://modrinth.com/mod/lets-do-candlelight) - Ever dreamed of the perfect dinner in Minecraft? Candlelight Dinner provides almost everything necessary to make it happen.
+- [**[Let's Do] HerbalBrews**](https://modrinth.com/mod/lets-do-herbalbrews) - It's Tea Time! Brew Tea, Coffee and Flasks.
+- [**[Let's Do] Meadow**](https://modrinth.com/mod/lets-do-meadow) - A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.
+- [**[Let's Do] NetherVinery**](https://modrinth.com/mod/lets-do-nethervinery) - NetherVinery is an Addon all about the Nether for Vinery.
+- [**[Let's Do] Vinery**](https://modrinth.com/mod/lets-do-vinery) - Let's do Wine!
+- [**bad packets**](https://modrinth.com/mod/badpackets) - Bad Packets allows packet messaging between different modding platforms.
+- [**oωo (owo-lib)**](https://modrinth.com/mod/owo-lib) - A general utility, GUI and config library for modding on Fabric and Quilt
+- [**playerAnimator**](https://modrinth.com/mod/playeranimator) - animate the player
