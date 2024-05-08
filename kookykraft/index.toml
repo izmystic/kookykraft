@@ -251,6 +251,11 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "5a2864946f972b75f08c7c466849d326696d234938ee6391538ed9dfdcc2a7d0"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "2c1625c08620d5724eda682498afd20e344cbf2fe2b1f486edc2481c530864bf"
 metafile = true
@@ -558,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "85167839c93b4edf3cf0e24d31f07c3e3854020d3608fc46efd7e4987ea2aa66"
 metafile = true
 
 [[files]]
