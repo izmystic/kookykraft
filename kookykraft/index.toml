@@ -676,6 +676,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/minecells.pw.toml"
+hash = "f6243b3ecac263ddde404749325c9cfd5afd27b17c2f0f0f5859046d451297d6"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
 metafile = true
