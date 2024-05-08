@@ -16,6 +16,11 @@ hash = "cfbdf7dd93d40c54c9bc7b006e154fa456d760d0e4d830d85e14481d4a9d4dca"
 metafile = true
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "c3cec05f2c0456cd0d2b1c31cb7d35b4e905700fbe97d0900d1b0497a0a950a8"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "afac24264bfd01add240bd58e6705c2e3c3cbbe7bdee2563ee3658ab8c3ec18d"
 metafile = true
