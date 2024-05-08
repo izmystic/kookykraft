@@ -646,6 +646,11 @@ hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
 metafile = true
 
 [[files]]
+file = "mods/mcda.pw.toml"
+hash = "20289e74d91caca88a0f2e26a7ae4581ab509baed8f4561fae8443f4c1263a31"
+metafile = true
+
+[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "f68b8ebead2ce9859d357117e846cafbab9003f997c1be04dee11ec94474aa38"
 metafile = true
