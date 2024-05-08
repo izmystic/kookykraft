@@ -726,6 +726,11 @@ hash = "a1190763c29d3e0f0dd76fe7932bfecbe51cff575a00b9a70718fa3861760841"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "4b8b027b8d8e2fc4db68f2377ca09c2722af2aeeb2dfe3eb7125b71fa01ab4c0"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
