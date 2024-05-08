@@ -1,7 +1,11 @@
-## kookykraft: Where Tech Meets Magic!
-kookykraft is a Minecraft modpack for the curiously inclined.  Ditch the ordinary and embrace the extraordinary! This pack throws open the doors to a world brimming with **advanced technology** and **potent magic**. Build elaborate machines, automate your life, then delve into the mysteries of arcane arts, crafting powerful artifacts and mastering forgotten spells.
+### kookykraft: where tech meets magic!
+Do you crave the thrill of automation alongside the wonder of wizardry? kookykraft is the modpack for you! In this unique world, seamlessly blend cutting-edge technology with mystical wonder.
 
-kookykraft offers a unique blend of styles, perfect for players who crave both innovation and wonder. The possibilities are endless! So grab your tools, fire up your imagination, and get ready to write your own kooky legend in Kookykraft!
+- Unleash your inner engineer: Build elaborate contraptions, craft powerful machinery, and explore the wonders of automation with a suite of tech mods.
+- Embrace the arcane arts: Wield powerful spells, forge magical tools, and delve into the mystical with a variety of magic mods.
+- The perfect harmony: kookykraft is expertly balanced to ensure technology and magic co-exist in a way that lets you play your way.
+
+Whether you dream of building a sprawling automated base or becoming a master of the arcane, Kookykraft offers endless possibilities for the tech-savvy magic enthusiast. So, dive in and explore the kooky world that awaits!
 
 ### Mod List
 - [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
