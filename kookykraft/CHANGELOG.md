@@ -1,5 +1,35 @@
 # Changelog
 
+## [1.0.16](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.15...kookykraft-v1.0.16) (2024-05-08)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Advanced Netherite ([4e1b270](https://github.com/izmystic/kookykraft/commit/4e1b270897aa2dc4195b90c657fad31d76fc0da6))
+* **kookykraft:** add Archon ([f3f2e5b](https://github.com/izmystic/kookykraft/commit/f3f2e5b4fb1c45ed8ffac923aea4531e9060a097))
+* **kookykraft:** add Bosses of Mass Destruction ([0a64843](https://github.com/izmystic/kookykraft/commit/0a64843eda825c65bb75a5d83d692d73ece38c30))
+* **kookykraft:** add ChoiceTheorem's Overhauled Village ([788c0ee](https://github.com/izmystic/kookykraft/commit/788c0ee9b764fab9df4f3e513a5e166103625c84))
+* **kookykraft:** add Dungeons and Taverns ([9cd0bca](https://github.com/izmystic/kookykraft/commit/9cd0bca61b170b2366081f32a713ef8964519fff))
+* **kookykraft:** add Eldritch End ([69dcc62](https://github.com/izmystic/kookykraft/commit/69dcc62cdb37fda90778a662129e3c4e6c03f7fb))
+* **kookykraft:** add Geophilic ([27a4020](https://github.com/izmystic/kookykraft/commit/27a4020cad4fe9ed441c5b0dd96e53fdda53b3ca))
+* **kookykraft:** add Marium's Soulslike Weaponry ([9bd7033](https://github.com/izmystic/kookykraft/commit/9bd703305a9bc0a5ae87e6f70f1032cedbb0aa86))
+* **kookykraft:** add MC Dungeons Armors ([7f7aadf](https://github.com/izmystic/kookykraft/commit/7f7aadf08b24a7bf0196cdf576ab9369c281b4d8))
+* **kookykraft:** add MC Dungeons Weapons ([1f7e3b5](https://github.com/izmystic/kookykraft/commit/1f7e3b5e0d06529b5d396acc88042f6dbefafc31))
+* **kookykraft:** add Mine Cells - Dead Cells Mod ([0f24e04](https://github.com/izmystic/kookykraft/commit/0f24e0486930cb3832dbe8d8f8cf332d70707550))
+* **kookykraft:** add Mutant Monsters ([d3713f0](https://github.com/izmystic/kookykraft/commit/d3713f0240365ff1c3754b98c4b059bf61ca4bae))
+* **kookykraft:** add Mythic Mobs ([8e47234](https://github.com/izmystic/kookykraft/commit/8e472347043195aae4ec023d6d8adc2d8218234d))
+* **kookykraft:** add Mythic Mounts ([9d0c226](https://github.com/izmystic/kookykraft/commit/9d0c2269eb96eab4d58ccd3a52aeabe3171d1c9c))
+* **kookykraft:** add The Graveyard (FABRIC) ([7e185e9](https://github.com/izmystic/kookykraft/commit/7e185e98ac5f8b107cae1adf03639a0ab6032323))
+* **kookykraft:** add The Lost Castle ([e2fdad0](https://github.com/izmystic/kookykraft/commit/e2fdad048af8b76f941d45f065f32672829789c9))
+* **kookykraft:** add When Dungeons Arise ([23e5022](https://github.com/izmystic/kookykraft/commit/23e5022878e5b10ffffa125432260ae2ccc3b5ea))
+* **kookykraft:** remove [Deprecated] Farmer's Delight [Fabric] ([d68353d](https://github.com/izmystic/kookykraft/commit/d68353de569e85681ef4efc3dbda239581a8dd29))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** correct sides ([8b02343](https://github.com/izmystic/kookykraft/commit/8b023438cb802169116430b16dce160e82a89c62))
+* **kookykraft:** update mods ([b2a346d](https://github.com/izmystic/kookykraft/commit/b2a346db8a8ab52273ccc1fd8a25edb2ba6b8e66))
+
 ## [1.0.15](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.14...kookykraft-v1.0.15) (2024-04-21)
 
 
