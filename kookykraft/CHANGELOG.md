@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.1.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.16...kookykraft-v1.1.0) (2024-05-08)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Pufferfish's Skills ([75afb32](https://github.com/izmystic/kookykraft/commit/75afb3281622e5e1a40c4afb75592bc1e5282036))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** correct sides ([3b0900e](https://github.com/izmystic/kookykraft/commit/3b0900ea1d3b73d6283a5a21ebb88ad7be7a9ec2))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.1.0 ([82529f0](https://github.com/izmystic/kookykraft/commit/82529f0beb14ae0e218a42a755d2fa47496dc7c1))
+* **main:** release 1.1.0 ([df9c55b](https://github.com/izmystic/kookykraft/commit/df9c55b57486ef8bd8c35256431998653f6d17e3))
+
 ## [1.0.16](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.15...kookykraft-v1.0.16) (2024-05-08)
 
 
