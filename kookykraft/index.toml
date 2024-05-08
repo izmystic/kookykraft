@@ -441,6 +441,11 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
+metafile = true
+
+[[files]]
 file = "mods/heartcanister.pw.toml"
 hash = "8706ac961a8dbfc0824aa8df133aa9e0e1a9a3147059c381ff0aa6de6bf7a264"
 metafile = true
