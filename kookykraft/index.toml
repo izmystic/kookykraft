@@ -136,6 +136,11 @@ hash = "7f7d1d347a6b91ad53d94e17f4b57baf5eb87dd64dbfebe4edae09ea63b84a2e"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
 metafile = true
