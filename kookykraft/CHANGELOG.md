@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.2.0...kookykraft-v1.2.1) (2024-05-14)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** remove Create: Interactive ([bbb803b](https://github.com/izmystic/kookykraft/commit/bbb803b996e2a8e0b0e7c4b69b2806c22059f206))
+* **kookykraft:** remove Eureka! Ships! for Valkyrien Skies ([b54be38](https://github.com/izmystic/kookykraft/commit/b54be38da5c514dd812118f3140496ec48490559))
+* **kookykraft:** remove Valkyrien Skies ([bb87f88](https://github.com/izmystic/kookykraft/commit/bb87f88392b307122b7598c5dd5afda88adb336b))
+
 ## [1.2.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.1.0...kookykraft-v1.2.0) (2024-05-14)
 
 
