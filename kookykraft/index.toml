@@ -786,6 +786,11 @@ hash = "ad85a778722bdf0eb6b675a3caf56a7819531c99bb0bf68294f72517f63967b0"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/orb-of-origin-plus.pw.toml"
 hash = "7f936aa1274e92c5c1f7120aea5b17ca48ccc5080d9ca3f0260b56073f9188df"
 metafile = true
