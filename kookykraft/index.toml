@@ -246,6 +246,11 @@ hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
