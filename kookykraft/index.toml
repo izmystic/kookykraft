@@ -511,6 +511,11 @@ hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "8dcbc4eaa53da4682437b70594dd792ba7091674abe1ce7a07cc33104f9ecae8"
+metafile = true
+
+[[files]]
 file = "mods/heartcanister.pw.toml"
 hash = "8706ac961a8dbfc0824aa8df133aa9e0e1a9a3147059c381ff0aa6de6bf7a264"
 metafile = true
