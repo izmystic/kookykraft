@@ -536,6 +536,11 @@ hash = "86b06a3e64e9dd1f0271741bde83a0e3c41e5359f249cf78a8af4163b3ff4d8d"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "fcd6df67efdcf3fb109b0d0c0051eba085a18ea92ac64f8de482e7fa44051d63"
 metafile = true
