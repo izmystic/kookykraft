@@ -446,11 +446,6 @@ hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "098c9c1a245ca39825d7185483414d639910699e891933f1be931d72bf175644"
 metafile = true
