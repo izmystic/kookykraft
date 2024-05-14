@@ -276,6 +276,11 @@ hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "102eec6363f711986f22f402338b0d23818227d7137c95c83b6eca419228a555"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "70fba7c03aa74167b98cbd4ca7f2ff416a821e74bdb94543fd63f653a2ad6ce7"
 metafile = true
