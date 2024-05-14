@@ -611,6 +611,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "55fe420694ad34ed2805c1efa3fea46d2ad7168309b08876fd264bb2a9146174"
 metafile = true
