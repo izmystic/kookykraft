@@ -1,5 +1,72 @@
 # Changelog
 
+## [1.2.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.1.0...kookykraft-v1.2.0) (2024-05-14)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add AmbientSounds ([feab250](https://github.com/izmystic/kookykraft/commit/feab250f936e396bde40412239e1e0153f631225))
+* **kookykraft:** add Better Mount HUD ([9a73e6a](https://github.com/izmystic/kookykraft/commit/9a73e6a5e80a3128319ad00d60dff81607ad0809))
+* **kookykraft:** add Boat Item View ([594c2b1](https://github.com/izmystic/kookykraft/commit/594c2b17290d326c1eda47ad7bcab4678b65c187))
+* **kookykraft:** add Clumps ([c84b4d6](https://github.com/izmystic/kookykraft/commit/c84b4d6146312e828601fbc3a6348cd7e97ae90f))
+* **kookykraft:** add Create Big Cannons ([4f6d0b2](https://github.com/izmystic/kookykraft/commit/4f6d0b207399a0d64a48850fbb244016c899995d))
+* **kookykraft:** add Create Jetpack ([53ca6c4](https://github.com/izmystic/kookykraft/commit/53ca6c4b7fdfd3723d8a21781b09acf324ae5483))
+* **kookykraft:** add Create Ore Excavation ([5882e0e](https://github.com/izmystic/kookykraft/commit/5882e0e1b1e8b4ea68eb2be77667afbf19c6960c))
+* **kookykraft:** add Create: Bells & Whistles ([c5503c8](https://github.com/izmystic/kookykraft/commit/c5503c8620e1f8d4b23008325478bf29d0851013))
+* **kookykraft:** add Create: Interactive ([3e980eb](https://github.com/izmystic/kookykraft/commit/3e980ebe030595f0f80f526e18035bff86365d29))
+* **kookykraft:** add Create: New Age ([99ba9c3](https://github.com/izmystic/kookykraft/commit/99ba9c3558e1e7d2426c4f701f4671e466617359))
+* **kookykraft:** add Create: Numismatics ([1de9ee4](https://github.com/izmystic/kookykraft/commit/1de9ee481fd49808bed6f3771e6842bd4f2a22dc))
+* **kookykraft:** add Create: Power Loader (Fabric) ([0e7b6db](https://github.com/izmystic/kookykraft/commit/0e7b6dbfe1980302429a10407c7ca84549f4d754))
+* **kookykraft:** add Diagonal Fences ([db35f3d](https://github.com/izmystic/kookykraft/commit/db35f3d56191843999db80893edf1f88543c43ee))
+* **kookykraft:** add Diagonal Walls ([d308ea5](https://github.com/izmystic/kookykraft/commit/d308ea57ff53e117dd1daeb497f30d276580d131))
+* **kookykraft:** add Diagonal Windows ([3ffc50b](https://github.com/izmystic/kookykraft/commit/3ffc50b41034112b4619aa817cee89c2d133862e))
+* **kookykraft:** add Easy Anvils ([33647e2](https://github.com/izmystic/kookykraft/commit/33647e23c193e9386f8b0793738e9d49112dcf1f))
+* **kookykraft:** add Easy Magic ([a2ac0cb](https://github.com/izmystic/kookykraft/commit/a2ac0cb04c6b68835381cfeeacddeacc39f9fafa))
+* **kookykraft:** add Eureka! Ships! for Valkyrien Skies ([c809dfe](https://github.com/izmystic/kookykraft/commit/c809dfe1957049004fe05a948af46909e257368d))
+* **kookykraft:** add Fastload ([7f0bc21](https://github.com/izmystic/kookykraft/commit/7f0bc2143c8a6eb798fc04cccd610c7f692d93e2))
+* **kookykraft:** add Hang Glider ([9a789b8](https://github.com/izmystic/kookykraft/commit/9a789b8d41a747570748ad200c8d84d1dfb36af0))
+* **kookykraft:** add Jade 🔍 ([39e63a6](https://github.com/izmystic/kookykraft/commit/39e63a6dd680a432a07948ba64bf18b7ba031abe))
+* **kookykraft:** add Jade Addons (Fabric) ([cf5fd46](https://github.com/izmystic/kookykraft/commit/cf5fd4625bab6a81acf307dfd6bf941066f63a1c))
+* **kookykraft:** add Leave My Bars Alone ([fc42cfb](https://github.com/izmystic/kookykraft/commit/fc42cfb9a415327145d7287b78ed797f623791c9))
+* **kookykraft:** add Leaves Be Gone ([c8e4b93](https://github.com/izmystic/kookykraft/commit/c8e4b9350b8c9a46797c991b06462a3c192ad4d5))
+* **kookykraft:** add MC Dungeons Artifacts ([21c9be9](https://github.com/izmystic/kookykraft/commit/21c9be9136b898a0705b443675ebf410dbef3355))
+* **kookykraft:** add Missiles ([6e77963](https://github.com/izmystic/kookykraft/commit/6e7796304082cbbf46d059684e306a67fb561f30))
+* **kookykraft:** add No Chat Reports ([eb981f7](https://github.com/izmystic/kookykraft/commit/eb981f7eb7e4309f926860a9de4c992e7e67514a))
+* **kookykraft:** add Nvidium ([48291ee](https://github.com/izmystic/kookykraft/commit/48291ee9c6730356de21651f045f17d9917393c4))
+* **kookykraft:** add Polymorph ([765cf76](https://github.com/izmystic/kookykraft/commit/765cf7693693c10be9bfeda53db8ba07a5de10f8))
+* **kookykraft:** add Shulker Box Tooltip ([b92678a](https://github.com/izmystic/kookykraft/commit/b92678a72c95d89853690601cb249ee6eb5bafaa))
+* **kookykraft:** add Simply Skills ([dfab832](https://github.com/izmystic/kookykraft/commit/dfab83216c0a860839fc0c5afa0ea79ba91b2945))
+* **kookykraft:** add spark ([b12636d](https://github.com/izmystic/kookykraft/commit/b12636d5a4df2f9db4a761ef2bd92beec82a6365))
+* **kookykraft:** add Vein Mining ([67aa1c2](https://github.com/izmystic/kookykraft/commit/67aa1c2e46383789bc03220c34082010bb6f70fb))
+* **kookykraft:** remove Better Mount HUD ([ff47697](https://github.com/izmystic/kookykraft/commit/ff47697c747010f7806d7e84a75442ae4c6892ee))
+* **kookykraft:** remove Mythic Mounts ([85b2d5b](https://github.com/izmystic/kookykraft/commit/85b2d5b965ce5541bf3fd000ac4715a668a9d6c0))
+* **kookykraft:** remove nvidium ([06a7896](https://github.com/izmystic/kookykraft/commit/06a78963e9bf4d4927c5d7bcc4fc15ee14f1b2fc))
+* **kookykraft:** remove WTHIT ([ef36940](https://github.com/izmystic/kookykraft/commit/ef36940e9318d711fad09b15fd0c484b96e14889))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** Create: Steam 'n' Rails ([0c7a56a](https://github.com/izmystic/kookykraft/commit/0c7a56a54c7f8c6a730654a4d8f00e897ab85d51))
+* **kookykraft:** leaves side ([87ec640](https://github.com/izmystic/kookykraft/commit/87ec640e1f977174b8928f20659f15dd498f65fe))
+* **kookykraft:** Simple Voice Chat ([b8e4889](https://github.com/izmystic/kookykraft/commit/b8e4889b7d693dff0a0829bac4b745af4f0211be))
+* **kookykraft:** update [Let's Do] API ([2cfc8c0](https://github.com/izmystic/kookykraft/commit/2cfc8c0a9b9611c78df9364389fde7bfb8dbc38b))
+* **kookykraft:** update [Let's Do] Bakery ([74689ef](https://github.com/izmystic/kookykraft/commit/74689efca911cfb5106bff6dbf1d011a55f16899))
+* **kookykraft:** update [Let's Do] Meadow ([d9442be](https://github.com/izmystic/kookykraft/commit/d9442befe016c37c8bcef8e87cf9c3a4f1912bce))
+* **kookykraft:** update Applied Energistics 2 ([3962232](https://github.com/izmystic/kookykraft/commit/3962232cc0c5cb1586bcec8568da03bdf492378f))
+* **kookykraft:** update AzureLib ([5aa0369](https://github.com/izmystic/kookykraft/commit/5aa0369a706c85badcc4d7ecd349dc77029c1e1f))
+* **kookykraft:** update Double Doors ([bc64fe5](https://github.com/izmystic/kookykraft/commit/bc64fe5d41b7a1ffc386242e2a795233a83087c7))
+* **kookykraft:** update Macaw's Paths and Pavings ([7a09fa9](https://github.com/izmystic/kookykraft/commit/7a09fa9d09701cf83e57b1871eb886ee282431da))
+* **kookykraft:** update Mine Cells - Dead Cells Mod ([402b172](https://github.com/izmystic/kookykraft/commit/402b172047063285a4a04f05dc0d2629b4174d48))
+* **kookykraft:** update Puzzles Lib ([7141e50](https://github.com/izmystic/kookykraft/commit/7141e5037839d5962396d8c2a819efe88f6c6e34))
+* **kookykraft:** update Sawmill ([9fddd23](https://github.com/izmystic/kookykraft/commit/9fddd231b882035ea59caddf1d7dff298e24c20c))
+* **kookykraft:** update YUNG's API ([fdccbca](https://github.com/izmystic/kookykraft/commit/fdccbca0f581194383d5ab3c05f6ca0592e11736))
+* **kookykraft:** update YUNG's Better Jungle Temples ([32a9265](https://github.com/izmystic/kookykraft/commit/32a926568d881f2c310f303786fa90fc1601e806))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.2.0 ([bb295f9](https://github.com/izmystic/kookykraft/commit/bb295f9b7f794c08676f2a42a4d8b6a45f942e86))
+
 ## [1.1.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.0.16...kookykraft-v1.1.0) (2024-05-08)
 
 
