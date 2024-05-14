@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "1f0442d6ecec580c19b1420b66243b96445ca0c138fb9e35beb030d5043b0d78"
+hash = "55fe420694ad34ed2805c1efa3fea46d2ad7168309b08876fd264bb2a9146174"
 metafile = true
 
 [[files]]
