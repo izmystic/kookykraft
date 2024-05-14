@@ -1076,6 +1076,11 @@ hash = "c2d1affa6b1dcab23384492cd1606bc83ac9563a53ef17faa6ed1719cb1a4982"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "766afea666dd1c0e9ef57e249aad8989420534259f01af7f8f9314839c6ddb59"
+metafile = true
+
+[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "3d906397ad21b3980280145572398d8ac0a29cd13cec31d53aefe37ac66e0ab0"
 metafile = true
