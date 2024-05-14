@@ -721,6 +721,11 @@ hash = "20289e74d91caca88a0f2e26a7ae4581ab509baed8f4561fae8443f4c1263a31"
 metafile = true
 
 [[files]]
+file = "mods/mcdar.pw.toml"
+hash = "3ee260e8f7c8121582e7f0ab06c1790ab06ecefce745b4070b7678713d31fba4"
+metafile = true
+
+[[files]]
 file = "mods/mcdw.pw.toml"
 hash = "5a681511df13b30120b0d25197d72188c85bc12b9265593544a862df5edab804"
 metafile = true
