@@ -806,11 +806,6 @@ hash = "ec37ac4fa6d47063f64c912c69a61ef253b86880c002121e4d4f7a8348096b52"
 metafile = true
 
 [[files]]
-file = "mods/missiles.pw.toml"
-hash = "e09845bcece35aa291bc1b3dc271f561f9104a5bca8fe674ae4748f04fa6e78a"
-metafile = true
-
-[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
 metafile = true
