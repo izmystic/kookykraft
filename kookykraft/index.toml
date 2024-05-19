@@ -11,6 +11,11 @@ hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "cfbdf7dd93d40c54c9bc7b006e154fa456d760d0e4d830d85e14481d4a9d4dca"
 metafile = true
