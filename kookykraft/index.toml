@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "16e8fa172d4c51cb7ae932ec0d7d4957bf1539c49e7350e38e5dd42bac401011"
+hash = "ee3ca70541470eaa9340ad2bc9cb85c2433a4baa0d5da34e320d8f4ceaed40f1"
 metafile = true
 
 [[files]]
