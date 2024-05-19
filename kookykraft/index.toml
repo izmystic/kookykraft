@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecells.pw.toml"
-hash = "1d6e1593ff7cd7ee93787cb81a60321e56e4ca2b9034fbf7d47692d4cf7b7f6f"
+hash = "ec37ac4fa6d47063f64c912c69a61ef253b86880c002121e4d4f7a8348096b52"
 metafile = true
 
 [[files]]
