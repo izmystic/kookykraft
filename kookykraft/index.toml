@@ -426,6 +426,11 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "3c20ab637590cb3b34132ab095d260cce7672938a6e298d541ec490292fd442d"
 metafile = true
