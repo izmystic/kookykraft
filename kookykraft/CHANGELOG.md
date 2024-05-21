@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.2.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.2.1...kookykraft-v1.2.2) (2024-05-21)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Adaptive Tooltips ([9cb8429](https://github.com/izmystic/kookykraft/commit/9cb8429190cb1cb84fd6d9608f91a8b729b2f9cb))
+* **kookykraft:** add Create Utilities ([79aca54](https://github.com/izmystic/kookykraft/commit/79aca5460b7c4f617d156cce94538648daf1ced7))
+* **kookykraft:** add Create: Armor Trims ([c1f7177](https://github.com/izmystic/kookykraft/commit/c1f71779d13b11dafb643f6bf3478ca3b9ac3d39))
+* **kookykraft:** add Create: Copycats+ ([9d49ecc](https://github.com/izmystic/kookykraft/commit/9d49ecc7fe658daa7c7bdb177e581318dcb762b3))
+* **kookykraft:** add Create: Extended Cogwheels ([35cb916](https://github.com/izmystic/kookykraft/commit/35cb9168486b11feeb90a69a657fb454e62b493a))
+* **kookykraft:** add Create: Interiors ([4dcbefc](https://github.com/izmystic/kookykraft/commit/4dcbefc69654a2e2e887a5ae70b2977b9821c4d5))
+* **kookykraft:** add Create: Trims ([dcdfd06](https://github.com/izmystic/kookykraft/commit/dcdfd064fc12b938db49b751747ea04fb94b9371))
+* **kookykraft:** add Emotecraft ([b88ebba](https://github.com/izmystic/kookykraft/commit/b88ebba3429041403a1d630b0c5578fc89b2361e))
+* **kookykraft:** add More Armor Trims ([fd7b51e](https://github.com/izmystic/kookykraft/commit/fd7b51e202fb75e78b33efca56c80219ae8adfdc))
+* **kookykraft:** add Overflowing Bars ([a32f17f](https://github.com/izmystic/kookykraft/commit/a32f17f6fee68c1da1d560f170db5256e2c18bce))
+* **kookykraft:** remove Missiles ([78ff52d](https://github.com/izmystic/kookykraft/commit/78ff52da7005cdbd4e217ebd3f6dd132e877df30))
+* **kookykraft:** remove ToolTipFix ([41d40fe](https://github.com/izmystic/kookykraft/commit/41d40fe79652f04ec85803e8427d2d6e642389aa))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update AmbientSounds ([cc4590a](https://github.com/izmystic/kookykraft/commit/cc4590ad93be9a247f6c0dddb63de963f654ddbe))
+* **kookykraft:** update Chat Heads ([7ac4805](https://github.com/izmystic/kookykraft/commit/7ac4805ffca22f4b888b45b07d72d1584b94a0a6))
+* **kookykraft:** update Continuity ([89fe4ec](https://github.com/izmystic/kookykraft/commit/89fe4ec71287da1b5238ee40be7f7f312617a16e))
+* **kookykraft:** update CreativeCore ([0358b40](https://github.com/izmystic/kookykraft/commit/0358b40a9f793847a08b5c41e78146c13bfb8b41))
+* **kookykraft:** update First-person Model ([9582336](https://github.com/izmystic/kookykraft/commit/9582336cf6968df84dd916aca4875a948323346f))
+* **kookykraft:** update ImmediatelyFast ([ccb2a6d](https://github.com/izmystic/kookykraft/commit/ccb2a6d9355c0e412f43b55037da64e342da6e2f))
+* **kookykraft:** update Lavender ([67b1a73](https://github.com/izmystic/kookykraft/commit/67b1a73fd3e8b0c8eda849a71ed9603b09a1a88d))
+* **kookykraft:** update Macaw's Trapdoors ([9969022](https://github.com/izmystic/kookykraft/commit/99690225d31fa1c5404b80ce4ee30a652fb3fefb))
+* **kookykraft:** update Mine Cells - Dead Cells Mod ([1bac8b2](https://github.com/izmystic/kookykraft/commit/1bac8b266f80a24e364828ec0dd29729b74e9186))
+* **kookykraft:** update Moonlight Lib ([24dff24](https://github.com/izmystic/kookykraft/commit/24dff243738d946d471b3035865bf00434821ff0))
+* **kookykraft:** update Moonlight Lib (again) ([2591340](https://github.com/izmystic/kookykraft/commit/2591340136934c2f1b169b16e8ec4d081817d5e3))
+* **kookykraft:** update Presence Footsteps ([639d0e3](https://github.com/izmystic/kookykraft/commit/639d0e3012290cfc9eab4ca53e2e1d4f2f1e144c))
+* **kookykraft:** update Simple Voice Chat ([655028f](https://github.com/izmystic/kookykraft/commit/655028f5ea3fa2679c980e0512e728961d478b7f))
+
 ## [1.2.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.2.0...kookykraft-v1.2.1) (2024-05-14)
 
 
