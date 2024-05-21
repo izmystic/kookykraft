@@ -476,6 +476,11 @@ hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
 metafile = true
 
 [[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "d30518783eb28af0bc9c90315bee1f65368daece3e3ba6957a85b11b6da67478"
 metafile = true
