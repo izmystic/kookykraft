@@ -311,6 +311,11 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/create-trims.pw.toml"
+hash = "c4e21866ae6e6780aeac9d7a0f7397bf8523a2ad6bdf4f81ea7832720339cdb9"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
