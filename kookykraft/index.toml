@@ -841,6 +841,11 @@ hash = "ef68c90017bfeae65a461efc1fe85179669dc03b8c1154bb55617ca5a7ea6dbf"
 metafile = true
 
 [[files]]
+file = "mods/more-armor-trims.pw.toml"
+hash = "b197e308f6bad0891356a049e9c96d79663bb6cd09d7936c5e3ad3557a7e160a"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
