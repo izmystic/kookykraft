@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "22d391344ffdd5fb090ab799c80d8ca4ad6117d919a77d280a3f430ba2ee9dc3"
 metafile = true
