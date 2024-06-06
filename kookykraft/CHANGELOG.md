@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.2.2...kookykraft-v1.3.0) (2024-06-06)
+
+
+### ★ Features
+
+* **kookykraft:** overflowingbars config ([e62590f](https://github.com/izmystic/kookykraft/commit/e62590fe9087bc2eb32417206e8e1e31755dd74c))
+
 ## [1.2.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.2.1...kookykraft-v1.2.2) (2024-05-21)
 
 
