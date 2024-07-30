@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.3.0...kookykraft-v1.3.1) (2024-07-30)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** downgrade Pufferfish's Skills ([7115f5d](https://github.com/izmystic/kookykraft/commit/7115f5db1e8216647e54b08c89b4e332afea4c41))
+
 ## [1.3.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.2.2...kookykraft-v1.3.0) (2024-07-30)
 
 
