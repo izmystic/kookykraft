@@ -1080,6 +1080,11 @@ hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "0452ea33020c62f7ec06b88cfd5dd9f33d8923d68ecd1512132730e388eb4bf5"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
