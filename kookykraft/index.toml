@@ -1125,11 +1125,6 @@ hash = "629fb1978583407b2eb753921ea4179a2fa18a2975c26315cca2ee0b4f77537c"
 metafile = true
 
 [[files]]
-file = "mods/traverse.pw.toml"
-hash = "5b878bd72f494ac80ddca64ac47be81d77c3544cb0490a09f9b18698e4173762"
-metafile = true
-
-[[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "1ed17820ea8fc1a6627ea5dd17f21be43e5057c502cd129b16ecb9210f5deb0f"
 metafile = true
