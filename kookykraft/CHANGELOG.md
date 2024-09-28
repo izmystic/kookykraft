@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.2...kookykraft-v2.0.3) (2024-09-28)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** remove Create Track Map ([bebda8c](https://github.com/izmystic/kookykraft/commit/bebda8cdda562c377f58883fc64b8ed38b6bedbd))
+
 ## [2.0.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.1...kookykraft-v2.0.2) (2024-09-28)
 
 
