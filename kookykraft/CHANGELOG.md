@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.0...kookykraft-v2.0.1) (2024-09-28)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** remove EnderChests ([5dde15c](https://github.com/izmystic/kookykraft/commit/5dde15cab951a8da92a9b4ed06ab6d4b36374244))
+* **kookykraft:** remove EnderTanks ([534d156](https://github.com/izmystic/kookykraft/commit/534d15694166c132c10d4924fa3abd90593d7efc))
+* **kookykraft:** remove ShetiPhianCore ([b102558](https://github.com/izmystic/kookykraft/commit/b102558b85305399911806fcb5b04687fca83155))
+
 ## [2.0.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.3.2...kookykraft-v2.0.0) (2024-09-28)
 
 
