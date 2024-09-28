@@ -880,6 +880,11 @@ hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "f6d610af64557560917daeeb899d51ae33132b81eb11106f1b8fa18c6ba38e51"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "b8e45a11966f27dca57d03d3d3ce7b4e8b669ea7a3160874d8e6e0234b3d6b28"
 metafile = true
