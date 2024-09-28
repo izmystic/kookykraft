@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.3...kookykraft-v2.0.4) (2024-09-28)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Tectonic ([ec17771](https://github.com/izmystic/kookykraft/commit/ec17771c9ff9c299bf8c4973df8baeffe7779718))
+* **kookykraft:** add Terralith ([f7b4e63](https://github.com/izmystic/kookykraft/commit/f7b4e63a886eb1dd6e8c8430d6bb34f67c4dc403))
+* **kookykraft:** remove Cinderscapes ([d681ba6](https://github.com/izmystic/kookykraft/commit/d681ba6333713a88f348d79c26d8de7344c7ce1f))
+* **kookykraft:** remove Terrestria ([532573f](https://github.com/izmystic/kookykraft/commit/532573f7991b7c1cb5a61c4319435d7b0ee6fbbd))
+* **kookykraft:** remove Traverse ([751feac](https://github.com/izmystic/kookykraft/commit/751feacd0d8aafcffbc592446db99ec67606582d))
+
 ## [2.0.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.2...kookykraft-v2.0.3) (2024-09-28)
 
 
