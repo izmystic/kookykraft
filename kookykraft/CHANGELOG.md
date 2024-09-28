@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.3.2...kookykraft-v1.3.3) (2024-09-28)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Fzzy Config ([54351c2](https://github.com/izmystic/kookykraft/commit/54351c2c21b0ca9296004347d0218b3a8343748f))
+* **kookykraft:** add M.R.U ([dcc0a68](https://github.com/izmystic/kookykraft/commit/dcc0a683bd4e06d2a5846f6f23b5d1ee17ba34c3))
+* **kookykraft:** add SmartBrainLib ([79c36f4](https://github.com/izmystic/kookykraft/commit/79c36f43722b0f03bb21d93013378c30c07326d8))
+
 ## [1.3.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v1.3.1...kookykraft-v1.3.2) (2024-09-27)
 
 
