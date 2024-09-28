@@ -1060,6 +1060,11 @@ hash = "0c4c45156ff087a77392a94734a51d7b316785d030b040e974b7e9da5c2c3f83"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "1eafe78871eb78c4c25635c1668de901d81f3dc7cb8f7c21c5be9a481c359fa2"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
