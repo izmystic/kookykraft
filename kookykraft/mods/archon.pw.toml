@@ -1,0 +1,13 @@
+name = "Archon"
+filename = "archon-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/td9zQQBq/versions/AvzC5akc/archon-0.7.1.jar"
+hash-format = "sha1"
+hash = "bf83aeedf143005a0abac1d5e592c0e1e48560b7"
+
+[update]
+[update.modrinth]
+mod-id = "td9zQQBq"
+version = "AvzC5akc"
