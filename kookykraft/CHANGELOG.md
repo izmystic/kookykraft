@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.5](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.4...kookykraft-v2.0.5) (2024-09-28)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Structory ([66b163f](https://github.com/izmystic/kookykraft/commit/66b163f0d403343d43624d1cb1d12b1a6d073f40))
+* **kookykraft:** add Structory: Towers ([3944796](https://github.com/izmystic/kookykraft/commit/3944796eaabcee84671c85f396ede80e91c9de1c))
+* **kookykraft:** update Overflowing Bars ([46c6ca7](https://github.com/izmystic/kookykraft/commit/46c6ca7b57d0c2d57479081f1c870d9ed7eb0d7a))
+
 ## [2.0.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.3...kookykraft-v2.0.4) (2024-09-28)
 
 
