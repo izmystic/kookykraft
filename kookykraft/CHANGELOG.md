@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.1...kookykraft-v2.0.2) (2024-09-28)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** remove MacOS Input Fixes ([767c21a](https://github.com/izmystic/kookykraft/commit/767c21a96afd0fc0d0b8bd662dc4af6a70300710))
+
 ## [2.0.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.0...kookykraft-v2.0.1) (2024-09-28)
 
 
