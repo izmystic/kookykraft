@@ -5,6 +5,10 @@ file = "config/overflowingbars-client.toml"
 hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "e51717447f28b31d4919f3864b44ba7f5d118c6a9eb851d6dd3cd13a388d75c2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "0abb0b4b58d6922006b3d496f25ae3f3efbbd6f3e1b7af924a6fdf7e9b0983b3"
 metafile = true
@@ -1172,6 +1176,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "3d906397ad21b3980280145572398d8ac0a29cd13cec31d53aefe37ac66e0ab0"
+metafile = true
+
+[[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "22c02c241c720ef0e1ce59efb559a82ae47a5451409dda20bdf5f1e9c8dd0597"
 metafile = true
 
 [[files]]
