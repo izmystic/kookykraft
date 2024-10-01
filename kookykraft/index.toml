@@ -1124,6 +1124,11 @@ hash = "a6ae5bbb1c637f9f792eefcbf889b2de2d822312291e6e1f9734b1c32ea45418"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "97acb27ee8b31a8877f74d9376a5e2d6c81b54a3359c85e9d3cb545050b98481"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "5d65fa670b2fadc06bea93bc6406cda0b8fd73954d49f1c90ecc427c990f0213"
 metafile = true
