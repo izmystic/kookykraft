@@ -709,6 +709,11 @@ hash = "4fbada201f2f97976e56f01040976cbe7de1c96153a1a240b7a9bae2f8ae1abe"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "3cb50c3f498f74c53baa2c957829814d65a9daab56fd1723d6a828dc17be4c6b"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-brewery.pw.toml"
 hash = "0f9ecc2ddf47c61c50d04cdc4e45a69c455feb21574bbe1dfd85439d67a433c2"
 metafile = true
