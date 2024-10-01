@@ -699,6 +699,11 @@ hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-apple-wood.pw.toml"
+hash = "ccf127266237d12e9a9ec436419ffdb4b1cfdbcaae5f6737ed2bf3024be0acfe"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "d45ee7f85d2fc9609d58a28aca36598f56378de4c8c5c677b7b54b73d7f93023"
 metafile = true
