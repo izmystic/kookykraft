@@ -479,6 +479,11 @@ hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2beb95d8ff5770b423a562d408305b92c20b873a1d3b56f059d2837ea61fbbe4"
 metafile = true
