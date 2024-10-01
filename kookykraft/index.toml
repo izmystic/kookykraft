@@ -704,6 +704,11 @@ hash = "ccf127266237d12e9a9ec436419ffdb4b1cfdbcaae5f6737ed2bf3024be0acfe"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-fluids.pw.toml"
+hash = "d5febd18cdbdf6797c95f8bb00475f2c9fc770071fd70cdd999f951c1a76a8b1"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "d45ee7f85d2fc9609d58a28aca36598f56378de4c8c5c677b7b54b73d7f93023"
 metafile = true
