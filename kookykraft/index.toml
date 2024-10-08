@@ -5,10 +5,6 @@ file = "config/overflowingbars-client.toml"
 hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
 
 [[files]]
-file = "config/travelersbackpack.json5"
-hash = "e51717447f28b31d4919f3864b44ba7f5d118c6a9eb851d6dd3cd13a388d75c2"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "0abb0b4b58d6922006b3d496f25ae3f3efbbd6f3e1b7af924a6fdf7e9b0983b3"
 metafile = true
@@ -1275,7 +1271,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
