@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "87da650697a8ccad61aeb24c8ed36b01455d524a86599f23b2c4f04e7bf51d0f"
+hash = "b4749e71109d90fe5e071a8161f56565e9224cfb25399598902e98ab15ea2730"
 metafile = true
 
 [[files]]
