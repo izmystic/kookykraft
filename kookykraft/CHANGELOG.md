@@ -1,5 +1,37 @@
 # Changelog
 
+## [2.0.6](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.5...kookykraft-v2.0.6) (2024-10-08)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add [Let's Do Addon] Apple Wood ([e9fc21d](https://github.com/izmystic/kookykraft/commit/e9fc21d40c87918cf6d4501eac5638108e7b364d))
+* **kookykraft:** add [Let's Do Addon] Fluids ([745e9bf](https://github.com/izmystic/kookykraft/commit/745e9bf6d24baac4a3c628d8d4d8f35a6004afcf))
+* **kookykraft:** add [Let's Do] BloomingNature ([56445b3](https://github.com/izmystic/kookykraft/commit/56445b3fda4b4324a0dc72da21b47c0c6232386d))
+* **kookykraft:** add Creeper Overhaul ([1c2b113](https://github.com/izmystic/kookykraft/commit/1c2b113261ed4180e19277e85d1cb741e4939187))
+* **kookykraft:** add Enderman Overhaul ([82a7745](https://github.com/izmystic/kookykraft/commit/82a7745d406aa59490dc70495af6ef5e0023fa50))
+* **kookykraft:** add Memory Leak Fix ([a20271f](https://github.com/izmystic/kookykraft/commit/a20271ff48f3b228f6466b3d6f60053a27600cc9))
+* **kookykraft:** add Ribbits ([81d00d8](https://github.com/izmystic/kookykraft/commit/81d00d8db778e5e2f3493bdabd09f09af35bec3f))
+* **kookykraft:** add Supplementaries ([a9369d5](https://github.com/izmystic/kookykraft/commit/a9369d5ee1329f2735a96f946fb2726fda54fc5e))
+* **kookykraft:** add Supplementaries Squared ([36b4215](https://github.com/izmystic/kookykraft/commit/36b42151dfdf16e183929a2e93b6e348a9d6d8ad))
+* **kookykraft:** add way2wayfabric ([ea1007b](https://github.com/izmystic/kookykraft/commit/ea1007b2ce17319a8e953077a018afe987e1ef02))
+* **kookykraft:** update AzureLib ([574468a](https://github.com/izmystic/kookykraft/commit/574468ae01a4cb60e7a046deb6bc176db06c2643))
+* **kookykraft:** update AzureLib Armor ([8a52359](https://github.com/izmystic/kookykraft/commit/8a523598b6898fcba3d8b8d148a4a19e11fcaa98))
+* **kookykraft:** update ChoiceTheorem's Overhauled Village ([80b6c7f](https://github.com/izmystic/kookykraft/commit/80b6c7f73c5027e1fd50a3afa6c414dea20c6c85))
+* **kookykraft:** update EMI ([b86efc6](https://github.com/izmystic/kookykraft/commit/b86efc64c1c35e44e143c5837f6c75dec338d986))
+* **kookykraft:** update FabricBetterGrass ([3641281](https://github.com/izmystic/kookykraft/commit/36412810434776a6f40d62f0d72f5017a68169ef))
+* **kookykraft:** update Fzzy Config ([6e2e828](https://github.com/izmystic/kookykraft/commit/6e2e828ebf59af34b061a06bc41bd76492cb3566))
+* **kookykraft:** update Iris & Oculus Flywheel Compat ([e650a1e](https://github.com/izmystic/kookykraft/commit/e650a1ec78d2b220236e63d45f95d96ae6d0e943))
+* **kookykraft:** update Iris Shaders ([4b4a318](https://github.com/izmystic/kookykraft/commit/4b4a318f42e043fbb0af67a849312d06e2fcf050))
+* **kookykraft:** update Jade 🔍 ([4ef6bd2](https://github.com/izmystic/kookykraft/commit/4ef6bd2a46bd860422e8286bbd33ad838b4a7587))
+* **kookykraft:** update Moonlight Lib ([9f51461](https://github.com/izmystic/kookykraft/commit/9f51461ffb7716f16d7c1311df18d3a6a9083194))
+* **kookykraft:** update Polytone ([1810466](https://github.com/izmystic/kookykraft/commit/18104669576de735a808b313c134b81ed9852921))
+* **kookykraft:** update Puzzles Lib ([7ef3908](https://github.com/izmystic/kookykraft/commit/7ef3908d0cabf5b703929361452f08485fe88871))
+* **kookykraft:** update Simple Voice Chat ([2dd6c3f](https://github.com/izmystic/kookykraft/commit/2dd6c3f099325635a24c2853ebae1f8ce32b0334))
+* **kookykraft:** update Xaero's Minimap ([0ac19a0](https://github.com/izmystic/kookykraft/commit/0ac19a0c8da26b86f63ce2da5e065429c71914ef))
+* **kookykraft:** update You're in Grave Danger ([45c873d](https://github.com/izmystic/kookykraft/commit/45c873dbd104e579fe7e0b6e7dda4b73a89a34e3))
+* **kookykraft:** update YUNG's API ([a11b1b9](https://github.com/izmystic/kookykraft/commit/a11b1b9d4db5019f111af0a337f4fec4e6e3f421))
+
 ## [2.0.5](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.4...kookykraft-v2.0.5) (2024-09-28)
 
 
