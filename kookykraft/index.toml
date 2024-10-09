@@ -620,6 +620,11 @@ hash = "b164444351fad88017815bf30df840e516be9103fbf890dacf5e7f4fe2f35301"
 metafile = true
 
 [[files]]
+file = "mods/imbued-gear.pw.toml"
+hash = "9e050d8e72cbcd6602e56a286aa04098a0989bea40e891c79d16e6a94a453dd6"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
