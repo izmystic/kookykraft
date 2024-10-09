@@ -1225,6 +1225,11 @@ hash = "3d906397ad21b3980280145572398d8ac0a29cd13cec31d53aefe37ac66e0ab0"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "da239c0f6f9778c122f5ab14514338739701cd0969ffe4123e792d0904fe6f1b"
+metafile = true
+
+[[files]]
 file = "mods/way2wayfabric.pw.toml"
 hash = "22c02c241c720ef0e1ce59efb559a82ae47a5451409dda20bdf5f1e9c8dd0597"
 metafile = true
