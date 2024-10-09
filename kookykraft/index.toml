@@ -420,11 +420,6 @@ hash = "3d5c721500e674eb2eca84b7aa5c03938544252c142cc9131005477164455108"
 metafile = true
 
 [[files]]
-file = "mods/ears.pw.toml"
-hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
