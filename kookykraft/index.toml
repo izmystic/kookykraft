@@ -1200,11 +1200,6 @@ hash = "1ed17820ea8fc1a6627ea5dd17f21be43e5057c502cd129b16ecb9210f5deb0f"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
-metafile = true
-
-[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c98720cd6931e07a58aaa13c1607e72a37637d2bee74caba9a2ae88cd2b2b9b6"
 metafile = true
