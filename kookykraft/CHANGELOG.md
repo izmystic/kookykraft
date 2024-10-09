@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.7](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.6...kookykraft-v2.0.7) (2024-10-09)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Accessories ([97b77d5](https://github.com/izmystic/kookykraft/commit/97b77d531768b5a3473bd10db4b0fbbf1773bfa2))
+* **kookykraft:** add Trinkets Compat Layer for Accessories ([539d075](https://github.com/izmystic/kookykraft/commit/539d0757967dc961107e84c5f1f5f4ba8c1e0fc3))
+* **kookykraft:** add Wavey Capes ([62aa41f](https://github.com/izmystic/kookykraft/commit/62aa41f87ab61c96eb53685a4ac33c3c5c37ad5c))
+* **kookykraft:** remove Trinkets ([0f4ccc7](https://github.com/izmystic/kookykraft/commit/0f4ccc7fce7210ddff3f73b59a5597c9a24ac499))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Moonlight Lib ([1b8a6ce](https://github.com/izmystic/kookykraft/commit/1b8a6ce77fbae075786a339e737a2fe795d20b66))
+* **kookykraft:** update OptiGUI ([b206104](https://github.com/izmystic/kookykraft/commit/b2061047ba0d79002ffae17e324dcb0859cf08a2))
+* **kookykraft:** update Simple Voice Chat ([3fbd5ea](https://github.com/izmystic/kookykraft/commit/3fbd5ead5c7c5b21797e5f634cc8af86df6a4d01))
+
 ## [2.0.6](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.5...kookykraft-v2.0.6) (2024-10-08)
 
 
