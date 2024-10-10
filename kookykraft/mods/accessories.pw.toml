@@ -1,13 +1,13 @@
 name = "Accessories"
-filename = "accessories-fabric-1.0.0-beta.40+1.20.1.jar"
+filename = "accessories-fabric-1.0.0-beta.41+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/cSwoqMsT/accessories-fabric-1.0.0-beta.40%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/TK44XAd7/accessories-fabric-1.0.0-beta.41%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "3e86de4617ab69b53006dc834e3e5646c57525ce6baa58100c8b68478f2d5b1d4de91d158fb3c48cda8632f243bee70174da68be386dbba1f06221e3a24f8c35"
+hash = "dbe053c4030858c0b9db79f4ad7c514edf033c32efe3147eab50b7680cc4d0ab0ae1634606ce6a83a0bd8d1b18d5537831c419e2571d1a555e42e75299eced73"
 
 [update]
 [update.modrinth]
 mod-id = "jtmvUHXj"
-version = "cSwoqMsT"
+version = "TK44XAd7"
