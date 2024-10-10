@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.0.8](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.7...kookykraft-v2.0.8) (2024-10-10)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Amethyst Core ([8ed7550](https://github.com/izmystic/kookykraft/commit/8ed75503201a5dd2a6e0fb6fa8d1f6c7415b729a))
+* **kookykraft:** add Amethyst Imbuement ([9a5a7a9](https://github.com/izmystic/kookykraft/commit/9a5a7a968c29723f1823d6029ac5df0b39953b79))
+* **kookykraft:** add Fzzy Core ([26490ae](https://github.com/izmystic/kookykraft/commit/26490aedddbd251120718eda21fe29d36ab92961))
+* **kookykraft:** add Gear Core ([16cfc65](https://github.com/izmystic/kookykraft/commit/16cfc658ceed0bb74dc303612708f7a4b19e3699))
+* **kookykraft:** add Imbued Gear ([2f0958b](https://github.com/izmystic/kookykraft/commit/2f0958b6b08e4870cbba61715b7d20abbc216e1e))
+* **kookykraft:** add Rogues & Warriors (RPG Series) ([ab6de0f](https://github.com/izmystic/kookykraft/commit/ab6de0f78a153750e3506ca6f5f245aa7b9b0d74))
+* **kookykraft:** remove Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More) ([8af9f63](https://github.com/izmystic/kookykraft/commit/8af9f630ba8814998c6006abd84ea2953b3fc572))
+* **kookykraft:** remove Main Menu Credits ([2ac9b1e](https://github.com/izmystic/kookykraft/commit/2ac9b1e709710b51ae193bbd31862c0e0786345b))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Accessories ([c8e0af3](https://github.com/izmystic/kookykraft/commit/c8e0af3ece85eabaa1629967405e3ea280a0f974))
+* **kookykraft:** update Moonlight Lib ([92333b8](https://github.com/izmystic/kookykraft/commit/92333b8b0b53f04a45716820707de7b36607aaa7))
+
 ## [2.0.7](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.6...kookykraft-v2.0.7) (2024-10-09)
 
 
