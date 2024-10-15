@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "299bd7a35ca0ccf931652f0af16255557004c519d0efcc2e9f1c13892020007a"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
 
