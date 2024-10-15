@@ -5,6 +5,10 @@ file = "config/overflowingbars-client.toml"
 hash = "1c5a6d5acc4543ecdd1ee18716af8b96fab5a2a94f4a74f4196d934da28235b6"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "32e4e130e98808bde6e414e4156287dd3f341ccb62bf27f8161f90807f1caa2d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "0abb0b4b58d6922006b3d496f25ae3f3efbbd6f3e1b7af924a6fdf7e9b0983b3"
 metafile = true
@@ -1212,11 +1216,6 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest-unofficial.pw.toml"
-hash = "1c2d30b53ca7fe92b3dca2d1019da941e0154bc739c9c0c3e65dcda8f67a81ff"
 metafile = true
 
 [[files]]
