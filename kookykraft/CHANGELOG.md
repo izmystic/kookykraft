@@ -1,5 +1,44 @@
 # Changelog
 
+## [2.1.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.7...kookykraft-v2.1.0) (2024-10-15)
+
+
+### ★ Features
+
+* **kookykraft:** Traveler's Backpack config ([2c9c61d](https://github.com/izmystic/kookykraft/commit/2c9c61daccbee6c584ea16432feb000e41709495))
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Amendments ([fb6411e](https://github.com/izmystic/kookykraft/commit/fb6411e2400d76c33de1b971d89c15d2968671ff))
+* **kookykraft:** add Amethyst Core ([8ed7550](https://github.com/izmystic/kookykraft/commit/8ed75503201a5dd2a6e0fb6fa8d1f6c7415b729a))
+* **kookykraft:** add Amethyst Imbuement ([9a5a7a9](https://github.com/izmystic/kookykraft/commit/9a5a7a968c29723f1823d6029ac5df0b39953b79))
+* **kookykraft:** add Fzzy Core ([26490ae](https://github.com/izmystic/kookykraft/commit/26490aedddbd251120718eda21fe29d36ab92961))
+* **kookykraft:** add Gear Core ([16cfc65](https://github.com/izmystic/kookykraft/commit/16cfc658ceed0bb74dc303612708f7a4b19e3699))
+* **kookykraft:** add GregTechCEu Modern ([69c9d30](https://github.com/izmystic/kookykraft/commit/69c9d3031a62da76846b82499ca2b449ad1b45d0))
+* **kookykraft:** add IceAndFire-Fabric ([95808f5](https://github.com/izmystic/kookykraft/commit/95808f55f0f2538cfb8b142bf55dc295874fc9be))
+* **kookykraft:** add Imbued Gear ([2f0958b](https://github.com/izmystic/kookykraft/commit/2f0958b6b08e4870cbba61715b7d20abbc216e1e))
+* **kookykraft:** add Rogues & Warriors (RPG Series) ([ab6de0f](https://github.com/izmystic/kookykraft/commit/ab6de0f78a153750e3506ca6f5f245aa7b9b0d74))
+* **kookykraft:** add The Twilight Forest Unofficial ([e9e81d8](https://github.com/izmystic/kookykraft/commit/e9e81d83f479a1c50b0c810ccf163b9bbd27ae64))
+* **kookykraft:** remove Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More) ([8af9f63](https://github.com/izmystic/kookykraft/commit/8af9f630ba8814998c6006abd84ea2953b3fc572))
+* **kookykraft:** remove Main Menu Credits ([2ac9b1e](https://github.com/izmystic/kookykraft/commit/2ac9b1e709710b51ae193bbd31862c0e0786345b))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Accessories ([c8e0af3](https://github.com/izmystic/kookykraft/commit/c8e0af3ece85eabaa1629967405e3ea280a0f974))
+* **kookykraft:** update Chipped ([786246f](https://github.com/izmystic/kookykraft/commit/786246ffaf2923516515dcf568ce4df2eb0467f0))
+* **kookykraft:** update Create: Garnished ([8e55c9d](https://github.com/izmystic/kookykraft/commit/8e55c9db039e275d0169b8aa8243d31933e038b4))
+* **kookykraft:** update EMI Ores ([742b195](https://github.com/izmystic/kookykraft/commit/742b19505dbe9b8b12095b02dbbf7fdc87c5357a))
+* **kookykraft:** update Fabric Language Kotlin ([563d139](https://github.com/izmystic/kookykraft/commit/563d1392ba94fe0a2f68e389b12fb668ef037d93))
+* **kookykraft:** update Fzzy Config ([7e7fa7c](https://github.com/izmystic/kookykraft/commit/7e7fa7ce14aad7c53d90fe79c54884a909d36ffe))
+* **kookykraft:** update Lithostitched ([7a15a9d](https://github.com/izmystic/kookykraft/commit/7a15a9d3c79692c37bc24abe0aef2a183d843a71))
+* **kookykraft:** update Moonlight Lib ([1fa0ba3](https://github.com/izmystic/kookykraft/commit/1fa0ba33615f391be773fac341dfb745fa5bc025))
+* **kookykraft:** update Moonlight Lib ([92333b8](https://github.com/izmystic/kookykraft/commit/92333b8b0b53f04a45716820707de7b36607aaa7))
+* **kookykraft:** update Pufferfish's Attributes ([b9d31a9](https://github.com/izmystic/kookykraft/commit/b9d31a9e640ecee282bd82b63cb6033619c3fd60))
+* **kookykraft:** update Traveler's Backpack ([0d4e004](https://github.com/izmystic/kookykraft/commit/0d4e0048978a424c74818a828d946ce95c038b8e))
+* **kookykraft:** update You're in Grave Danger ([1e7f179](https://github.com/izmystic/kookykraft/commit/1e7f1790086ee53a4eccd2272802da1e3f94b755))
+
 ## [2.0.7](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.6...kookykraft-v2.0.7) (2024-10-09)
 
 
