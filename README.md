@@ -170,8 +170,7 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**MC Dungeons Artifacts**](https://modrinth.com/mod/mcdar) - MC Dungeons Artifacts (MCDAR) aims to (eventually) bring all of these artifacts, and more, from Minecraft Dungeons to Minecraft.
 - [**MC Dungeons Weapons**](https://modrinth.com/mod/mcdw) - Adds the weapons, tools and weapon enchantments from Minecraft Dungeons
 - [**Macaw's Bridges**](https://modrinth.com/mod/macaws-bridges) - A simple mod that adds a lot of bridges!
-- [**Macaw's Doors**](https://modrinth.com/mod/macaws-doors) - Adds vanilla doors with every wood color and new unique doors!
-Such as western, garage, shoji and more...!
+- [**Macaw's Doors**](https://modrinth.com/mod/macaws-doors) - Adds vanilla doors with every wood color and new unique doors! Such as western, garage, shoji and more...!
 - [**Macaw's Fences and Walls**](https://modrinth.com/mod/macaws-fences-and-walls) - Adds new vanilla styled fences, walls and gates!
 - [**Macaw's Lights and Lamps**](https://modrinth.com/mod/macaws-lights-and-lamps) - Adds vanilla styled lamps, torches, street lamps, paper lamps, wall lamps, slabs... Make your world brighter!
 - [**Macaw's Paintings**](https://modrinth.com/mod/macaws-paintings) - Adds custom drawn paintings to fit in your world!
