@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributes.pw.toml"
-hash = "7aa37ee74fc64529af36f79b1b2959b4cbfc1793309b93e1563d075bb9ee603a"
+hash = "a77be405f5de375293a2831927dd9b65c1a39cee368c6913b7f7d8b1576c14c7"
 metafile = true
 
 [[files]]
