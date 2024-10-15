@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.0...kookykraft-v2.1.1) (2024-10-15)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** edit IceAndFire-Fabric's config ([1a70e13](https://github.com/izmystic/kookykraft/commit/1a70e135965f23f602adce5532f7ade4d130d0dd))
+* **kookykraft:** remove The Twilight Forest Unofficial ([5fc306d](https://github.com/izmystic/kookykraft/commit/5fc306de6d408a12f57f82e62dca7079eef9489d))
+
 ## [2.1.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.0.7...kookykraft-v2.1.0) (2024-10-15)
 
 
