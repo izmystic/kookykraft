@@ -633,11 +633,6 @@ hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "f661942d89e269d0e15945957271aa030b5ad5f55d1c109aed448d64fb06e127"
-metafile = true
-
-[[files]]
 file = "mods/heartcanister.pw.toml"
 hash = "8706ac961a8dbfc0824aa8df133aa9e0e1a9a3147059c381ff0aa6de6bf7a264"
 metafile = true
