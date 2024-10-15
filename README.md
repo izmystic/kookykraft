@@ -19,6 +19,9 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**Advanced Netherite**](https://modrinth.com/mod/advanced-netherite) - A vanilla and add-on friendly, open-source mod that adds in more tiers of Netherite!
 - [**AmbientSounds**](https://modrinth.com/mod/ambientsounds) - #listentonature
 - [**Amecs**](https://modrinth.com/mod/amecs) - Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.
+- [**Amendments**](https://modrinth.com/mod/amendments) - Many changes to vanilla blocks
+- [**Amethyst Core**](https://modrinth.com/mod/amethyst-core) - Library mod that powers the Amethyst Imbuement family of mods; can be used to create your very own Magic-themed Mod!
+- [**Amethyst Imbuement**](https://modrinth.com/mod/amethyst-imbuement) - A magic mod focused on crystal magic, spell casting, and utilizing your experience
 - [**Animatica**](https://modrinth.com/mod/animatica) - A mod implementing the OptiFine/MCPatcher animated texture format
 - [**Another Furniture**](https://modrinth.com/mod/another-furniture) - Vanilla-styled Minecraft furniture mod.
 - [**AppleSkin**](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
@@ -105,7 +108,6 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**EMI Ores**](https://modrinth.com/mod/emi-ores) - Easily view ore generation information from inside EMI.
 - [**EMI Trades**](https://modrinth.com/mod/emitrades) - Villager trading for EMI.
 - [**EMIffect**](https://modrinth.com/mod/emiffect) - EMI addon that appends status effects in EMI and provides information about each status effect.
-- [**Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)**](https://modrinth.com/mod/ears) - More skin customization options for just about every version + skin back​ports/fixes for pre-1.9 versions.
 - [**Easy Anvils**](https://modrinth.com/mod/easy-anvils) - Be ready for overhauled anvils! Items stay, better name tags, many tweaks!
 - [**Easy Magic**](https://modrinth.com/mod/easy-magic) - Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.
 - [**Eating Animation**](https://modrinth.com/mod/eating-animation) - A mod that adds sprite animations for edible and drinkable items.
@@ -128,10 +130,14 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**Forge Config API Port**](https://modrinth.com/mod/forge-config-api-port) - NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
 - [**Fusion (Connected Textures)**](https://modrinth.com/mod/fusion-connected-textures) - Fusion allows resource packs to use additional texture and model types such as connected textures!
 - [**Fzzy Config**](https://modrinth.com/mod/fzzy-config) - Config API with automatic GUIs, powerful validation options, server-client sync, and more!
+- [**Fzzy Core**](https://modrinth.com/mod/fzzy-core) - API used in fzzyhmstrs mods that provides various utilities for Kotlin mods
+- [**Gear Core**](https://modrinth.com/mod/gear-core) - Library mod for the creation of equipment modifiers that can apply entity attributes or track a variety of events like taking damage, killing mobs, and more.
 - [**Geckolib**](https://modrinth.com/mod/geckolib) - A 3D animation library for entities, blocks, items, armor, and more!
 - [**Heart Canisters**](https://modrinth.com/mod/heartcanister) - Adds Tinkers' Construct-like Heart Canisters
 - [**Hephaestus**](https://modrinth.com/mod/hephaestus) - Modify all the things, then do it again! Fabric port of Tinkers' Construct
+- [**IceAndFire-Fabric**](https://modrinth.com/mod/iceandfire-fabric) - The unofficial version of mod Ice and Fire
 - [**Idwtialsimmoedm**](https://modrinth.com/mod/idwtialsimmoedm) - I didn't want to install a library so I made my own Enchantment Descriptions mod
+- [**Imbued Gear**](https://modrinth.com/mod/imbued-gear) - Addon for Amethyst Imbuement that brings new Armor, Weapons, Trinkets, and Materials!
 - [**ImmediatelyFast**](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
 - [**Immersive Armors**](https://modrinth.com/mod/immersive-armors) - A lot of unique and vanilla-faithful armor sets.
 - [**Incendium**](https://modrinth.com/mod/incendium) - A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.
@@ -142,6 +148,7 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**Jade Addons (Fabric)**](https://modrinth.com/mod/jade-addons-fabric) - Jade 🔍's additional mod supports for Fabric
 - [**Jade 🔍**](https://modrinth.com/mod/jade) - Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)
 - [**Jewelry (RPG Series)**](https://modrinth.com/mod/jewelry) - 💍 Find precious gems deep down, and craft them into powerful jewelry!
+- [**Jupiter**](https://modrinth.com/mod/jupiter) - A powerful, auto sync config library.
 - [**Keebsz's Battletowers**](https://modrinth.com/mod/keebszs-battletowers) - Climb your way to the top if you can!
 - [**Knaves' Needs**](https://modrinth.com/mod/knaves-needs) - Additional swords for Simply Swords.
 - [**Krypton**](https://modrinth.com/mod/krypton) - A mod to optimize the Minecraft networking stack
@@ -163,7 +170,8 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**MC Dungeons Artifacts**](https://modrinth.com/mod/mcdar) - MC Dungeons Artifacts (MCDAR) aims to (eventually) bring all of these artifacts, and more, from Minecraft Dungeons to Minecraft.
 - [**MC Dungeons Weapons**](https://modrinth.com/mod/mcdw) - Adds the weapons, tools and weapon enchantments from Minecraft Dungeons
 - [**Macaw's Bridges**](https://modrinth.com/mod/macaws-bridges) - A simple mod that adds a lot of bridges!
-- [**Macaw's Doors**](https://modrinth.com/mod/macaws-doors) - Adds vanilla doors with every wood color and new unique doors! Such as western, garage, shoji and more...!
+- [**Macaw's Doors**](https://modrinth.com/mod/macaws-doors) - Adds vanilla doors with every wood color and new unique doors!
+Such as western, garage, shoji and more...!
 - [**Macaw's Fences and Walls**](https://modrinth.com/mod/macaws-fences-and-walls) - Adds new vanilla styled fences, walls and gates!
 - [**Macaw's Lights and Lamps**](https://modrinth.com/mod/macaws-lights-and-lamps) - Adds vanilla styled lamps, torches, street lamps, paper lamps, wall lamps, slabs... Make your world brighter!
 - [**Macaw's Paintings**](https://modrinth.com/mod/macaws-paintings) - Adds custom drawn paintings to fit in your world!
@@ -171,7 +179,6 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**Macaw's Roofs**](https://modrinth.com/mod/macaws-roofs) - Build roofs with actual roofs instead of stairs!
 - [**Macaw's Trapdoors**](https://modrinth.com/mod/macaws-trapdoors) - Adds vanila trapdoors in every plank variation, and some new trapdoors too!
 - [**Macaw's Windows**](https://modrinth.com/mod/macaws-windows) - Adds lots of Windows, Mosaic Glass, Blinds, Shutters, Curtains and more...!
-- [**Main Menu Credits**](https://modrinth.com/mod/main-menu-credits) - Adds a way of adding information to the user's title screen.
 - [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix) - A mod that fixes random memory leaks for both the client and server
 - [**Mod Menu**](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 - [**Model Gap Fix**](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models
@@ -211,6 +218,7 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**Resourceful Lib**](https://modrinth.com/mod/resourceful-lib) - Resourceful Lib
 - [**Rethinking Voxels**](https://modrinth.com/mod/rethinking-voxels) - [WIP] A gameplay shaderpack based on complementary reimagined that has coloured block light with sharp shadows
 - [**Ribbits**](https://modrinth.com/mod/ribbits) - Swamp villages and musical frogs!
+- [**Rogues & Warriors (RPG Series)**](https://modrinth.com/mod/rogues-and-warriors) - 🗡️ Silent Blades, Mighty Blows - Dominate with martial skills!
 - [**Runes**](https://modrinth.com/mod/runes) - 🪨 Craft runes to serve as ammo for spells
 - [**Sawmill**](https://modrinth.com/mod/universal-sawmill) - Ultimate Woodcutter. As it was intented, compatible with any mod, automatically. Includes Carpenter Villager
 - [**ServerCore**](https://modrinth.com/mod/servercore) - A mod that aims to optimize the minecraft server.
@@ -242,6 +250,7 @@ Whether you dream of building a sprawling automated base or becoming a master of
 - [**Traveler's Backpack**](https://modrinth.com/mod/travelersbackpack) - Unique and upgradeable backpacks with customisation, Curios API/Trinkets integration and more!
 - [**Trimmable Tools**](https://modrinth.com/mod/trimmable-tools) - Trim your tools!
 - [**Trinkets Compat Layer for Accessories**](https://modrinth.com/mod/accessories-tc-layer) - A Compatibility layer for mods using the Trinkets API to work with Accessories
+- [**Uranus**](https://modrinth.com/mod/uranus) - A Library contains animation engine, object helper and so on. Partly based on LLibrary and Citadel.
 - [**Vein Mining**](https://modrinth.com/mod/vein-mining) - A lightweight, highly configurable Vein Mining enchantment for tools.
 - [**Very Many Players (Fabric)**](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
 - [**Visual Workbench**](https://modrinth.com/mod/visual-workbench) - Items stay inside of crafting tables and are also rendered on top. It's really fancy!
