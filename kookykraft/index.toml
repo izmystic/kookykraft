@@ -60,6 +60,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d71ef35e3ebe2f41c22fbc06f62f73050e44f7f2bf3c7ebd9a5db9450bd79993"
+metafile = true
+
+[[files]]
 file = "mods/amethyst-core.pw.toml"
 hash = "a59f8f8e075678e2bba4ddddc9b049f4682154b45837ae74b0bbb81e12be0afa"
 metafile = true
