@@ -1,0 +1,13 @@
+name = "Jupiter"
+filename = "Jupiter-1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/QAFprxNg/Jupiter-1.1-fabric.jar"
+hash-format = "sha512"
+hash = "bcaf469f39233aa8a65316464424d615f73fd8f0e3efd67587ce785da89843ff8419fedad82bcdbf6de899c532add17100ac34f68691173b3ef8c458aa91d5a8"
+
+[update]
+[update.modrinth]
+mod-id = "XbiLGMMU"
+version = "QAFprxNg"

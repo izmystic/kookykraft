@@ -635,6 +635,11 @@ hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-fabric.pw.toml"
+hash = "345bcdfb71543a5dca30014f41d96610c6db3ba074342f68113b10454411fe9b"
+metafile = true
+
+[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "b164444351fad88017815bf30df840e516be9103fbf890dacf5e7f4fe2f35301"
 metafile = true
@@ -692,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/jewelry.pw.toml"
 hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "26ab38c11443024616edf773534f0b7f60e9a55864d42f7783386502b584a26d"
 metafile = true
 
 [[files]]
@@ -1227,6 +1237,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c98720cd6931e07a58aaa13c1607e72a37637d2bee74caba9a2ae88cd2b2b9b6"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "3c499ac5a02064f6244a50c0f5c4db5f633cbadfa45fdff6e4eb6d4837317ff1"
 metafile = true
 
 [[files]]
