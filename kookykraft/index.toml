@@ -1210,6 +1210,11 @@ hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
+hash = "1c2d30b53ca7fe92b3dca2d1019da941e0154bc739c9c0c3e65dcda8f67a81ff"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
