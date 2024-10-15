@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.1...kookykraft-v2.1.2) (2024-10-15)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** remove GregTechCEu Modern ([95b721c](https://github.com/izmystic/kookykraft/commit/95b721c8e9f79581968a9d1e8f322aa5de2de09a))
+
 ## [2.1.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.0...kookykraft-v2.1.1) (2024-10-15)
 
 
