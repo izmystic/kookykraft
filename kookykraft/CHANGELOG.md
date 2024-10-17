@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.1.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.2...kookykraft-v2.1.3) (2024-10-17)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Create Slice & Dice ([c54f37e](https://github.com/izmystic/kookykraft/commit/c54f37eddc35c5fd5e02883b31118bde197acb45))
+* **kookykraft:** add Create: Crystallized ([fb163a4](https://github.com/izmystic/kookykraft/commit/fb163a43c5c099f6c9b26ecfa061e4fbdd292859))
+* **kookykraft:** add Create: Interiors ([c1d3c6f](https://github.com/izmystic/kookykraft/commit/c1d3c6f13b5f991d91d13b6ed73b1f67f1ff2134))
+* **kookykraft:** add Create: Molten Metals ([d436f71](https://github.com/izmystic/kookykraft/commit/d436f71f5871a468623ccd96bbcbeeadbecc36ec))
+* **kookykraft:** add Farmer's Delight Refabricated ([88e458e](https://github.com/izmystic/kookykraft/commit/88e458ebb5a119b99fcc3ef9c56fb5cd9f5fb3c6))
+* **kookykraft:** add Immersive Aircraft ([4c373ed](https://github.com/izmystic/kookykraft/commit/4c373eda46c118cc8be14ed69ca92566c32d3a0c))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update IceAndFire-Fabric ([7e18404](https://github.com/izmystic/kookykraft/commit/7e1840493631faff80e2f78af39f57c5b857e0e9))
+
 ## [2.1.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.1...kookykraft-v2.1.2) (2024-10-15)
 
 
