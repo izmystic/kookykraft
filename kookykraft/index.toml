@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-fabric.pw.toml"
-hash = "345bcdfb71543a5dca30014f41d96610c6db3ba074342f68113b10454411fe9b"
+hash = "d4282df423f6d69ecac588c49d24c509bd66adfc28c3a2042678429a4bccfdc4"
 metafile = true
 
 [[files]]

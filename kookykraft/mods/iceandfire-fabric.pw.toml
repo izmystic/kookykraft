@@ -1,13 +1,13 @@
 name = "IceAndFire-Fabric"
-filename = "iceandfire-0.6.2.jar"
+filename = "iceandfire-0.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VpmCsizY/versions/I5LgyoLT/iceandfire-0.6.2.jar"
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/A2ICqUUQ/iceandfire-0.6.3.jar"
 hash-format = "sha512"
-hash = "cfebbe17b3b9671229a8d22cd5c30ca61e07305e911223951cac1d9eee8071a4fba7e76195fda3031685e10c96e08aac9f2992f9c6f3ec337124d52422a0f284"
+hash = "65773c582afa239359b76592d71f5a55473184a0863ce174df1b810f18dd4a15d2c5be1a8ec35cf51641eee98a4f9c826baa2d9a747d560dde3ad8eab97ca27c"
 
 [update]
 [update.modrinth]
 mod-id = "VpmCsizY"
-version = "I5LgyoLT"
+version = "A2ICqUUQ"
