@@ -283,6 +283,11 @@ hash = "00d72c44213c8697826d87cc4a35a5413650a73ce019cdda5c04278273cbe6d1"
 metafile = true
 
 [[files]]
+file = "mods/create-crystallized.pw.toml"
+hash = "805cacaf171022d4349e006217497764aeafbc17cc44b2597255f0adb637c3ce"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
