@@ -353,6 +353,11 @@ hash = "d9a6ce5045ec3619cfd28c58f92768f2a66d70c260041dcb7fc902247a3b8e99"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "2b5bcee81f7a1cea0d67ea9b8afdd88523db60338e2553e0b38db12830341057"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
 metafile = true
