@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d71ef35e3ebe2f41c22fbc06f62f73050e44f7f2bf3c7ebd9a5db9450bd79993"
+hash = "f9278d338d0fc16a343206fdce858d5d57adb84a2ee12eb815053695f37a1886"
 metafile = true
 
 [[files]]
