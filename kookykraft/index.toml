@@ -828,6 +828,11 @@ hash = "0f9ecc2ddf47c61c50d04cdc4e45a69c455feb21574bbe1dfd85439d67a433c2"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "0ca3489a35a95c7eeb86543126b9f5783a472b9634300b8287330a96a76c742d"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "58235ed6c97ca3f3486fab657e486993808a0a23cdd94c931c9b102e36a0d408"
 metafile = true
