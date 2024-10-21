@@ -818,6 +818,11 @@ hash = "3cb50c3f498f74c53baa2c957829814d65a9daab56fd1723d6a828dc17be4c6b"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "df3007648a7faaf6ee62b6d4d3427ba8f97fe1abee926578964006812e344af6"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-brewery.pw.toml"
 hash = "0f9ecc2ddf47c61c50d04cdc4e45a69c455feb21574bbe1dfd85439d67a433c2"
 metafile = true
