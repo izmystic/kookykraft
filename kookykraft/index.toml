@@ -368,6 +368,11 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "6ab4642e631a4c839ffb91e55a123f734419380deb10208914c8ebea196a2bf6"
+metafile = true
+
+[[files]]
 file = "mods/create-train-perspective.pw.toml"
 hash = "057c2907a976ceb6b054ca6f089f18378390e6d190b7cece6ff5eb871d2e2dc8"
 metafile = true
