@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.3...kookykraft-v2.1.4) (2024-10-22)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** remove Create: Crystallized ([c9db45e](https://github.com/izmystic/kookykraft/commit/c9db45e46ad831b8116befba813738d575fbdfac))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Fzzy Config ([040d7b6](https://github.com/izmystic/kookykraft/commit/040d7b66301dc723e601f4173dd9d8760a49caf2))
+
 ## [2.1.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.2...kookykraft-v2.1.3) (2024-10-22)
 
 
