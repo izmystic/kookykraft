@@ -1,5 +1,45 @@
 # Changelog
 
+## [2.1.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.2...kookykraft-v2.1.3) (2024-10-22)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add [Let's Do] Bakery - Farm&Charm Compat ([b9b09f7](https://github.com/izmystic/kookykraft/commit/b9b09f776aaa029e695d2648ea6cff4388ede2ad))
+* **kookykraft:** add [Let's Do] Brewery - Farm&Charm Compat ([a7f6f7b](https://github.com/izmystic/kookykraft/commit/a7f6f7b60c57dfb050575b8b7031a3d6790b267a))
+* **kookykraft:** add [Let's Do] Candlelight - Farm&Charm compat ([83cab92](https://github.com/izmystic/kookykraft/commit/83cab9296bac12b34693b4497346fffd200ff591))
+* **kookykraft:** add [Let's Do] Farm & Charm ([5e5e1c5](https://github.com/izmystic/kookykraft/commit/5e5e1c519c2f9e2b54f7a0159336a0373f0b7317))
+* **kookykraft:** add [Let's Do] Furniture ([97ef961](https://github.com/izmystic/kookykraft/commit/97ef961e39ed19734587c771b0c94f3d48c86fc8))
+* **kookykraft:** add [Let's Do] WilderNature ([be71ab1](https://github.com/izmystic/kookykraft/commit/be71ab11a54c2384052df6896941bcc6a5747ca4))
+* **kookykraft:** add Create Slice & Dice ([c54f37e](https://github.com/izmystic/kookykraft/commit/c54f37eddc35c5fd5e02883b31118bde197acb45))
+* **kookykraft:** add Create: Crystallized ([fb163a4](https://github.com/izmystic/kookykraft/commit/fb163a43c5c099f6c9b26ecfa061e4fbdd292859))
+* **kookykraft:** add Create: Interiors ([c1d3c6f](https://github.com/izmystic/kookykraft/commit/c1d3c6f13b5f991d91d13b6ed73b1f67f1ff2134))
+* **kookykraft:** add Create: Molten Metals ([d436f71](https://github.com/izmystic/kookykraft/commit/d436f71f5871a468623ccd96bbcbeeadbecc36ec))
+* **kookykraft:** add Create: Pattern Schematics ([1de4259](https://github.com/izmystic/kookykraft/commit/1de4259e6f955fda6ab91d247a0f77c7f660f7e5))
+* **kookykraft:** add Create: Trading floor ([95a955f](https://github.com/izmystic/kookykraft/commit/95a955f6426f1fbd2a359a05fc66642ed656e453))
+* **kookykraft:** add Farmer's Delight Refabricated ([88e458e](https://github.com/izmystic/kookykraft/commit/88e458ebb5a119b99fcc3ef9c56fb5cd9f5fb3c6))
+* **kookykraft:** add Immersive Aircraft ([4c373ed](https://github.com/izmystic/kookykraft/commit/4c373eda46c118cc8be14ed69ca92566c32d3a0c))
+* **kookykraft:** add Liquid Burner ([e01b661](https://github.com/izmystic/kookykraft/commit/e01b6616ac115e55ab602c328c24d2831d32af5a))
+* **kookykraft:** add Stoneworks ([c2ce3ab](https://github.com/izmystic/kookykraft/commit/c2ce3abb9c5f219f970c372c61bf7908a4c93a92))
+* **kookykraft:** remove Liquid Burner ([dac98b6](https://github.com/izmystic/kookykraft/commit/dac98b6d17007dcd304b5fe697d0ad68195baaa0))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** downgrade Create: Interiors ([4d41d9f](https://github.com/izmystic/kookykraft/commit/4d41d9f1c99f512b610b1f5d6717a3e4625e8387))
+* **kookykraft:** update Amendments ([865c643](https://github.com/izmystic/kookykraft/commit/865c64344d5f9e56d3b732830c29a2472d5c3001))
+* **kookykraft:** update CIT Resewn ([3048ff9](https://github.com/izmystic/kookykraft/commit/3048ff9736067d5e28d3a6fdf0f581275b4ffd2b))
+* **kookykraft:** update Create Cobblestone ([2e10be0](https://github.com/izmystic/kookykraft/commit/2e10be062f0c077ca18f172939f2f940847ccd6e))
+* **kookykraft:** update Create: Crystallized ([2522ebe](https://github.com/izmystic/kookykraft/commit/2522ebe298dfb1b7123569dbe8ffd50c0a177885))
+* **kookykraft:** update Create: Garnished ([fc9597a](https://github.com/izmystic/kookykraft/commit/fc9597a9c28c24ee40382226cc0fe7637c94c215))
+* **kookykraft:** update Cull Less Leaves ([bdc7184](https://github.com/izmystic/kookykraft/commit/bdc71846fb52eaaa05e2911b2463f0f5db757bfd))
+* **kookykraft:** update Fzzy Config ([704b246](https://github.com/izmystic/kookykraft/commit/704b246bf3ac2c5b4159dcbd4e576e893f36935f))
+* **kookykraft:** update IceAndFire-Fabric ([7e18404](https://github.com/izmystic/kookykraft/commit/7e1840493631faff80e2f78af39f57c5b857e0e9))
+* **kookykraft:** update M.R.U ([853d986](https://github.com/izmystic/kookykraft/commit/853d986463e8998e7b0f38730daad527b6929da3))
+* **kookykraft:** update Moonlight Lib ([0f14665](https://github.com/izmystic/kookykraft/commit/0f14665e0107ba88977b6fb124b134542f506854))
+* **kookykraft:** update Uranus ([69ed813](https://github.com/izmystic/kookykraft/commit/69ed81303b6254d80e4aa2d6d200cd505cd5fc09))
+* **kookykraft:** update YetAnotherConfigLib ([f14fa91](https://github.com/izmystic/kookykraft/commit/f14fa91ad6625b28a2a92e2b9c2a1f59292ee352))
+
 ## [2.1.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.1...kookykraft-v2.1.2) (2024-10-15)
 
 
