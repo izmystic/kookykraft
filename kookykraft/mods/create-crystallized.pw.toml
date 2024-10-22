@@ -1,6 +1,6 @@
 name = "Create: Crystallized"
 filename = "crystallized-1.0.0+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YiHKehNS/versions/P2fXEDyj/crystallized-1.0.0%2B1.20.1.jar"
