@@ -1,0 +1,13 @@
+name = "kookykraft-neo"
+author = "mystic"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "64fc404b221614864554b2c018e8763990194e9cda1f56002c0cb942ba6464ef"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.80"
