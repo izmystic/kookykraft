@@ -405,11 +405,6 @@ hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "f1eee59c57b36d547afaa5348e7fa543754379c2e7057dffac4470d9c8c57105"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "84b5ca7fcfe3b6471ae05135e59852352124caa7e3b733476862512b83ee755d"
 metafile = true
