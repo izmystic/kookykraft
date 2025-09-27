@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.0...kookykraft-v3.0.1) (2025-09-27)
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** Create: Oxidized load on both ([edad900](https://github.com/izmystic/kookykraft/commit/edad9005f2d601238a3dd04db45e101f5104a6ea))
+
 ## [3.0.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v2.1.4...kookykraft-v3.0.0) (2025-09-27)
 
 
