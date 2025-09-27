@@ -1,16 +1,13 @@
 name = "kookykraft"
-author = "mystic"
-version = "3.0.0"
+author = "izmystic"
+version = "2.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2eac1d0ff122bc23d57f201c2dc0a121035aea30a3651bda665a27f689640e2c"
+hash = "9a352eddc04d499ff25cfc422d7ffcb2714d8ef0571644c557bf792922df919f"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.209"
-
-[options]
-acceptable-game-versions = ["1.21"]
+fabric = "0.16.5"
+minecraft = "1.20.1"
