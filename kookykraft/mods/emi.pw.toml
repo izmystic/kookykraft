@@ -1,13 +1,13 @@
 name = "EMI"
-filename = "emi-1.1.16+1.20.1+fabric.jar"
+filename = "emi-1.1.22+1.21.1+neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/L452maHz/emi-1.1.16%2B1.20.1%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/ouSj7NfF/emi-1.1.22%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "fc54e3227e5856413ae3a20cf408c30b459175fc668cb815233bc5c55373ff199fa37517992fd8cc7915b6cbec9775b111bb4fd550f2783a291555bdb9ba4608"
+hash = "6b4f2b93ccd40bbbf3d1f368a9d92b43777543c44243a76ed4010bd563a7f9658decdd58a3d79a3cdc04a288bf98e327a1cce93a5a9d2b8840306578fe633bca"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "L452maHz"
+version = "ouSj7NfF"

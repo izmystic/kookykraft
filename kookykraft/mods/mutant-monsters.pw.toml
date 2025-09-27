@@ -1,13 +1,13 @@
 name = "Mutant Monsters"
-filename = "MutantMonsters-v8.0.7-1.20.1-Fabric.jar"
+filename = "MutantMonsters-v21.1.0-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/derP0ten/versions/GEdQkhpr/MutantMonsters-v8.0.7-1.20.1-Fabric.jar"
-hash-format = "sha1"
-hash = "f8ceed07d6b9bdf5af4a65d819d4a7e9dc62ed74"
+url = "https://cdn.modrinth.com/data/derP0ten/versions/xVkzu4AZ/MutantMonsters-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "d6f7d1ec44fbc486813b218bfece1f2df8f5b72ec1be9438c7d2d0f119ddcae0aad56deb0e51dbb66e76abe0ca00db7fa1d5e1abd5026baf2909aab53cf2fac2"
 
 [update]
 [update.modrinth]
 mod-id = "derP0ten"
-version = "GEdQkhpr"
+version = "xVkzu4AZ"
