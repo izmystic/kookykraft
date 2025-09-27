@@ -1,13 +1,13 @@
 name = "Combat Roll"
-filename = "combatroll-fabric-1.3.3+1.20.1.jar"
+filename = "combat_roll-neoforge-2.0.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "7711c08770aa5d15f215093b6884c473350e2e1f"
+url = "https://cdn.modrinth.com/data/wGKYL7st/versions/R7D0sles/combat_roll-neoforge-2.0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a85c3fd65a940d93d90676954a6a2dcba18dca9a431752b659a407f6d13421a02f1faf744c012f887ef5de780203d3522b0f784133d6f528e02a74ad09973fbd"
 
 [update]
 [update.modrinth]
 mod-id = "wGKYL7st"
-version = "FyOp03FS"
+version = "R7D0sles"

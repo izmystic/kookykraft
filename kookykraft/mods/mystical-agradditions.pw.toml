@@ -1,0 +1,13 @@
+name = "Mystical Agradditions"
+filename = "MysticalAgradditions-1.21.1-8.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pl0jGXIx/versions/kDiy9FkF/MysticalAgradditions-1.21.1-8.0.8.jar"
+hash-format = "sha512"
+hash = "1ff8c3528719f0a030bfb1804d020aa188fa1f44c337443ded48303a842ead17ce9eadeb30f5b5564eb64b0227e418ce749c1663b0b15f5e21f75ae899bad28f"
+
+[update]
+[update.modrinth]
+mod-id = "pl0jGXIx"
+version = "kDiy9FkF"

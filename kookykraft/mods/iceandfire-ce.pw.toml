@@ -1,0 +1,13 @@
+name = "IceAndFire Community Edition"
+filename = "IceAndFireCE-1.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/S6tF3M1u/IceAndFireCE-1.1-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f96f11ecda84d01b2d5957eaba83fb04d0e053b58ca3eebeb62e3e3c6b7c4d9378fb5958b8079465b4fae9225a17cc5ff68b8dc528f19c7c0da752c4cdc034ca"
+
+[update]
+[update.modrinth]
+mod-id = "VpmCsizY"
+version = "S6tF3M1u"
