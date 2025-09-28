@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "f8c07162ef6b153eee32774abf15bf133924ea78e495777479302818b6ffb128"
+hash = "bdb56e9c219ee6f214d3ffd861a52e216fc8259269c6d95ef636c78d46ca08d6"
 metafile = true
 
 [[files]]
