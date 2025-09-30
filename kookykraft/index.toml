@@ -805,11 +805,6 @@ hash = "49b66f2c945ef591f5e6b787a7dd946918723c0486188ced9bd7415155fab2ec"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "09c393b303130cefffc1c376ddfdeb869b20db31d3d42d9fa155e13cfc628645"
-metafile = true
-
-[[files]]
 file = "mods/stellaris.pw.toml"
 hash = "bdb56e9c219ee6f214d3ffd861a52e216fc8259269c6d95ef636c78d46ca08d6"
 metafile = true
