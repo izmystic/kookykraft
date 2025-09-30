@@ -1,5 +1,25 @@
 # Changelog
 
+## [3.0.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.2...kookykraft-v3.0.3) (2025-09-30)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Sound Physics Perfected ([e0fa84c](https://github.com/izmystic/kookykraft/commit/e0fa84c2c41e1b45b2cb7690a01aecad931c656d))
+* **kookykraft:** add Wandrous ([b937dc3](https://github.com/izmystic/kookykraft/commit/b937dc38d8e6aa1777a52ffec99d852a4922ae29))
+* **kookykraft:** remove Sound Physics Remastered ([8442ab7](https://github.com/izmystic/kookykraft/commit/8442ab7bbb0ee7e314f9029c2c2d43fc72891b56))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Accessories ([b249e0e](https://github.com/izmystic/kookykraft/commit/b249e0e281368e0572a1d4e17786fb5644f9b186))
+* **kookykraft:** update Amendments ([0add601](https://github.com/izmystic/kookykraft/commit/0add60177ea508e0f3f421a81c13da583eda4a29))
+* **kookykraft:** update Ars Nouveau ([b879022](https://github.com/izmystic/kookykraft/commit/b879022958fd6e29b833e560f4524b542453253c))
+* **kookykraft:** update Chat Heads ([06b8e01](https://github.com/izmystic/kookykraft/commit/06b8e0143f0463778cb69983be7376d10d6c1e8b))
+* **kookykraft:** update Particle Rain ([907a878](https://github.com/izmystic/kookykraft/commit/907a87821fe7be97febc392c7ce741f51704abfa))
+* **kookykraft:** update Sophisticated Backpacks ([f2ac1b3](https://github.com/izmystic/kookykraft/commit/f2ac1b3d6e34a0ab0055545f9650213631146a6f))
+* **kookykraft:** update Sophisticated Core ([fb54c09](https://github.com/izmystic/kookykraft/commit/fb54c0921b412dd4182883aee873647cc2c302b8))
+
 ## [3.0.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.1...kookykraft-v3.0.2) (2025-09-28)
 
 
