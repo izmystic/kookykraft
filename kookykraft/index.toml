@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a2e45be5fae5f8fea2c595db28e903af1288922d3c0ae0fbc0314a73a5e37620"
+hash = "003fa45538ea53acf3a0659f6282d1dfe6d611eca5ce6eee87395edaef7de39c"
 metafile = true
 
 [[files]]
