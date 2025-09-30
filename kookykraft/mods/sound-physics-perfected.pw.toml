@@ -1,0 +1,13 @@
+name = "Sound Physics Perfected"
+filename = "sound_physics_perfected-1.10.5+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/3mwXFhmI/sound_physics_perfected-1.10.5%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "18f5198039a45d8d730ea2d73b960be97076f4e64c5462d88a1490db783ebc9855b9e174d7b1169536dc40901de8a6af97ded538a3b64733d6c305bb0098204e"
+
+[update]
+[update.modrinth]
+mod-id = "KS6Hbu9Z"
+version = "3mwXFhmI"
