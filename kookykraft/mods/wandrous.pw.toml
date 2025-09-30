@@ -1,0 +1,13 @@
+name = "Wandrous"
+filename = "wandrous-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/22qSPlHn/versions/NiqF9t0s/wandrous-1.2.1.jar"
+hash-format = "sha512"
+hash = "7ee27a26bd052542651fd227a3e5db99038fc4ad38d9a9d7a876c8cf64b21bf1b3c8cb001da9e8ec685a1486777f1db3379c125da87bc90517ff799faf7bb5a3"
+
+[update]
+[update.modrinth]
+mod-id = "22qSPlHn"
+version = "NiqF9t0s"

@@ -885,6 +885,11 @@ hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
+file = "mods/wandrous.pw.toml"
+hash = "ecae4f610e531cda60b73a295ce90ed22d65c33c2800727a3a06d5a848202c5c"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "edf03cb149013a97763f0a06e55733a34ab0ef0f69207554fcfc2e48abf4add8"
 metafile = true
