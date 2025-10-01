@@ -250,6 +250,11 @@ hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "51416be9d28c95a3c77e6de16dc155014b3bfb43dba332f93822d20ae3fed74c"
 metafile = true
