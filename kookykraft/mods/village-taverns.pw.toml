@@ -1,0 +1,13 @@
+name = "Village Taverns (RPG Series)"
+filename = "village_taverns-neoforge-1.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bj4a8NjJ/versions/G5p6M2cM/village_taverns-neoforge-1.1.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "6604f3a44972effe12d62678abe1d9c9dcacaf16202b0cf39a164478947a1ec959ddc67c1db014501c32fb88d68e9b8b32a11688870963e64b4214096b402535"
+
+[update]
+[update.modrinth]
+mod-id = "bj4a8NjJ"
+version = "G5p6M2cM"

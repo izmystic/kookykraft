@@ -975,6 +975,11 @@ hash = "0d38304c4dee1ad199288dcaae5578f5d732af9f329f0ff5cb8269dc634821dc"
 metafile = true
 
 [[files]]
+file = "mods/village-taverns.pw.toml"
+hash = "c62a79ea38a7d64d5e3d2bd98e88fc021166cb23685da4f4f882b01be9df5b4f"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
