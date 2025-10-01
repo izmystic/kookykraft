@@ -980,6 +980,11 @@ hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "f74971837b9dd385503c0a07dc64df0bfd9de23241b7addecd6029e1ab6377ec"
+metafile = true
+
+[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "d1a14292fecfc03135e8163af5d695ae5838d87b4937d863b5c334693bb0402f"
 metafile = true
