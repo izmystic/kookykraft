@@ -735,6 +735,11 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "3b428da5efd7c9065d9800c4d17f635caf96c435b89b8b4e3e204952f24fe156"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
