@@ -1,44 +1,5 @@
 # Changelog
 
-## [3.0.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.3...kookykraft-v3.0.4) (2025-10-01)
-
-
-### ☀ Modpack Changes
-
-* **kookykraft:** add "William Wythers' Overhauled Overworld ([7445a37](https://github.com/izmystic/kookykraft/commit/7445a3799a0acb56ee38f172db42e2fd0d8cbd98))
-* **kookykraft:** add Archers (RPG Series) ([7927da8](https://github.com/izmystic/kookykraft/commit/7927da854eeb21f08e9194eced4e0299f8f29b03))
-* **kookykraft:** add Armory (RPG Series) ([8deb2a7](https://github.com/izmystic/kookykraft/commit/8deb2a794313daaaf988dbdaef5d71d6de13338f))
-* **kookykraft:** add Arsenal (RPG Series) ([dafabed](https://github.com/izmystic/kookykraft/commit/dafabeddebdda954b5f1c3c541ca04c451d2d10b))
-* **kookykraft:** add Critters and Companions ([f82b3f9](https://github.com/izmystic/kookykraft/commit/f82b3f95bc928ec6a9f4c67843bba8cd0e264d49))
-* **kookykraft:** add Default Skill Trees ([5f9bab3](https://github.com/izmystic/kookykraft/commit/5f9bab30868bf751cc26d74528d093a92ee56a1a))
-* **kookykraft:** add Gazebos (RPG Series) ([8a9dcd8](https://github.com/izmystic/kookykraft/commit/8a9dcd8dbbfd8434f532ad300ec3352d9d9c6727))
-* **kookykraft:** add Immersive Armors ([dd04231](https://github.com/izmystic/kookykraft/commit/dd04231fefba863b878dcd79c28b6dec8bd28b59))
-* **kookykraft:** add Jewelry (RPG Series) ([281ce2a](https://github.com/izmystic/kookykraft/commit/281ce2a928b6b97e7a194caafce405e5b7f0c1d0))
-* **kookykraft:** add Load My F***ing Tags ([53bb16e](https://github.com/izmystic/kookykraft/commit/53bb16eb334488ca2cc70938978f87456051a83f))
-* **kookykraft:** add Modonomicon ([8d04835](https://github.com/izmystic/kookykraft/commit/8d04835395a92e17daf5681b3c511bc5577560a4))
-* **kookykraft:** add Paladins & Priests (RPG Series) ([15e803c](https://github.com/izmystic/kookykraft/commit/15e803c7ae273e039c69e7b3b3025670dc2bc366))
-* **kookykraft:** add Pufferfish's Skills ([fc7b36b](https://github.com/izmystic/kookykraft/commit/fc7b36bd7c4410351861676e94b75757c652c3ad))
-* **kookykraft:** add Relics (RPG Series) ([a90efde](https://github.com/izmystic/kookykraft/commit/a90efde6179399fe0d67ac7d6c53da7917177e29))
-* **kookykraft:** add Ribbits ([f2cb370](https://github.com/izmystic/kookykraft/commit/f2cb3708a81617be39019fe5321b1185ddd5bbe0))
-* **kookykraft:** add Rogues & Warriors (RPG Series) ([20b5e77](https://github.com/izmystic/kookykraft/commit/20b5e77af0d68d72f2c237c521ed24bc91a9624d))
-* **kookykraft:** add Skill Tree (RPG Series) ([081a9aa](https://github.com/izmystic/kookykraft/commit/081a9aa8599430f53172baefa8547c18aaad93db))
-* **kookykraft:** add Traveler's Backpack ([7a3a124](https://github.com/izmystic/kookykraft/commit/7a3a12419a5a82fbeca29f92b59c13f6077bd10b))
-* **kookykraft:** add Village Taverns (RPG Series) ([8a35f5a](https://github.com/izmystic/kookykraft/commit/8a35f5a2eacec84660cbf271b94b2e5a8266a5d9))
-* **kookykraft:** add Wizards (RPG Series) ([b436493](https://github.com/izmystic/kookykraft/commit/b436493886747d3df2a830e6f31251f9addaaa6c))
-* **kookykraft:** remove Sophisticated Backpacks ([ca6224e](https://github.com/izmystic/kookykraft/commit/ca6224e729d8e412c078953046f86ff7710d9a43))
-* **kookykraft:** remove Still Life ([bcbc885](https://github.com/izmystic/kookykraft/commit/bcbc885ac6f400f2c9b4b53fb670f323bd8e844f))
-
-
-### ⚘ Modpack Updates
-
-* **kookykraft:** update Amendments ([2da32a7](https://github.com/izmystic/kookykraft/commit/2da32a708b40c0a370f04cb3183a703ebebb04b9))
-* **kookykraft:** update Balm ([61d518b](https://github.com/izmystic/kookykraft/commit/61d518b0d6de57a513d6b6923c5616290c7af7a9))
-* **kookykraft:** update Lithostitched ([20de51c](https://github.com/izmystic/kookykraft/commit/20de51c510bc2c8c33f1a90278e2c33b0039d07b))
-* **kookykraft:** update Moonlight Lib ([59e24de](https://github.com/izmystic/kookykraft/commit/59e24defd5bd39009b58fd994f65ae83378ab02e))
-* **kookykraft:** update Sophisticated Core ([756face](https://github.com/izmystic/kookykraft/commit/756face11eb20ec65c5ea73e185ed37588d9e5c2))
-* **kookykraft:** update Supplementaries Squared ([aa3f986](https://github.com/izmystic/kookykraft/commit/aa3f986ca7447f6dab1c6f01cff4e87ffcc853b5))
-* **kookykraft:** update Wandrous ([f77198c](https://github.com/izmystic/kookykraft/commit/f77198ce647538b10ae68e5593c1d70da6839e82))
-
 ## [3.0.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.2...kookykraft-v3.0.3) (2025-09-30)
 
 
