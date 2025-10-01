@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/dsbg.pw.toml"
-hash = "747593d2c06ee38e577c428f05d32ee749df27a4be39cbfe43c5024619904234"
+hash = "f9303b440836a7cfa24b6f747d463d95817db9aa43bc551d85adf5bbf945db7b"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/gazebos.pw.toml"
-hash = "7fc039ec92f628dc7679a7afcb319f443081c3aecc59819257cb32100a85af38"
+hash = "ad14af7aaf412df0dca81a7ac7da749d4c2d3708ff59d406b8e54066c215ae7d"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "1e0e48cc2fbe7b961c0dd5286b5a1786564b63b2fbc268eda2cbb2ec80612a0b"
+hash = "a4d7441baff28af7378f625ffcde857a27b8e2beba10d8b248eb6d7faa131a9b"
 metafile = true
 
 [[files]]
@@ -657,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "0b9153f74bbb1f69639e95267f548169cbcbb8d4a3812fa27ef1aa8b248abe56"
 metafile = true
 
 [[files]]
@@ -946,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "0ea64f910d027db5581afcfda87743203ba71d5a5f7e904bd728797c7513e46a"
+hash = "cca66e030102b9045e08fd28dde13ec74964f49a77775a94c681c22ff6b86474"
 metafile = true
 
 [[files]]
