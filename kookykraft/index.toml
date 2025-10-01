@@ -550,6 +550,11 @@ hash = "d238a2c586765e24ca3385940220869f39c25fa402e0e802db446674977db7c5"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "1e0e48cc2fbe7b961c0dd5286b5a1786564b63b2fbc268eda2cbb2ec80612a0b"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
