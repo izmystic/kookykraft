@@ -60,6 +60,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "13e88578fc7463d3f2183d82418a4175fb9c19877e71cd9c9cacea8dc26aabf7"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "003fa45538ea53acf3a0659f6282d1dfe6d611eca5ce6eee87395edaef7de39c"
 metafile = true
