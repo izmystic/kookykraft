@@ -65,6 +65,11 @@ hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "d51246a5d79a3d5be45a26d7b54e32ff4165d1fbaa7954c6a9515ae0aac67b8a"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "c92c73551dc3ba9f116e0cef1e90bb553bf59f34530c7c281af28ac624a3a9d6"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "9d45606ff607dcdc6cdd76a0646b2703a266ded908e24689908fffd8172b5926"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
 metafile = true
 
 [[files]]
@@ -745,6 +755,11 @@ hash = "3b428da5efd7c9065d9800c4d17f635caf96c435b89b8b4e3e204952f24fe156"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+hash = "3648d48092a952d54063c2f406bddd8468bc38b32cdda60fbe01aab5ab266120"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
@@ -825,6 +840,11 @@ hash = "c7ee770d10139624162800e51838e9dbc58a00c66524fb4a62db129508865e33"
 metafile = true
 
 [[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "2c6d7d07fe012109b78c89a0067db097c8743193d8c8582b6d50bd28fb033e6e"
+metafile = true
+
+[[files]]
 file = "mods/stellaris.pw.toml"
 hash = "bdb56e9c219ee6f214d3ffd861a52e216fc8259269c6d95ef636c78d46ca08d6"
 metafile = true
@@ -852,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "9c5ef39a8ae37a70e5a9c689e5978b3bbdb22429056756ad7a25247fd6d95952"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "0ea64f910d027db5581afcfda87743203ba71d5a5f7e904bd728797c7513e46a"
 metafile = true
 
 [[files]]
@@ -917,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "f62c5f9d705673364e974664b9b1e31dd71ba62cf49ef9b3ca60a1c75e562718"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "fb3d0c7dfc140c435aabebbadd888fcb5655fd3de898fa989d69330b99690f4f"
 metafile = true
 
 [[files]]
