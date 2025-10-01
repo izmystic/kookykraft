@@ -1,0 +1,13 @@
+name = "Pufferfish's Attributes"
+filename = "puffish_attributes-0.7.6-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/z9fgvtGP/puffish_attributes-0.7.6-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "bc031ac731003b463484a21fa675b8ed30cf558e8a58f215bf85f59ee277ba2ecb7267eafe6615b523d33d15de5da65fd3ba2b9ca4a64958ff0ae9b9d3105d41"
+
+[update]
+[update.modrinth]
+mod-id = "FCFcFw09"
+version = "z9fgvtGP"
