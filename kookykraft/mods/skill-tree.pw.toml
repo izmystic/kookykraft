@@ -1,0 +1,13 @@
+name = "Skill Tree (RPG Series)"
+filename = "skill_tree-neoforge-1.2.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PjDhruSC/versions/2NCTnMOy/skill_tree-neoforge-1.2.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5422c43f02d1aed7705e87a808e2ef5acaee80447afdb3acd67aa96c53676d6cfa48f65ab57158fafb7be5b8be88cf0dbb17ac387f9cbcc68129705cb5bd0a7b"
+
+[update]
+[update.modrinth]
+mod-id = "PjDhruSC"
+version = "2NCTnMOy"
