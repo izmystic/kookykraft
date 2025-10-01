@@ -475,6 +475,11 @@ hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+hash = "423c5f70ad3d2fcb0cb4042de2372d2a5845e05ada2225318b460ed5b76e0b8b"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "78f6e6a3fe21b3e7c63de75e301c6e77b30eb9dff6599ab8fde10560068223e1"
 metafile = true
@@ -730,6 +735,11 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "2824dfbbde4510a71fd1ef530c27ad3fe1abc9dbf6a1c9c41ae07bc65c808931"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
 metafile = true
@@ -842,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "2c6d7d07fe012109b78c89a0067db097c8743193d8c8582b6d50bd28fb033e6e"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "9a64d4bec3be88b768e3591e11795eb0f5ce1f9c9309011eafb2a0e095bc110b"
 metafile = true
 
 [[files]]
