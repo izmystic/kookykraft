@@ -795,6 +795,11 @@ hash = "3b428da5efd7c9065d9800c4d17f635caf96c435b89b8b4e3e204952f24fe156"
 metafile = true
 
 [[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "549ffdc5f5abdcf6a7a0657dc75ec1c40bc00025005ce6af088f753b37141d96"
+metafile = true
+
+[[files]]
 file = "mods/runes.pw.toml"
 hash = "3648d48092a952d54063c2f406bddd8468bc38b32cdda60fbe01aab5ab266120"
 metafile = true
