@@ -1030,6 +1030,11 @@ hash = "fb3d0c7dfc140c435aabebbadd888fcb5655fd3de898fa989d69330b99690f4f"
 metafile = true
 
 [[files]]
+file = "mods/wwoo.pw.toml"
+hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "0822a7272e79691025c45f9d869de9679650b0d7999a42921c154b389193f97d"
 metafile = true
