@@ -425,6 +425,11 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
+file = "mods/gazebos.pw.toml"
+hash = "7fc039ec92f628dc7679a7afcb319f443081c3aecc59819257cb32100a85af38"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
