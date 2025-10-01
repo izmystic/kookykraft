@@ -65,6 +65,11 @@ hash = "003fa45538ea53acf3a0659f6282d1dfe6d611eca5ce6eee87395edaef7de39c"
 metafile = true
 
 [[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "ed9d7597aca5d837be7f128c4c53a7f90e3c90d5a798b7ee011d76b7ca4c603f"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
@@ -792,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "cc5914bc09a7362dfd660fbeff105d3595b19de9c6491327272f85c557d4aa3b"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "ab25e2ea8dae00432591f2e8f82a376b978c5253d8dd3698bfe8c66721856a7f"
 metafile = true
 
 [[files]]
