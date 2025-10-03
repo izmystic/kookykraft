@@ -2,7 +2,7 @@
 Have you ever imagined constructing enormous factories while simultaneously taming dragons? With **KookyKraft**, it’s all possible. This modpack combines advanced automation with magic so you enjoy the best of both worlds.
 
 ## 🔧 For the Tech Lovers:
-- **GregTechCEu Modern & Modern Industrialization** - If you enjoy sophisticated machines and deep progression, then this modpack is for you.
+- **Modern Industrialization** - A massive tech mod where the ultimate objective is achieving total automation.
 - **Mekanism & Addons** - Enhanced gadgets, factories, and unbeatable power generation.
 - **Applied Energistics 2** - Who doesn’t love a fully automated storage system?
 - **CC: Tweaked** - Automate everything with code and feel like a genius when your robots do your bidding.
