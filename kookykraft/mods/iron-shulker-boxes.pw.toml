@@ -1,0 +1,13 @@
+name = "Iron Shulker Boxes"
+filename = "ironshulkerbox-1.21-neoforge-7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fxaE37Sf/versions/D4AQatXR/ironshulkerbox-1.21-neoforge-7.0.1.jar"
+hash-format = "sha512"
+hash = "4c24b80c5c6a63dbdb34fd08e06ae5f9be417617b01f89cb7ef4af01fb1a73029b053afa8b797a69123bf6c4cf19bc8da579562a5ab7b926e723078015917af7"
+
+[update]
+[update.modrinth]
+mod-id = "fxaE37Sf"
+version = "D4AQatXR"
