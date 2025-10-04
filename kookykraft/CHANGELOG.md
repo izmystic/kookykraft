@@ -1,5 +1,25 @@
 # Changelog
 
+## [3.0.5](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.4...kookykraft-v3.0.5) (2025-10-04)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Iron Shulker Boxes ([80afff3](https://github.com/izmystic/kookykraft/commit/80afff39cec4bed9cb7848f9f4640bd6282481c3))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Amendments ([254553b](https://github.com/izmystic/kookykraft/commit/254553b590ff5357dcb45291ab7a0f6e9fb549ec))
+* **kookykraft:** update BadOptimizations ([fb579ce](https://github.com/izmystic/kookykraft/commit/fb579ce95b14f0caeb9cfc49a8d7922bc39730a6))
+* **kookykraft:** update Chat Heads ([7115ae7](https://github.com/izmystic/kookykraft/commit/7115ae79a28ecb899225016c5845a20cd16005ea))
+* **kookykraft:** update Collective ([4be8654](https://github.com/izmystic/kookykraft/commit/4be8654dc1994ceda4b004f72f180ec0e25ce034))
+* **kookykraft:** update Fusion (Connected Textures) ([f998553](https://github.com/izmystic/kookykraft/commit/f9985530ce220cd284d7a3213e18f19050747106))
+* **kookykraft:** update Lithostitched ([b13bcd9](https://github.com/izmystic/kookykraft/commit/b13bcd9273bd0e31422a3c3ba87af87b4c219e67))
+* **kookykraft:** update Modonomicon ([06a503a](https://github.com/izmystic/kookykraft/commit/06a503a650f50efa453b5a12ba82ce40089ee722))
+* **kookykraft:** update Particle Rain ([3825e63](https://github.com/izmystic/kookykraft/commit/3825e63f4bc178d2ce61662203c45d4abeb78112))
+* **kookykraft:** update Sound Physics Perfected ([3753051](https://github.com/izmystic/kookykraft/commit/37530518fa624f23ccd161a39db859a413352e19))
+
 ## [3.0.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.3...kookykraft-v3.0.4) (2025-10-01)
 
 
