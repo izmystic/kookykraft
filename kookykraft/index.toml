@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
+hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
-hash = "77541161200fe2283c868dd0e26d20898b01e1c590974a563f68ab9c691447de"
+hash = "bea60e40fe79a55c4ae9b0c6b7be6d91ababfa352b707cc0268b4757796d716f"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+hash = "7379e80a7595fbc1bbae69ce7fa89e9cdceb6d84d618a1c94fa590cb37bba02a"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/wwoo.pw.toml"
-hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
+hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
 
 [[files]]
