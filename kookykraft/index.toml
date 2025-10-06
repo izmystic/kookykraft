@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "1ae0d3803fbb9fd1b24b96c10c28b61ae9b69362affa07e6d651f956837bf6cf"
+hash = "b0d35bb439b810d8b18d0e6e252fbf5634e47f4cd46e63a6cab47335ab326637"
 metafile = true
 
 [[files]]
