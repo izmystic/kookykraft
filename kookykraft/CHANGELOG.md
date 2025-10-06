@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.7](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.6...kookykraft-v3.0.7) (2025-10-06)
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update mod sides so you can actually open the game ([b00a274](https://github.com/izmystic/kookykraft/commit/b00a274eba46fccfc34df7d12765769a4b7b9a4c))
+
 ## [3.0.6](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.5...kookykraft-v3.0.6) (2025-10-06)
 
 
