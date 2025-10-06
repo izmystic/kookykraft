@@ -845,6 +845,11 @@ hash = "b46760b8785729ac12fc936990f8b349715ae72096183b172ecf4a268653fa86"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "77541161200fe2283c868dd0e26d20898b01e1c590974a563f68ab9c691447de"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
