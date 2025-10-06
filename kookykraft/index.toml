@@ -715,6 +715,11 @@ hash = "94f613e7b373c3225d2dbd9f6bfa2e1f51e413f5d4c891c5c675b68adf9a678a"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
