@@ -160,6 +160,11 @@ hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
