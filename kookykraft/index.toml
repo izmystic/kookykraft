@@ -375,6 +375,11 @@ hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "6b5fa0d3a684cf6cf33f1399c2b4bdbee34dbe362548808315b488ac172e2ada"
 metafile = true
