@@ -480,6 +480,11 @@ hash = "48db9bdd1c4b427642995c5351af4a7dee203e13310182afbb6c26315341dbd5"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
