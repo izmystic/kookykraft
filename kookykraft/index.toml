@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-taverns.pw.toml"
-hash = "c62a79ea38a7d64d5e3d2bd98e88fc021166cb23685da4f4f882b01be9df5b4f"
+hash = "23c96e046c810a914613cff5e5ba3d04f8a93e55e49d7ef645daae8ab65063d6"
 metafile = true
 
 [[files]]
