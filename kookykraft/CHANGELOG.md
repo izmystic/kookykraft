@@ -1,5 +1,33 @@
 # Changelog
 
+## [3.0.6](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.5...kookykraft-v3.0.6) (2025-10-06)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Chef's Delight - Farmer's Delight Villagers ([22b1e71](https://github.com/izmystic/kookykraft/commit/22b1e717f9ee4329e0bde6641b703c6bf87553b6))
+* **kookykraft:** add EMI Addon: Extra Mod Integrations ([2bde7d2](https://github.com/izmystic/kookykraft/commit/2bde7d27bfe6a0a0fe4a9500a67f5a430b7122aa))
+* **kookykraft:** add EMIffect ([392a043](https://github.com/izmystic/kookykraft/commit/392a04381f99fd6b109a787b63c5e3b35a385423))
+* **kookykraft:** add End's Delight ([c8091fc](https://github.com/izmystic/kookykraft/commit/c8091fcc1c11d45e3b37e19cfdacbd65eac2e33d))
+* **kookykraft:** add Expanded Delight ([991ffa8](https://github.com/izmystic/kookykraft/commit/991ffa8b0b81a41620304d37b0d5488118a07413))
+* **kookykraft:** add Immersive Engineering ([5bba294](https://github.com/izmystic/kookykraft/commit/5bba294d0c582fc5cc731318d7b18a9911639b1a))
+* **kookykraft:** add More Delight (for Farmer's Delight) ([4e3a085](https://github.com/izmystic/kookykraft/commit/4e3a0850ed603f590d725020c5bebda42cd7d668))
+* **kookykraft:** add Ocean's Delight ([ebac32b](https://github.com/izmystic/kookykraft/commit/ebac32b1e69ab99bef1b3234aceda0957b8338b6))
+* **kookykraft:** add Repurposed Structures - Farmer's Delight Compat ([7105883](https://github.com/izmystic/kookykraft/commit/71058831feb361d8faaa0057b612aee0809d723d))
+* **kookykraft:** add Repurposed Structures - Friends and Foes Compat ([f0f6f63](https://github.com/izmystic/kookykraft/commit/f0f6f6379aeea244fb3ac6a9f738ddac01bf80bf))
+* **kookykraft:** add Repurposed Structures - Neoforge/Forge ([c5c66f5](https://github.com/izmystic/kookykraft/commit/c5c66f58d8799e36aba3e7841c112cc4be3bcb7d))
+* **kookykraft:** add Towns and Towers ([5f1e9c0](https://github.com/izmystic/kookykraft/commit/5f1e9c0d9a1eb5301de6f77092a67c6ec66d7e27))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Explorify ([9df9587](https://github.com/izmystic/kookykraft/commit/9df95872ee563c0510a62ec48eb36b2b0a287a03))
+* **kookykraft:** update Modern Industrialization ([bafb8b5](https://github.com/izmystic/kookykraft/commit/bafb8b5d6de207c943125d0e608f40a654314c6f))
+* **kookykraft:** update Modonomicon ([062d7de](https://github.com/izmystic/kookykraft/commit/062d7de7383386c2ec9f6ee5ecd55b64b99dc12f))
+* **kookykraft:** update Moonlight Lib ([9720b45](https://github.com/izmystic/kookykraft/commit/9720b4583da8b14290442eb4661c29122db3eafe))
+* **kookykraft:** update Village Taverns (RPG Series) ([f7a5b58](https://github.com/izmystic/kookykraft/commit/f7a5b5874620f279cb9c6787477b89c1d307ee1d))
+* **kookykraft:** update Zume ([d56b8b0](https://github.com/izmystic/kookykraft/commit/d56b8b0e9809a16897f84cbafd296cb4f281f670))
+
 ## [3.0.5](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.4...kookykraft-v3.0.5) (2025-10-04)
 
 
