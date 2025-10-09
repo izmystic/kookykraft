@@ -1,5 +1,40 @@
 # Changelog
 
+## [3.0.8](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.7...kookykraft-v3.0.8) (2025-10-09)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Colorful Hearts ([d9a11cd](https://github.com/izmystic/kookykraft/commit/d9a11cd527942fee8e5d1d477b8b47c733b987b1))
+* **kookykraft:** add Default Dark Mode ([a5d7645](https://github.com/izmystic/kookykraft/commit/a5d76459fcfd7e9d7f8bcc7e30e4b84e53870886))
+* **kookykraft:** remove Unique Dark ([a459142](https://github.com/izmystic/kookykraft/commit/a45914270e9d3a3dcbf17f06a9a408f0d2ba847e))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update 3D Skin Layers ([f53d22a](https://github.com/izmystic/kookykraft/commit/f53d22ae083e882f8d14d65bf85a7829f767c95e))
+* **kookykraft:** update AzureLib Armor ([02a08e1](https://github.com/izmystic/kookykraft/commit/02a08e12ac9dd291665e82fe70e5d59dd40410f7))
+* **kookykraft:** update Client Sort ([fac5932](https://github.com/izmystic/kookykraft/commit/fac5932f3192abef8406fec0303abd0e50cdb234))
+* **kookykraft:** update Create Crafts & Additions ([3bf17c1](https://github.com/izmystic/kookykraft/commit/3bf17c175098e7270960739db0bdadaa824dfec4))
+* **kookykraft:** update Create: Enchantment Industry ([aad4c35](https://github.com/izmystic/kookykraft/commit/aad4c359615bedb0d4ce4a71c855bc156c06298c))
+* **kookykraft:** update Entity Culling ([34b61b3](https://github.com/izmystic/kookykraft/commit/34b61b33c109f76366fd6822ecd2c241ff648b79))
+* **kookykraft:** update Forgified Fabric API ([a7facfe](https://github.com/izmystic/kookykraft/commit/a7facfea5d950186ff2aa6ac736d352a58a5590b))
+* **kookykraft:** update Friends&Foes - Beekeeper Hut ([f50c43b](https://github.com/izmystic/kookykraft/commit/f50c43ba0ce94fd7014ba442c9d31e0f8c2fdf51))
+* **kookykraft:** update Friends&Foes - Flowery Mooblooms ([efb5efe](https://github.com/izmystic/kookykraft/commit/efb5efe95a25c2fe8a3f645a8120e218cb5b3104))
+* **kookykraft:** update Fzzy Config ([9b25b1b](https://github.com/izmystic/kookykraft/commit/9b25b1bd03105353161e88438d6f04676ff3357b))
+* **kookykraft:** update Iron's Spells 'n Spellbooks ([ca4ac00](https://github.com/izmystic/kookykraft/commit/ca4ac00d0a0870b1089ffea730b1aae92790e300))
+* **kookykraft:** update Load My F***ing Tags ([38ae2bd](https://github.com/izmystic/kookykraft/commit/38ae2bdde66ce48cd8dddf9ddac6dbf33f297925))
+* **kookykraft:** update Modern Industrialization ([3c36859](https://github.com/izmystic/kookykraft/commit/3c36859e864a833dce1be7c59436634b6eae5db1))
+* **kookykraft:** update Not Enough Animations ([725be15](https://github.com/izmystic/kookykraft/commit/725be15ceb5dbc3c51c2e2818fd8d9d5d77371e3))
+* **kookykraft:** update Shulker Box Tooltip ([0e70805](https://github.com/izmystic/kookykraft/commit/0e70805b05fbb1996d7395ea78295e2b82f1e2db))
+* **kookykraft:** update Simple Voice Chat ([0d1abd8](https://github.com/izmystic/kookykraft/commit/0d1abd8424767967002bf11b68bc6205117bde15))
+* **kookykraft:** update Skill Tree (RPG Series) ([1b3a3d4](https://github.com/izmystic/kookykraft/commit/1b3a3d407a5c3805d216cc6b7444a8a65dcea27c))
+* **kookykraft:** update Spell Power Attributes ([4264649](https://github.com/izmystic/kookykraft/commit/42646495036c8e84a37cad1f62e62ca3bff486b7))
+* **kookykraft:** update Structory ([e836b57](https://github.com/izmystic/kookykraft/commit/e836b57d9b0848c625fa0715aa3a9d06f27e844c))
+* **kookykraft:** update Structory: Towers ([229b7b7](https://github.com/izmystic/kookykraft/commit/229b7b73d84130c938e214a3b17ccc1ef3ab9659))
+* **kookykraft:** update Traveler's Backpack ([7ebda8b](https://github.com/izmystic/kookykraft/commit/7ebda8be3955c56b5d4608eda622d28b814c2b16))
+* **kookykraft:** update XaeroPlus ([bb7a40d](https://github.com/izmystic/kookykraft/commit/bb7a40da21c3092c94c2b054587bb52684ce436a))
+
 ## [3.0.7](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.6...kookykraft-v3.0.7) (2025-10-06)
 
 
