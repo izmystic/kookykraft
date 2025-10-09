@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8f1976efa9b52279d082c017ca3f745a212deb461f3bc0ae4ca6ed0f2cf7c7e8"
+hash = "0f095c1c6f439da9e865d86f0d798e85a82ab34e915861e5591ac47b56312de8"
 metafile = true
 
 [[files]]
