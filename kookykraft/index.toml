@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "e75a92a9c6285a8015b37fb673d4799b8d8531ed81af2ccdf9214b76b8fb7b26"
+hash = "dd29b00a0b7660bab0a04e066e8f796c5d5b89713d42a341493ca024d27796fd"
 metafile = true
 
 [[files]]
