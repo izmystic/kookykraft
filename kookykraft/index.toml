@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
-hash = "d51246a5d79a3d5be45a26d7b54e32ff4165d1fbaa7954c6a9515ae0aac67b8a"
+hash = "a0d9014d73a023b13bd2e064946d8eb606e68a51f4188319396809971558e563"
 metafile = true
 
 [[files]]
