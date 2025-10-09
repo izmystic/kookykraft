@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "a4d7441baff28af7378f625ffcde857a27b8e2beba10d8b248eb6d7faa131a9b"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true
 
 [[files]]
