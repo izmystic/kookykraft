@@ -1195,6 +1195,16 @@ hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode-expansion.pw.toml"
+hash = "b059f952a030a2a41568eba901f6e095386dfd22da6d9fedac8dbdb77d5b9d62"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
+metafile = true
+
+[[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
