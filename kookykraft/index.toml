@@ -249,6 +249,11 @@ hash = "79199cff90909b0dece144138419fa205c3723d606ef0d18c2981e2f2b598d84"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
