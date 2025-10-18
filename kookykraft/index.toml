@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "7a4f3af3fdbcaca6277c62618e5a69649a95db718a8d290558424ca3ab43c207"
+hash = "98e2cc1f476858e0e1549cd13e7069a6a379da2588d71f5fc151d3f2d4a20485"
 metafile = true
 
 [[files]]
