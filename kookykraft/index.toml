@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "a5f34b2e1a0b93b5481070c9eff325d7b9191acb9c50c87652e7a68baf40b125"
+hash = "db5afd2bc9555691438d5860ab996fea6d635d5eb6d0d6d4580964b799c43e1f"
 metafile = true
 
 [[files]]
