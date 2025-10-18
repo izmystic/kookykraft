@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/skill-tree.pw.toml"
-hash = "8671ae5e4dcd48e539f3715d8800f8ae651ea88040501564bf419b0e36dd67b4"
+hash = "fc2382622a68a7ddc39dc3d491ccea927c84b0c08d73065145494f6859c8398c"
 metafile = true
 
 [[files]]
