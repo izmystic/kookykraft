@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "0bcbbcbf939f82f90be11d6d647478f93d43d60d289d6b8ba8484ffb0f8a0f59"
+hash = "34b9ccfc5e13dc8c89c502495a29d2c0cf66e9b3c5fec3c86262976fe1dff3f9"
 metafile = true
 
 [[files]]
