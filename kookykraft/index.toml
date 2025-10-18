@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
+hash = "1581c28c9367fe5b82e121f87327c9e0caea1aea5be3ea000652ee6662182a42"
 metafile = true
 
 [[files]]
