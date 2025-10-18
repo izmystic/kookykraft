@@ -584,6 +584,11 @@ hash = "78f6e6a3fe21b3e7c63de75e301c6e77b30eb9dff6599ab8fde10560068223e1"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "b91bfb3f1b518e2aefbd199806537066e7a500f4bada487e62fbca665569149b"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
