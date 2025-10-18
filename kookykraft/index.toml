@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandrous.pw.toml"
-hash = "a751fdc47da59e67a0b93af6a8e2de890dcf5bbd5a548fe3c09c1c1eadd01266"
+hash = "af4ede7c2152c0adf6983ef3d465ffa1f95e1a94f5dc969ab99c7c9bccf9ac78"
 metafile = true
 
 [[files]]
