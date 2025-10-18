@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "6801a45865cf3d85527b2b6d3e9cc3f627b2c914a54764298620ea20b84d4569"
+hash = "7e9decc7e37c8ff486b82d2ee36112fb819f358c8d04d575d6f9586078a2e875"
 metafile = true
 
 [[files]]
