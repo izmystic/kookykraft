@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "19e25d8deb8795baaf15837c482f1cd62a7da91db497ba4a49ac8f8ecd49e088"
+hash = "e0c26ec727d88d896e589c74182c12b2894a3a1507add90cb6cf64d7e7a50b1e"
 metafile = true
 
 [[files]]
