@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "98a58b618a5e88fd008b3a83a75dd9f388344c5324481c6011d2a9fad1fda6d0"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
 metafile = true
 
 [[files]]
