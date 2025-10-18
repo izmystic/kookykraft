@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
+hash = "f13326b568a458182e2c5f6c493598b0bded84d7a0c814fc96e73516fb2819f8"
 metafile = true
 
 [[files]]
