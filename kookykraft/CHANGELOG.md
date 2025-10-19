@@ -1,5 +1,56 @@
 # Changelog
 
+## [3.0.9](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.8...kookykraft-v3.0.9) (2025-10-19)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Create Goggles ([983185d](https://github.com/izmystic/kookykraft/commit/983185dcdeb61bc6132e628ad2eabc53f08b256f))
+* **kookykraft:** add Create Slice & Dice ([4a1b53f](https://github.com/izmystic/kookykraft/commit/4a1b53f28d44bc56c58e0b2a0e5e4d65a532e195))
+* **kookykraft:** add Create: Connected ([3870524](https://github.com/izmystic/kookykraft/commit/3870524adf830ca9f44de0ee99d19a260f467eac))
+* **kookykraft:** add Create: Copycats+ ([ccce438](https://github.com/izmystic/kookykraft/commit/ccce438d7b6ce0b203b8ed2d7856d21ed463f91d))
+* **kookykraft:** add Create: Design n' Decor ([33678fc](https://github.com/izmystic/kookykraft/commit/33678fc8e10b5b41d712491caabdb837869f4ab4))
+* **kookykraft:** add Just Hammers ([1a44c0d](https://github.com/izmystic/kookykraft/commit/1a44c0d97a2821a30e0be3aae552c836fe7c3c61))
+* **kookykraft:** add Ore Excavation ([7298943](https://github.com/izmystic/kookykraft/commit/7298943ef6d3ea23c8d845cf9bfb59c34472af01))
+* **kookykraft:** add Oritech ([2a29ab2](https://github.com/izmystic/kookykraft/commit/2a29ab2acd2f6a3af76208677889828384c8b2c3))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update 3D Skin Layers ([9e8b38f](https://github.com/izmystic/kookykraft/commit/9e8b38fc78f322196ce9c44601c21aeb9151e313))
+* **kookykraft:** update Ars Nouveau ([fa7c4b0](https://github.com/izmystic/kookykraft/commit/fa7c4b01be74a3936bc915bb983fb36dad8166cb))
+* **kookykraft:** update Balm ([01f01d7](https://github.com/izmystic/kookykraft/commit/01f01d79334ebd81c5f57cf26d2a1f73ec4639d5))
+* **kookykraft:** update Bookshelf ([6ec9d40](https://github.com/izmystic/kookykraft/commit/6ec9d40e7c2ebd1c684f72fc76ff08d76d60d8af))
+* **kookykraft:** update Client Sort ([5e121e5](https://github.com/izmystic/kookykraft/commit/5e121e57e0dd0a31ad3078c9428384ea4d2fbc5c))
+* **kookykraft:** update Concurrent Chunk Management Engine ([7982eb8](https://github.com/izmystic/kookykraft/commit/7982eb89833096a7b2c2513ce30518b3b20d60ab))
+* **kookykraft:** update Create Crafts & Additions ([7e2195c](https://github.com/izmystic/kookykraft/commit/7e2195cee48f7c29c1b8e5108cf35381840aee31))
+* **kookykraft:** update Create Ore Excavation ([5cf5f18](https://github.com/izmystic/kookykraft/commit/5cf5f18bbe2bf2adc85fb1e5dd7773567a9f2bdd))
+* **kookykraft:** update Cristel Lib ([03bed72](https://github.com/izmystic/kookykraft/commit/03bed7214f687ed74af1bc7c7f7a2b459e816d82))
+* **kookykraft:** update Critters and Companions ([e7e5754](https://github.com/izmystic/kookykraft/commit/e7e57543351d001106a220628a2715c5eaae08ff))
+* **kookykraft:** update Distant Horizons ([ba90b5b](https://github.com/izmystic/kookykraft/commit/ba90b5b6ab609eeca734ba5ee7a1b91cce53dbdf))
+* **kookykraft:** update Easy Magic ([d6ff00e](https://github.com/izmystic/kookykraft/commit/d6ff00ecf1d11815f0b327cb6b62883cf76c3e60))
+* **kookykraft:** update Entity Culling ([fa757cb](https://github.com/izmystic/kookykraft/commit/fa757cb9e0182eff01fe14337c03e526cf12704e))
+* **kookykraft:** update Explorify ([e03ff2e](https://github.com/izmystic/kookykraft/commit/e03ff2ec865886bf3438f9154405272847c48b5f))
+* **kookykraft:** update Friends & Foes (Forge/NeoForge) ([02e5efa](https://github.com/izmystic/kookykraft/commit/02e5efa871257493ac9e1d5ceef8a4e22ba7da94))
+* **kookykraft:** update Jewelry (RPG Series) ([08fedbd](https://github.com/izmystic/kookykraft/commit/08fedbd6fd1a3daa9055a4bd981f7d322701a22d))
+* **kookykraft:** update Modern Industrialization ([e67a470](https://github.com/izmystic/kookykraft/commit/e67a47069e2d712d347ec252f0b4209ee83b47cb))
+* **kookykraft:** update Modonomicon ([76cfa7b](https://github.com/izmystic/kookykraft/commit/76cfa7bc308f0e2eb155911c4297725e3bebcf6d))
+* **kookykraft:** update Moonlight Lib ([95bd325](https://github.com/izmystic/kookykraft/commit/95bd325d65ffdbfe762160d4d3ecd6ceba9ab546))
+* **kookykraft:** update Not Enough Animations ([3e7104e](https://github.com/izmystic/kookykraft/commit/3e7104e55c790912ceafbe593826f5afa5d62713))
+* **kookykraft:** update Ranged Weapon API ([24aa9e0](https://github.com/izmystic/kookykraft/commit/24aa9e018db2b016af450032a4bde437d0a574b9))
+* **kookykraft:** update Relics (RPG Series) ([e364ba4](https://github.com/izmystic/kookykraft/commit/e364ba4917eb93dfd6bc1e1c21fcbdbab67bfe2d))
+* **kookykraft:** update Simple Voice Chat ([da9b1c9](https://github.com/izmystic/kookykraft/commit/da9b1c9824200932bf10c59330cda36a242d77f7))
+* **kookykraft:** update Skill Tree (RPG Series) ([58c7276](https://github.com/izmystic/kookykraft/commit/58c72764aeb7d4e7adbd69da2e98f4b40c19d205))
+* **kookykraft:** update Sound Physics Perfected ([5fe291c](https://github.com/izmystic/kookykraft/commit/5fe291c4d08c56e99151bfbab4ac644534befead))
+* **kookykraft:** update Spell Power Attributes ([8d4282c](https://github.com/izmystic/kookykraft/commit/8d4282ce094549ced431c9efc0a730c2f6ded78b))
+* **kookykraft:** update Stellaris ([f00760b](https://github.com/izmystic/kookykraft/commit/f00760baec050bc7faa0533135795d1ae918a993))
+* **kookykraft:** update Supplementaries ([5022196](https://github.com/izmystic/kookykraft/commit/5022196b37aaa24a65e1bd46fbfb4f79606bc89b))
+* **kookykraft:** update Supplementaries Squared ([55f3033](https://github.com/izmystic/kookykraft/commit/55f30331a19a70d5a36e5177f5d9a015321e178b))
+* **kookykraft:** update Towns and Towers ([4e31d39](https://github.com/izmystic/kookykraft/commit/4e31d3973e11604a41d62610d474b4c23f950bf4))
+* **kookykraft:** update Traveler's Backpack ([0e983ee](https://github.com/izmystic/kookykraft/commit/0e983eea24fa545c048dfa2bcc15c92886b041b0))
+* **kookykraft:** update Wandrous ([75862b5](https://github.com/izmystic/kookykraft/commit/75862b5677bf216f2c4d000743c6669e63774230))
+* **kookykraft:** update XaeroPlus ([cde7df3](https://github.com/izmystic/kookykraft/commit/cde7df375d043ec25f54ce0f52ff53688267b7a4))
+
 ## [3.0.8](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.7...kookykraft-v3.0.8) (2025-10-09)
 
 
