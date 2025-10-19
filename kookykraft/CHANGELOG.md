@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.10](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.9...kookykraft-v3.0.10) (2025-10-19)
+
+
+### ♻ Bug Fixes
+
+* **kookykraft:** for some reason Oritech needs Athena on the server side ([068f8a7](https://github.com/izmystic/kookykraft/commit/068f8a7d553653800ec8c5159713007055706030))
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add LambDynamicLights - Dynamic Lights ([22f0836](https://github.com/izmystic/kookykraft/commit/22f083617e16c4d0dbc38e66d3dff2f57406ae90))
+* **kookykraft:** remove Sodium Dynamic Lights ([8b30bc8](https://github.com/izmystic/kookykraft/commit/8b30bc891e68db07559ec9feb803be30eedf2c8a))
+* **kookykraft:** remove Sodium Extras ([79bba69](https://github.com/izmystic/kookykraft/commit/79bba69093ed58976ef562007d165de4d6fa66db))
+* **kookykraft:** remove Sodium Leaf Culling ([1dcc10e](https://github.com/izmystic/kookykraft/commit/1dcc10e559e3fd5030f0d6b96b3a108eb98bf4f2))
+* **kookykraft:** remove Sodium Options API ([28e106d](https://github.com/izmystic/kookykraft/commit/28e106d52c1b61ac73c0ab171850cae3e540a0c4))
+* **kookykraft:** remove Sodium Options Mod Compat ([870d7c9](https://github.com/izmystic/kookykraft/commit/870d7c9f1325f381cc57a86bb0e1b705fefca801))
+
 ## [3.0.9](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.8...kookykraft-v3.0.9) (2025-10-19)
 
 
