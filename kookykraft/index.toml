@@ -574,6 +574,11 @@ hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "99e23b59436f3a0c91214882599cb1b2d33ddfd2193326aec8623ffe4bc72798"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -1101,6 +1106,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "75d848265975d8a6c03cae062adf57c2d37460f2fa0de0eb3a61cf7186cdebe4"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
 metafile = true
 
 [[files]]
