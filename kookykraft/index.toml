@@ -84,6 +84,11 @@ hash = "ed9d7597aca5d837be7f128c4c53a7f90e3c90d5a798b7ee011d76b7ca4c603f"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "8dde79bba7cacff03bd65e6b896d939fc7c2e02a86c23b693d2e0b678672bdd2"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "19058318bf7997f3f0f75d77c0afeb9581665412fbc336abc89230725c005131"
 metafile = true
