@@ -24,6 +24,11 @@ hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "9603e0083c914b535e73e2413dada4c8764b139d57211b74e2d2a4a69f23129d"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "6f332c9e6932b2885561345aee6f8c631fbfe251027f9d80fd0201ab29b61c81"
 metafile = true
