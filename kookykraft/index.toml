@@ -999,11 +999,6 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "58d876cb8e8a48e2376f50f9adede05e2aac244fce238322830585f9c4745fbc"
-metafile = true
-
-[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "2c6d7d07fe012109b78c89a0067db097c8743193d8c8582b6d50bd28fb033e6e"
 metafile = true
