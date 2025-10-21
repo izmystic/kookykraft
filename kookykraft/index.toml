@@ -964,6 +964,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "2615ce20109fe11c8673991a1eb2cdfea463cd38926c067a8b9088eee7a8607d"
+metafile = true
+
+[[files]]
 file = "mods/relics-rpg.pw.toml"
 hash = "945dd753b14a557ec3d0338eb5c6527e56e78b159673b51a7cce925c3a015273"
 metafile = true
