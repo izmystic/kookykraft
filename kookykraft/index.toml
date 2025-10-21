@@ -159,6 +159,11 @@ hash = "5e448ec91d1e74c75d59e6463ff4384ec927cbb21468715147cab8e81bf69b18"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "32a5a9e5119dd825ca236e5e3e9c87d4d547db30a7e8e7343fc8a90e08df0184"
 metafile = true
@@ -201,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "1051d322f24322868b767199c0e6803bbc1c1c013c506f858eda02007c8fbc47"
 metafile = true
 
 [[files]]
@@ -361,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "296f2ba16801db85fa1bb8f85b5ba805af2034fefcf54a74f1bdbffe9e424b23"
 metafile = true
 
 [[files]]
