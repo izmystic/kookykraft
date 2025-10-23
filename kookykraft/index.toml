@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderio.pw.toml"
-hash = "68093a6969dce32130838d712b10835734e7e5b010dc62570e0e232bc7056b7c"
+hash = "0bba91710dc88f758d9648ebe3736a3c6eaaa74c36e2cfd79e22808e7558c881"
 metafile = true
 
 [[files]]
