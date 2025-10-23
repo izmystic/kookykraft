@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "7571c7e02eb69778878b6b6acf228b55f3aca0e1932a831aed0379689b1c44ac"
+hash = "a91218ff2e9980ce5ad3eb48ae211e3c0b23fb2a82a906e1059a49286a04249f"
 metafile = true
 
 [[files]]
