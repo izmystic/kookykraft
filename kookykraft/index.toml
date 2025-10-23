@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "6e657bfcc63dc1025def7af1c469b982e31f1808812302d4feef1785439918f1"
+hash = "af95ec0531c05a98df37cce88cad871d33be4827ec99f91133b6f84778fbd614"
 metafile = true
 
 [[files]]
