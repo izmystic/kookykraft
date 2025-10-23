@@ -1,5 +1,55 @@
 # Changelog
 
+## [3.0.11](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.10...kookykraft-v3.0.11) (2025-10-23)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Actually Additions ([57e2089](https://github.com/izmystic/kookykraft/commit/57e208926663e239c64cc0dac57aee5dbaab9083))
+* **kookykraft:** add Artifacts ([25dc282](https://github.com/izmystic/kookykraft/commit/25dc2824898ed7864bdb12b1af7ddacf34bea27f))
+* **kookykraft:** add BountifulBaubles:Reforked ([28d5180](https://github.com/izmystic/kookykraft/commit/28d5180e656810248512b8e48a2eb367bc46d81d))
+* **kookykraft:** add Draconic Evolution ([67e77bb](https://github.com/izmystic/kookykraft/commit/67e77bba7cbb588575cf5cac08642d2148557fb9))
+* **kookykraft:** add Industrial Foregoing ([a2f3ab3](https://github.com/izmystic/kookykraft/commit/a2f3ab3b787c8c7e917865e3c8f53f2032101163))
+* **kookykraft:** add Industrial Foregoing: Souls ([0c14ba5](https://github.com/izmystic/kookykraft/commit/0c14ba55930ee6593493ecb327f327878b9da089))
+* **kookykraft:** add Iron Furnaces ([266338f](https://github.com/izmystic/kookykraft/commit/266338fd119888e1e222e1ad14d92755a2bef651))
+* **kookykraft:** add Mowzie's Mobs ([5d65bbe](https://github.com/izmystic/kookykraft/commit/5d65bbecb307cd930d74fe4d8f1991cd68b3166e))
+* **kookykraft:** add Pam's HarvestCraft 2 - Food Extended ([2057ed9](https://github.com/izmystic/kookykraft/commit/2057ed99bce9347b5e821cc6c972091a37fce22a))
+* **kookykraft:** add Pam's HarvestCraft 2 - Trees ([60a708e](https://github.com/izmystic/kookykraft/commit/60a708ec826ae2ee1fd1762e5c30df39c31bb47c))
+* **kookykraft:** add Pam's HarvestCraft 2: Crops ([4f0bf67](https://github.com/izmystic/kookykraft/commit/4f0bf67a288a3193cc64b3a5d71bca8396d048c5))
+* **kookykraft:** add Pam's HarvestCraft 2: Food Core ([28ec423](https://github.com/izmystic/kookykraft/commit/28ec42324bad9267477a2a22e5f4a87348a13e05))
+* **kookykraft:** add Refined Storage ([446ec8f](https://github.com/izmystic/kookykraft/commit/446ec8f8b87de11f3bc47af60d432438c90c9d13))
+* **kookykraft:** add Sound Physics Remastered ([8519298](https://github.com/izmystic/kookykraft/commit/85192985f66c4749432a6537e662ac0da7fbef09))
+* **kookykraft:** remove Sound Physics Perfected ([fbeafca](https://github.com/izmystic/kookykraft/commit/fbeafcadc0ce9d36af9cdec816639897fd885488))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Archers (RPG Series) ([af7a738](https://github.com/izmystic/kookykraft/commit/af7a73895a9ce75e4c6953b7a0091a0c9cef5cbf))
+* **kookykraft:** update Armory (RPG Series) ([0ab5d9d](https://github.com/izmystic/kookykraft/commit/0ab5d9d371338f7a658560838b7ce90f2eb4b3f8))
+* **kookykraft:** update Arsenal (RPG Series) ([652eff5](https://github.com/izmystic/kookykraft/commit/652eff51d430d1e7becc0d21fac6e4c158e9c74d))
+* **kookykraft:** update ChoiceTheorem's Overhauled Village ([0d69333](https://github.com/izmystic/kookykraft/commit/0d69333db4d344128253a5afc7d5a9b67ee5b7d0))
+* **kookykraft:** update Client Sort ([32f79ae](https://github.com/izmystic/kookykraft/commit/32f79aef8a55120b021d9f3a100c7b4a62ac4507))
+* **kookykraft:** update Collective ([a233f66](https://github.com/izmystic/kookykraft/commit/a233f66c5e81d125090f97048edec102d88afcef))
+* **kookykraft:** update Concurrent Chunk Management Engine ([3908168](https://github.com/izmystic/kookykraft/commit/3908168a1e0103cf67571b2ca23e8936ef250634))
+* **kookykraft:** update Ender IO ([e10ebc4](https://github.com/izmystic/kookykraft/commit/e10ebc430e565e2073838f4e2dae19857e0c54de))
+* **kookykraft:** update Entity Culling ([2f84b4a](https://github.com/izmystic/kookykraft/commit/2f84b4addc7c7ef2ff60571ac0b7aacc7a6965cd))
+* **kookykraft:** update Friends & Foes (Forge/NeoForge) ([0c23c27](https://github.com/izmystic/kookykraft/commit/0c23c27228d456f411b0f5deb74967d370947a3e))
+* **kookykraft:** update GuideME ([a9d76da](https://github.com/izmystic/kookykraft/commit/a9d76daeca82ff8a3732446ae1177c05bc5c34af))
+* **kookykraft:** update Mekanism ([57f9fd8](https://github.com/izmystic/kookykraft/commit/57f9fd88de8768bed419d0f0f4a80778af6cd5b6))
+* **kookykraft:** update Mekanism Additions ([dee3cdb](https://github.com/izmystic/kookykraft/commit/dee3cdb7ec0a82c8adcbc509177f711d17f34669))
+* **kookykraft:** update Mekanism Generators ([895a24a](https://github.com/izmystic/kookykraft/commit/895a24a110a3e0b24207a82c8d2bdb97d297b8ad))
+* **kookykraft:** update Mekanism Tools ([763d1de](https://github.com/izmystic/kookykraft/commit/763d1dece82c554280297aeea17c94267a4a9f23))
+* **kookykraft:** update Moonlight Lib ([7fbc516](https://github.com/izmystic/kookykraft/commit/7fbc5164e95532b85a48f5fd75e5b1714b957986))
+* **kookykraft:** update Not Enough Animations ([c58c927](https://github.com/izmystic/kookykraft/commit/c58c92705be58ed9c72608b5f54660470b147ece))
+* **kookykraft:** update Oritech ([e392425](https://github.com/izmystic/kookykraft/commit/e3924259e82d0e999f8d9bb9ebd8e6b056573bdc))
+* **kookykraft:** update Paladins & Priests (RPG Series) ([9ee898a](https://github.com/izmystic/kookykraft/commit/9ee898abff0d3ed7b022f2e63f63e7a4f26c2637))
+* **kookykraft:** update Particle Rain ([aa33431](https://github.com/izmystic/kookykraft/commit/aa33431bd7a79308822c7e9e97204eab0dddb57d))
+* **kookykraft:** update Ranged Weapon API ([e99055e](https://github.com/izmystic/kookykraft/commit/e99055ecd0434f90759dc5677865874d2e0e3dd1))
+* **kookykraft:** update Rogues & Warriors (RPG Series) ([1975b47](https://github.com/izmystic/kookykraft/commit/1975b47260f82985d7bfa566710f45714d7ab4bb))
+* **kookykraft:** update Sawmill ([cd93512](https://github.com/izmystic/kookykraft/commit/cd935124902f85214f42bbd01ca4f1327624016b))
+* **kookykraft:** update Spell Engine ([7306241](https://github.com/izmystic/kookykraft/commit/73062414d6e91cca1e59109c426147d2d1855cd1))
+* **kookykraft:** update Wizards (RPG Series) ([d150d04](https://github.com/izmystic/kookykraft/commit/d150d04a461091a3d2eed2ca88398bb9bcdd3ad1))
+
 ## [3.0.10](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.9...kookykraft-v3.0.10) (2025-10-19)
 
 
