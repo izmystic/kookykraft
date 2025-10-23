@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "d1a14292fecfc03135e8163af5d695ae5838d87b4937d863b5c334693bb0402f"
+hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
 
 [[files]]
