@@ -1,13 +1,13 @@
 name = "Ranged Weapon API"
-filename = "ranged_weapon_api-neoforge-2.3.0+1.21.1.jar"
+filename = "ranged_weapon_api-neoforge-2.3.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AqaIIO6D/versions/ThDO8FpO/ranged_weapon_api-neoforge-2.3.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/AqaIIO6D/versions/Tcrgy13O/ranged_weapon_api-neoforge-2.3.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "aeb47cc84ea598518ae1b50ed31c4dfe154c1d2cee659ba7a8184d60927020c462f45acc9fd9715d6539865633aa043da9054ff7e2e5d98cbb9615a7cd1cb2ca"
+hash = "e0a2366df4eb4dfcc4d1539179f710d4e05860fdd7390fd0b714097fb072d2193aca1474509a7577f31efef270174c9226bc93141aac72e1abc8fa2cfdc10f4e"
 
 [update]
 [update.modrinth]
 mod-id = "AqaIIO6D"
-version = "ThDO8FpO"
+version = "Tcrgy13O"
