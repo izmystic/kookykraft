@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "fb3d0c7dfc140c435aabebbadd888fcb5655fd3de898fa989d69330b99690f4f"
+hash = "16aec759527ae371c253cb4f411a6816e9f9eb89a96394f3047c5da7c56c93f8"
 metafile = true
 
 [[files]]
