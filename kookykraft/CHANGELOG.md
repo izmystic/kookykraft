@@ -1,5 +1,34 @@
 # Changelog
 
+## [3.0.12](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.11...kookykraft-v3.0.12) (2025-10-24)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Forge CIT ([3090bec](https://github.com/izmystic/kookykraft/commit/3090beca06f8bd75a8d46961399c0f7053c55b1c))
+* **kookykraft:** add Incendium ([516ec78](https://github.com/izmystic/kookykraft/commit/516ec78282a7aabc4ff5f7c6c6aedeb1de6a89bb))
+* **kookykraft:** add Nullscape ([fe18f41](https://github.com/izmystic/kookykraft/commit/fe18f41b2ade0e1fe7bfa08ae061afea1cf34520))
+* **kookykraft:** add Polymorph ([2f6eb64](https://github.com/izmystic/kookykraft/commit/2f6eb64cc620abd676df516cbe8e05909f05adfe))
+* **kookykraft:** add Polymorphic Energistics ([ea5cb6a](https://github.com/izmystic/kookykraft/commit/ea5cb6af228402d914a600922a8cb109bc856b03))
+* **kookykraft:** add Refined Storage - Curios Integration ([0fa59be](https://github.com/izmystic/kookykraft/commit/0fa59be0b884938560909cb5fccf55b925fd5beb))
+* **kookykraft:** add Refined Storage - EMI Integration ([cdc87f6](https://github.com/izmystic/kookykraft/commit/cdc87f651e64f2f5e820196e6b4cdf5849d06d09))
+* **kookykraft:** add Refined Storage - Mekanism Integration ([ad0ad7a](https://github.com/izmystic/kookykraft/commit/ad0ad7aa55e9614f1f6f9aa1874e7027cf970431))
+* **kookykraft:** add Refined Storage - Quartz Arsenal ([5a33406](https://github.com/izmystic/kookykraft/commit/5a33406d168a2dd3d5d6b9d347ac9d58d923ac2f))
+* **kookykraft:** add Sparkles: Stardust Labs Resourcepack ([07c831e](https://github.com/izmystic/kookykraft/commit/07c831e3cf0c94cc392a84155e32ec43725e3220))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update AmbientSounds ([be67a6d](https://github.com/izmystic/kookykraft/commit/be67a6da102c30f0a5ac55ce2be99165ac86bc31))
+* **kookykraft:** update Armory (RPG Series) ([4084424](https://github.com/izmystic/kookykraft/commit/40844242df9221e2b4c43eb52d2b322a7c8e5c76))
+* **kookykraft:** update Concurrent Chunk Management Engine (NeoForge) ([c275631](https://github.com/izmystic/kookykraft/commit/c275631ed0d0a67df717976ef083636f8f8090db))
+* **kookykraft:** update Moonlight Lib ([62e3aac](https://github.com/izmystic/kookykraft/commit/62e3aacf1cae5a4d2e6a35513ddc8aa5a506cc7f))
+* **kookykraft:** update Puzzles Lib ([1c26a9e](https://github.com/izmystic/kookykraft/commit/1c26a9e021d74d4bceabf91a83ba222cfe0d06f5))
+* **kookykraft:** update Spell Engine ([37fb3bc](https://github.com/izmystic/kookykraft/commit/37fb3bcfe49cfb4ba859bc1385b54890a885f7d6))
+* **kookykraft:** update Structure Pool API ([f4509e2](https://github.com/izmystic/kookykraft/commit/f4509e2aa85ac19c53ad1c65c55f52fd87f7c3f9))
+* **kookykraft:** update Supplementaries ([c4eb0b3](https://github.com/izmystic/kookykraft/commit/c4eb0b3068892a099b002d86e40791b7ed41107f))
+* **kookykraft:** update Wizards (RPG Series) ([07ed4fb](https://github.com/izmystic/kookykraft/commit/07ed4fb94a0bf181ba4165e2f9e648d42848f8dd))
+
 ## [3.0.11](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.10...kookykraft-v3.0.11) (2025-10-23)
 
 
