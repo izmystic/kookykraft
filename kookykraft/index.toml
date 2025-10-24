@@ -504,6 +504,11 @@ hash = "9d45606ff607dcdc6cdd76a0646b2703a266ded908e24689908fffd8172b5926"
 metafile = true
 
 [[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "5115aa2453a30675b9048bf7862e3193b43fc543ba27c3ecdebc44dce7bce2e5"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
