@@ -984,6 +984,11 @@ hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-mekanism-integration.pw.toml"
+hash = "35eee3658f5d27b9e4e01d5b127b574235d75e5909e653a7bc2b2fed0e292dfd"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-quartz-arsenal.pw.toml"
 hash = "75ebdc4251128ab3675954c8589e39fad8f8db922abaef05b06bed52b6034b46"
 metafile = true
