@@ -979,6 +979,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "75ebdc4251128ab3675954c8589e39fad8f8db922abaef05b06bed52b6034b46"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "2615ce20109fe11c8673991a1eb2cdfea463cd38926c067a8b9088eee7a8607d"
 metafile = true
