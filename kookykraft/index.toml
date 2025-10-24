@@ -1329,6 +1329,11 @@ hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "f6cc6c6e40289a4a53254d81261d9a3865ba383c2576fe259d5fd23ca1c660f5"
+metafile = true
+
+[[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
