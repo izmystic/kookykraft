@@ -979,6 +979,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-quartz-arsenal.pw.toml"
 hash = "75ebdc4251128ab3675954c8589e39fad8f8db922abaef05b06bed52b6034b46"
 metafile = true
