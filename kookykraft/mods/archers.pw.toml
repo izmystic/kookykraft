@@ -1,13 +1,13 @@
 name = "Archers (RPG Series)"
-filename = "archers-neoforge-2.6.5+1.21.1.jar"
+filename = "archers-neoforge-2.6.6+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/F2sCubLi/archers-neoforge-2.6.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/9Uga6Eg2/archers-neoforge-2.6.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "f94162e43eae04e3cf195588b470239bbb70469f7b006c827f17e24628af4f643f03332f0052886eae07a6022e45254034d57b44cbff5d1a8245c54c11beac7f"
+hash = "4bea3a8e05fb77f8ec6bdec1c989622bb0142430c4a0f8315df37d8e320c5c669f6b702ac94b4aeeabaec16cc3f308098756fac44cc897cb14e42f615ef7263d"
 
 [update]
 [update.modrinth]
 mod-id = "QgooUXAJ"
-version = "F2sCubLi"
+version = "9Uga6Eg2"
