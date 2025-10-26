@@ -1,13 +1,13 @@
 name = "Oritech"
-filename = "oritech-neoforge-1.21.1-0.19.1.jar"
+filename = "oritech-neoforge-1.21.1-0.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4sYI62kA/versions/KkoixiPk/oritech-neoforge-1.21.1-0.19.1.jar"
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/iFRSycb1/oritech-neoforge-1.21.1-0.19.2.jar"
 hash-format = "sha512"
-hash = "6e0ca2669ab4fbe00d03f8f690923be3245618e07f4f9e56dfbe2e17403ff3866303ed8ce2e998c07ff6b54ca84fbb036a112a0a1d133b8eb9aea0972008b1e1"
+hash = "e07833f0142715c12fd88346c9814695eaa302c5102a166af66723696656f9e06189008f3ecc4a4f75931e37d6b8fd32c9072941caec475e3d5e1fe22f95757b"
 
 [update]
 [update.modrinth]
 mod-id = "4sYI62kA"
-version = "KkoixiPk"
+version = "iFRSycb1"
