@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "05e84a7bda92c47761782e0de879504cac125a91a03f54b055a8099c13cb61ed"
+hash = "79163e41833369161b34e0d8f734c98bf6a28264c002021c0037802afb0384c8"
 metafile = true
 
 [[files]]
