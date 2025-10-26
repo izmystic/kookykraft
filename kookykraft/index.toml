@@ -59,6 +59,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "af95ec0531c05a98df37cce88cad871d33be4827ec99f91133b6f84778fbd614"
 metafile = true
