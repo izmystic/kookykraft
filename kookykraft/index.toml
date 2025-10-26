@@ -864,6 +864,11 @@ hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
+file = "mods/neworesandarmors.pw.toml"
+hash = "5e536efb59ef2170286702005f5af05cbdee4403b2b0b8d9137e76e4ae717568"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true

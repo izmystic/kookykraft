@@ -1,0 +1,13 @@
+name = "New Ores and Armors"
+filename = "NewOresAndArmors_v.6(1.21.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7IUV1SeI/versions/MUAdTolh/NewOresAndArmors_v.6%281.21.1%29.jar"
+hash-format = "sha512"
+hash = "05b03c111b3144eadb49726455399ec9765c867f5ae9266aa74b00e2b4bfd8acfb9a752330b97ba38b414ed661e5021ddf66782a5866ed52e1800ee1eb73aef2"
+
+[update]
+[update.modrinth]
+mod-id = "7IUV1SeI"
+version = "MUAdTolh"
