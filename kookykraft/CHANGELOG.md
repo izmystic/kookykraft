@@ -1,5 +1,36 @@
 # Changelog
 
+## [3.0.13](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.12...kookykraft-v3.0.13) (2025-10-26)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Aquaculture 2 ([3308844](https://github.com/izmystic/kookykraft/commit/330884469220014719a1bed5144cb4560ff91138))
+* **kookykraft:** add Botany Pots ([9c2e1c0](https://github.com/izmystic/kookykraft/commit/9c2e1c0b5b856c65a1a239248eaec595b3146201))
+* **kookykraft:** add Botany Pots - Mystical Agriculture Compat ([a6af133](https://github.com/izmystic/kookykraft/commit/a6af13355acf3508df05c569a0faef3d6299ff8b))
+* **kookykraft:** add New Ores and Armors ([9e51763](https://github.com/izmystic/kookykraft/commit/9e51763fe2f08653ec51ace674a300e73b802dea))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Archers (RPG Series) ([6656028](https://github.com/izmystic/kookykraft/commit/66560286e0fc9378033bf591bd7b09a327520da0))
+* **kookykraft:** update Armory (RPG Series) ([e78473a](https://github.com/izmystic/kookykraft/commit/e78473a87accb248060fe354febd9acd67032dcb))
+* **kookykraft:** update Arsenal (RPG Series) ([13df0c7](https://github.com/izmystic/kookykraft/commit/13df0c774ecf657992e4ce1c54081c5ceeb9aa3b))
+* **kookykraft:** update Client Sort ([b3f8412](https://github.com/izmystic/kookykraft/commit/b3f841228bc0c7f8dfce3039fd769b4c14bb82d7))
+* **kookykraft:** update Collective ([b2f3163](https://github.com/izmystic/kookykraft/commit/b2f3163989d9f54c3ee8ae72a045e6c8444d9b44))
+* **kookykraft:** update Concurrent Chunk Management Engine (NeoForge) ([410b8b8](https://github.com/izmystic/kookykraft/commit/410b8b827d182ec8ab531840fd9916ff730655d4))
+* **kookykraft:** update Cristel Lib ([ecbc54d](https://github.com/izmystic/kookykraft/commit/ecbc54d528260cc28fb3641b243d3b17e877dfd0))
+* **kookykraft:** update Critters and Companions ([3f190b3](https://github.com/izmystic/kookykraft/commit/3f190b363a205e37e6ea0b2a1b1158f7f83fa0c0))
+* **kookykraft:** update Easy Magic ([c41feeb](https://github.com/izmystic/kookykraft/commit/c41feeb40a6ac0b6f72155a89700de08e7abdada))
+* **kookykraft:** update Modern Industrialization ([0f9d054](https://github.com/izmystic/kookykraft/commit/0f9d054bbc397da55cfccd14cc893185ef1a5f4e))
+* **kookykraft:** update Oritech ([a05b79e](https://github.com/izmystic/kookykraft/commit/a05b79e49a12344087fbdb06a4cb90533761434c))
+* **kookykraft:** update Ranged Weapon API ([5d3342f](https://github.com/izmystic/kookykraft/commit/5d3342f21cb15f2f38a9d3dc19e4c9bde8b4c954))
+* **kookykraft:** update Rogues & Warriors (RPG Series) ([3e428e6](https://github.com/izmystic/kookykraft/commit/3e428e6c14e6f324b7c8977469657b3063ff9338))
+* **kookykraft:** update Spell Engine ([ac82f37](https://github.com/izmystic/kookykraft/commit/ac82f37bd49110a337f85b2660f22c7b56b07d12))
+* **kookykraft:** update Stellaris ([ea0058c](https://github.com/izmystic/kookykraft/commit/ea0058c216787167ede296ae0e5e4e812df15701))
+* **kookykraft:** update Village Taverns (RPG Series) ([0fe470b](https://github.com/izmystic/kookykraft/commit/0fe470b4db1c0a154b721aeefef874c9b86eb613))
+* **kookykraft:** update When Dungeons Arise ([aeaee4e](https://github.com/izmystic/kookykraft/commit/aeaee4ed0012726ae1d75b3b9036751dbcdb46b9))
+
 ## [3.0.12](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.11...kookykraft-v3.0.12) (2025-10-24)
 
 
