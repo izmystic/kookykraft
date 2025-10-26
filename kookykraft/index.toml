@@ -154,6 +154,11 @@ hash = "34b9ccfc5e13dc8c89c502495a29d2c0cf66e9b3c5fec3c86262976fe1dff3f9"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots-mystical-agriculture-compat.pw.toml"
+hash = "5a52c72ff875505cdf4a41e43066ae255ecbc17204df1b12eff8ce73dfc0a040"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "ede2c44ea1dfa4af9535734a971f12170c6c2e4f7e8de7e82e920b9ab590dab3"
 metafile = true
