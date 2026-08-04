@@ -94,6 +94,11 @@ hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "6d58776771295e7cf1388de1e2f3d88ce1aab1f15d6f5bc6b6f4cf254725993e"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
@@ -559,6 +564,11 @@ hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
+file = "mods/gnetum.pw.toml"
+hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
@@ -629,6 +639,11 @@ hash = "76f6ec0d8429c4e25430c356563bc3d51b6baf6fc500469f5ec75eb2ae7039a1"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "fa4ac92194cf35913966ff39d83cb5049e2985ab3b8d66b098c879837567eef6"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -636,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jasione.pw.toml"
+hash = "be614a47c20f0a929b4cf09ef4d77906a96ad5b00a3795ad1cae6f5bf9ad39e1"
 metafile = true
 
 [[files]]
@@ -654,13 +674,18 @@ hash = "af4465a52c59ed914f3b924bedb844cee7867b2682a356592aafb7246fd33427"
 metafile = true
 
 [[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "0fa1debfc02efc386dafd24d8c5e53f80751c91755beb894efaf606a0d1eb918"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
-file = "mods/krypton-foxified.pw.toml"
-hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
@@ -869,11 +894,6 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
@@ -941,6 +961,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "697e5d429406179e06f02a1f4fe9e337df56adf36cee6c35e9f08b6bcd0cade6"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
@@ -1076,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
 
 [[files]]
@@ -1356,6 +1386,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
