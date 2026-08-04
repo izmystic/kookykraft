@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.14](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.13...kookykraft-v3.0.14) (2026-08-04)
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update mod versions ([a3280fc](https://github.com/izmystic/kookykraft/commit/a3280fc71de680139cd7c61a6e67002da96d0c45))
+
 ## [3.0.13](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.12...kookykraft-v3.0.13) (2025-10-26)
 
 
