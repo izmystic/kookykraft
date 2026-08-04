@@ -1,13 +1,13 @@
 name = "Wizards (RPG Series)"
-filename = "wizards-neoforge-2.6.2+1.21.1.jar"
+filename = "wizards-neoforge-3.0.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/8YkJByat/wizards-neoforge-2.6.2%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/W76xF87G/wizards-neoforge-3.0.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "6f5b9ccbc409481168435c668959f4a520066be0fa4a65e489cf2c1d021d6f9a97b2d5cf54960598a2e9f6802cba3c14f748a8223db3a61f79b4b8d4eb47da9c"
+hash = "d265a36ea89287e64019f437e13006228ecbd7de60e6b3a9426d6ee4e7b072ffd00679588011100c8ee5fb16954013dbbee70c47b0db86b3bdf1cba678bc6922"
 
 [update]
 [update.modrinth]
 mod-id = "NkGaQMDA"
-version = "8YkJByat"
+version = "W76xF87G"
