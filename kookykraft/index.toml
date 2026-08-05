@@ -1424,6 +1424,11 @@ hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
+hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode-expansion.pw.toml"
 hash = "ba5287d085cf3575ae6be84ecb96d7a93b723c9ba2be0fd0e213c7dc61a9f309"
 metafile = true
