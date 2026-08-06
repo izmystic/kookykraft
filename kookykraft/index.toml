@@ -1354,6 +1354,21 @@ hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "34e176e86ed149907baf37eb0dc0346f11455ee0b0581e9f6e9fd99d11c43cf6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "c4bbfb0ff5505bfeafa21529d87d5725d4a84766a826b25ba1cdc521416dd85d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "f1ac2f9ecce242d0f193db475dba673da2bd5ee04b59d3e750699e7b7c4d1f39"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
@@ -1441,11 +1456,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "4d3b8772184b349551ed1048cd12724e1d9239caa61380540186a8741723e858"
 metafile = true
 
 [[files]]
