@@ -39,6 +39,11 @@ hash = "4a7568e25cac4f4bedba140135036d9481403069a6d9513a922e9901661c05ca"
 metafile = true
 
 [[files]]
+file = "mods/ae2-dynamic-trees-fix.pw.toml"
+hash = "cfd5af82806b817a3fa0a2dde4ce7b3cabb2a3741f97dfa19e08a0dc4ca351b5"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -504,11 +509,6 @@ hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
-metafile = true
-
-[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "5b37e4a80e6785314d459c9763ea2c3cf22d197376a52f2e881f7ecc85777617"
 metafile = true
@@ -521,6 +521,21 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-bwg.pw.toml"
+hash = "097461af0ddd90e780b2918ff6e30de046feae89ecf54f7a14167955e3c1a218"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "276da3b2d9f2566484467c3654df5e963b64a56f96a130fd5af88b1413dca65c"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "a8bd418c6fa0d8fafaeeff65467261713ddd0698f4bd7d6e08b4df8f78303910"
 metafile = true
 
 [[files]]
@@ -1266,11 +1281,6 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
 
 [[files]]
