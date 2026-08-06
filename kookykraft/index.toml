@@ -264,6 +264,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "7d89a6bba992c8f1a2d28f79411952c51b60d2f37ded6226e714552476639fd8"
 metafile = true
@@ -934,6 +939,16 @@ hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "fdaa22d49ee4987c2d0c012e24c7b44d50a653519767d18371e8d778c188f184"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
+metafile = true
+
+[[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "7945b7537033e8b6c7143d906e8ffc8ead7aae1fdc3d3d73ff7fdaa60aab3a8b"
 metafile = true
@@ -1220,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
+hash = "05cac280ad411f249f192ab5cfa3ae3df7356c0293863e7660ad7db4497381e1"
 metafile = true
 
 [[files]]
@@ -1251,6 +1266,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "dca0f7bb1835c26fe31b7942b99783d8340bd52a23d9fecef7a2c6ceb89fae5d"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
@@ -1299,11 +1319,6 @@ hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
-file = "mods/wandrous.pw.toml"
-hash = "af4ede7c2152c0adf6983ef3d465ffa1f95e1a94f5dc969ab99c7c9bccf9ac78"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "d1c97a86c2767df49d9c7668c3379c6cce4d61fdb9308e46f968863669f43ff8"
 metafile = true
@@ -1321,11 +1336,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "c3080aaa8d8dd3f62b7c306f61ed53cc1a43cb03a1b069e2008c67657467d5ca"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
 
 [[files]]
