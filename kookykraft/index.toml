@@ -1609,6 +1609,11 @@ hash = "19e48b773677cc0d4a448e7ec5f4d82d7c9bd21063aac3c1bf710b4a78865c53"
 metafile = true
 
 [[files]]
+file = "resourcepacks/iafce-xaeromap-support.pw.toml"
+hash = "d81dee7b60ae255e9cfb829c2f578dccc34bb8bf1f5bdbde3a5b0659d565c43d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/sparkles.pw.toml"
 hash = "cff6586a35784d89c1d3bf0325775f89b99190ffa4179643fae24fdb391fb652"
 metafile = true
