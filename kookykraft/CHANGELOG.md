@@ -1,5 +1,27 @@
 # Changelog
 
+## [3.1.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.13...kookykraft-v3.1.0) (2026-08-06)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add a bunch of create addons ([ea81816](https://github.com/izmystic/kookykraft/commit/ea8181698e23acc06c37ecad9c955bed1847bad5))
+* **kookykraft:** add Attribute Icons (RPG Series) ([831c558](https://github.com/izmystic/kookykraft/commit/831c5585e3bfd09e92826a1ee2ede49ac8e50380))
+* **kookykraft:** add Dynamic Trees ([2111165](https://github.com/izmystic/kookykraft/commit/21111653fcf04038e5d16ec1cdc47f130aefacf7))
+* **kookykraft:** add IAFCE - XaeroMap Support ([bb67fc9](https://github.com/izmystic/kookykraft/commit/bb67fc9e2deed261300ad215b7452c22494a6b2a))
+* **kookykraft:** add missing libs ([dd9cf5e](https://github.com/izmystic/kookykraft/commit/dd9cf5ee5a4e355ef967855f7c1e3887542757ea))
+* **kookykraft:** add Simply Bows ([4656ec9](https://github.com/izmystic/kookykraft/commit/4656ec919f8b188b8e2c2e007f84f67138cd2d59))
+* **kookykraft:** add Sophisticated Backpacks ([324f7df](https://github.com/izmystic/kookykraft/commit/324f7dfd014d8acc68fddd033ada92be31820520))
+* **kookykraft:** different biome mod ([08c431e](https://github.com/izmystic/kookykraft/commit/08c431ea9fb6d8a79cc9a98c6ab02cbcf001f197))
+* **kookykraft:** overhaul optimization mod stack ([fdbac52](https://github.com/izmystic/kookykraft/commit/fdbac528c6fafb1f686d104df67a576e27a0f991))
+* **kookykraft:** replace Curios Compat Layer for Accessories with ([33c64b8](https://github.com/izmystic/kookykraft/commit/33c64b8f5340698bf5bd1d44518fedd28b774872))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update mod versions ([3545d53](https://github.com/izmystic/kookykraft/commit/3545d538c317dea812da82fa9a8523b11e44bc2e))
+* **kookykraft:** update mod versions ([a3280fc](https://github.com/izmystic/kookykraft/commit/a3280fc71de680139cd7c61a6e67002da96d0c45))
+
 ## [3.0.13](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.12...kookykraft-v3.0.13) (2025-10-26)
 
 
