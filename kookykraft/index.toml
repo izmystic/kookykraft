@@ -819,6 +819,11 @@ hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
 
 [[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "9728776375b66d2b4a450238373072873ed0e50596e95fca857368726f38ecb3"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
