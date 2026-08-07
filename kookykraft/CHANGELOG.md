@@ -1,5 +1,32 @@
 # Changelog
 
+## [3.1.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.0...kookykraft-v3.1.1) (2026-08-07)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Alex's Mobs ([4319b33](https://github.com/izmystic/kookykraft/commit/4319b3324a8731660887fbf3e62f7e91027c9c5b))
+* **kookykraft:** add Jade Sable Compat ([08cfed7](https://github.com/izmystic/kookykraft/commit/08cfed71c87853e4755b5bd363256a07d2277952))
+* **kookykraft:** add No Chat Restrictions ([8e9d407](https://github.com/izmystic/kookykraft/commit/8e9d407aecdeb7e18cfe31899463621c54fb8568))
+* **kookykraft:** add Vanilla Backport ([cd64e1e](https://github.com/izmystic/kookykraft/commit/cd64e1e550f5d7fd484547efe0173047d64e6284))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Armory (RPG Series) ([e4a96b6](https://github.com/izmystic/kookykraft/commit/e4a96b623df61372dd1d13e5e162fcda031e5a35))
+* **kookykraft:** update Create: Food ([df21c36](https://github.com/izmystic/kookykraft/commit/df21c36313c2a7af0457a0c950e40b6bd2514d43))
+* **kookykraft:** update CreativeCore ([0cba597](https://github.com/izmystic/kookykraft/commit/0cba597f908387db23e0c1627a95db323c62fb59))
+* **kookykraft:** update Friends & Foes ([3e7146e](https://github.com/izmystic/kookykraft/commit/3e7146e9776195e646a2af59aa1029f53f2261de))
+* **kookykraft:** update Jade ([86ec36d](https://github.com/izmystic/kookykraft/commit/86ec36dfc108e33cc9f4b30a362f5403ccf5d901))
+* **kookykraft:** update Lootr ([3fb0e28](https://github.com/izmystic/kookykraft/commit/3fb0e283b890ee2850efbfb2d53854f450cfb554))
+* **kookykraft:** update Modern Industrialization ([63d9ca5](https://github.com/izmystic/kookykraft/commit/63d9ca5d6e296fbbf880c8be41d2473252644741))
+* **kookykraft:** update Moonlight Lib ([17add52](https://github.com/izmystic/kookykraft/commit/17add529f1558f378731bdf298eeb6b301d596d0))
+* **kookykraft:** update Sodium ([ab7bd6a](https://github.com/izmystic/kookykraft/commit/ab7bd6aa728b36e65c81279f0cbbcec8e2e6916a))
+* **kookykraft:** update Sophisticated Backpacks ([f58476e](https://github.com/izmystic/kookykraft/commit/f58476ed09fb8d2ac70a25db2664c67272031ef7))
+* **kookykraft:** update Sophisticated Core ([04715ff](https://github.com/izmystic/kookykraft/commit/04715ff82d08e91fab6f535393aba17b1b29d22c))
+* **kookykraft:** update Supplementaries ([56c67a0](https://github.com/izmystic/kookykraft/commit/56c67a05c077371e03901b946f670e1d53ea4359))
+* **kookykraft:** update XaeroPlus ([89e2220](https://github.com/izmystic/kookykraft/commit/89e22205dfba9a496715177b370b001df2f0f997))
+
 ## [3.1.0](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.0.13...kookykraft-v3.1.0) (2026-08-06)
 
 
