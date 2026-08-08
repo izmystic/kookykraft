@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.1.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.1...kookykraft-v3.1.2) (2026-08-08)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Butchery ([f13fb9d](https://github.com/izmystic/kookykraft/commit/f13fb9d201115520fb6d5e328bc91a16881cef43))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Create: SchematicChecker ([f451761](https://github.com/izmystic/kookykraft/commit/f451761b23dc0f440e382b0886e31fef6244baeb))
+* **kookykraft:** update Sophisticated Backpacks ([0b301b6](https://github.com/izmystic/kookykraft/commit/0b301b6408ddc2b29348f77778d9f0ae5bd7359b))
+* **kookykraft:** update Sophisticated Core ([3817b1a](https://github.com/izmystic/kookykraft/commit/3817b1aba8cf59c68e4f0452150c443fa470cdf2))
+* **kookykraft:** update Spell Engine ([0443c2d](https://github.com/izmystic/kookykraft/commit/0443c2d8e42678513bd462116e9452dfcd1eb7aa))
+* **kookykraft:** update SuperMartijn642's Core Lib ([808a188](https://github.com/izmystic/kookykraft/commit/808a1886f69c53e7ae93eeb9e9769110798ce273))
+
 ## [3.1.1](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.0...kookykraft-v3.1.1) (2026-08-07)
 
 
