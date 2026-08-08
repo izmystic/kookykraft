@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-dynamic-trees-fix.pw.toml"
-hash = "cfd5af82806b817a3fa0a2dde4ce7b3cabb2a3741f97dfa19e08a0dc4ca351b5"
+hash = "41d45e3244b4f267db3ea55850b518d5417271e19dc85711c7f1e8dc2fbc40cb"
 metafile = true
 
 [[files]]
@@ -196,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
+metafile = true
+
+[[files]]
+file = "mods/butchery.pw.toml"
+hash = "8a7555f209cac1c0ed786b13c3600599f1f12af707643efe5a5d44840db8d35c"
 metafile = true
 
 [[files]]
@@ -375,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
+hash = "987f762c305a3e6264b3379388467d7d4d90b89a6e08aa83edac0f6172db4f72"
 metafile = true
 
 [[files]]
@@ -440,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+hash = "7e9e3d04c85d0a94a449245bae9239658e0fdeaf53043145c70d54070a38b9b0"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "AE2 Dynamic Trees Fix"
 filename = "ae2-dynamic-trees-fix-1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/w2c2560c/versions/1i6VitG6/ae2-dynamic-trees-fix-1.0.jar"
