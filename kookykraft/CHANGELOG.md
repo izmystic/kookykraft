@@ -1,5 +1,32 @@
 # Changelog
 
+## [3.1.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.2...kookykraft-v3.1.3) (2026-08-10)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Better ModList ([71c2385](https://github.com/izmystic/kookykraft/commit/71c238503333d73e1131cfcce4288b9d71777347))
+* **kookykraft:** add Controlling ([614209c](https://github.com/izmystic/kookykraft/commit/614209cea4a2367e15ab964065b34edb18600b03))
+* **kookykraft:** add Effectual ([d3aec99](https://github.com/izmystic/kookykraft/commit/d3aec995decaafef6fa661890b2382a4296ec76c))
+* **kookykraft:** add Just Enough Items ([86ced13](https://github.com/izmystic/kookykraft/commit/86ced13665e9d5bc32655c53f6e50878a5b1aa99))
+* **kookykraft:** add RightClickHarvest ([34b81e3](https://github.com/izmystic/kookykraft/commit/34b81e3d4efeee9c1354adf803a3dcf34266e5b8))
+* **kookykraft:** add spark ([140e630](https://github.com/izmystic/kookykraft/commit/140e630f93fdb7383ddd6efc25ba3eba7e8f5c1e))
+* **kookykraft:** add Tannery: Better Leather ([ccfdb10](https://github.com/izmystic/kookykraft/commit/ccfdb1048c99b0887108df5964dab6d1cb708655))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update CC: Tweaked ([1637be0](https://github.com/izmystic/kookykraft/commit/1637be00d6c4acb312d7abcdad1a4bdcfca81463))
+* **kookykraft:** update Chat Heads ([438b82d](https://github.com/izmystic/kookykraft/commit/438b82d4e0ea372490c31c7d82835162f8fd86a1))
+* **kookykraft:** update Create: Food ([743ef14](https://github.com/izmystic/kookykraft/commit/743ef141c5d5dae58bd206f4c617fa1c52c29938))
+* **kookykraft:** update Create: SchematicChecker ([f23f65d](https://github.com/izmystic/kookykraft/commit/f23f65d77a49b7f47bc024a971d0c54a3d2a7868))
+* **kookykraft:** update Moonlight Lib ([2b4ab7d](https://github.com/izmystic/kookykraft/commit/2b4ab7d33f9564e5330be50f789131f1567b66e7))
+* **kookykraft:** update Pufferfish's Attributes ([23742ab](https://github.com/izmystic/kookykraft/commit/23742ab95d4bb592bcdb18823b168f253bcc99a9))
+* **kookykraft:** update Simple Voice Chat ([09a9450](https://github.com/izmystic/kookykraft/commit/09a9450cfa5e4ec8274847e10c175abe111b7142))
+* **kookykraft:** update Sophisticated Backpacks ([829e647](https://github.com/izmystic/kookykraft/commit/829e647caf921512a92ac9a95ab086af9db90ac4))
+* **kookykraft:** update Sophisticated Core ([8fd4fe4](https://github.com/izmystic/kookykraft/commit/8fd4fe4e7f06d4fbc7acbbb07422e4738f70ed7b))
+* **kookykraft:** update SuperMartijn642's Core Lib ([168d830](https://github.com/izmystic/kookykraft/commit/168d830cdc3958060d3855709fd4e6f30c67c8ae))
+
 ## [3.1.2](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.1...kookykraft-v3.1.2) (2026-08-08)
 
 
