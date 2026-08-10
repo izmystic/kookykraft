@@ -1424,6 +1424,11 @@ hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "31b26c60c0f1bf2fa9d8fac19689ac723f8f0bfe93779117212382f45db81605"
 metafile = true
