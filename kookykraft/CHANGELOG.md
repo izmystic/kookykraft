@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.3...kookykraft-v3.1.4) (2026-08-10)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** downgrade Create: Food ([2af647c](https://github.com/izmystic/kookykraft/commit/2af647c080019bf46246d16edd24577c02f3a084))
+
 ## [3.1.3](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.2...kookykraft-v3.1.3) (2026-08-10)
 
 
