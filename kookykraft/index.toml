@@ -839,6 +839,11 @@ hash = "be614a47c20f0a929b4cf09ef4d77906a96ad5b00a3795ad1cae6f5bf9ad39e1"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "17014a330541046f8c1437dbeec14128c3faeec64ddbb24586ffd08371ddd2ca"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "b6f82ff4751fbc4be720a8da551b6853eea0611dfd50d10d9b2414833d6ea49f"
 metafile = true
