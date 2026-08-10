@@ -1474,6 +1474,11 @@ hash = "416a2346e514f4481c138ae83eb9b12df6da53184f924b32239e8e0bc603f188"
 metafile = true
 
 [[files]]
+file = "mods/tannery-better-leather.pw.toml"
+hash = "e79f2c7e151ba0d565e1a6e31bb7380359acfbdd81b58c9129dd99b1fe0bce9c"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
