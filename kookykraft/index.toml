@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "6d58776771295e7cf1388de1e2f3d88ce1aab1f15d6f5bc6b6f4cf254725993e"
+hash = "00164cb8596bbeffb1c05bc29df93655320a13db96caf656544a3e004998b8e6"
 metafile = true
 
 [[files]]
