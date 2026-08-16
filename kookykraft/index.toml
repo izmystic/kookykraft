@@ -1689,6 +1689,11 @@ hash = "d81dee7b60ae255e9cfb829c2f578dccc34bb8bf1f5bdbde3a5b0659d565c43d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
+hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/sparkles.pw.toml"
 hash = "cff6586a35784d89c1d3bf0325775f89b99190ffa4179643fae24fdb391fb652"
 metafile = true
