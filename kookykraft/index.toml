@@ -1535,7 +1535,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
+hash = "ec1a263c37a91bac79cd13d940d05eb45d869850a97f613bf07756273095fe15"
 metafile = true
 
 [[files]]
