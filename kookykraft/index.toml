@@ -1330,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/runes.pw.toml"
-hash = "bcae679765144e82a8b181be8173bc088ca431e1573ecb170b9898430a4b67cd"
+hash = "8b21bbb112cb50411f6c71f6708a8ff85cef29a70b7f1be010e2a51502f24d7f"
 metafile = true
 
 [[files]]
