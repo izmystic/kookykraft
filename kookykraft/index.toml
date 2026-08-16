@@ -1689,6 +1689,11 @@ hash = "d81dee7b60ae255e9cfb829c2f578dccc34bb8bf1f5bdbde3a5b0659d565c43d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mt-ct-d.pw.toml"
 hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true
