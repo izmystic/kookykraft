@@ -1694,6 +1694,11 @@ hash = "cff6586a35784d89c1d3bf0325775f89b99190ffa4179643fae24fdb391fb652"
 metafile = true
 
 [[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "f798e5d47c57fa934c843f486fd2120e1ed9cae903331f78d017b7ccb7c6629f"
+metafile = true
+
+[[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
