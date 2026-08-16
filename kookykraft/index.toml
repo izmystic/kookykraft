@@ -1524,6 +1524,11 @@ hash = "1f504618f369b7e151045c08a46339f4afa912de4288f895df210e3a77076744"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
 metafile = true
