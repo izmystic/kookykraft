@@ -1450,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "2692737dde2f76fb308177849db90edeb2dd49655daaba4f35adf9106c6c6e10"
+hash = "cc1491f8817a246d40d0222999788e8b3b442474e2c862637e1ef654997f3826"
 metafile = true
 
 [[files]]
