@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "ffb57707788ff79a6975538109e83e5cf734f30cb0ea4d4de5bfd51680f5d8cd"
+hash = "4cd9f8d6818f6e721b559cec46c9b57c1ba08d14768454bf533cbb265a3fd510"
 metafile = true
 
 [[files]]
