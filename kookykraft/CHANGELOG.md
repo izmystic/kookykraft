@@ -1,5 +1,47 @@
 # Changelog
 
+## [3.1.5](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.4...kookykraft-v3.1.5) (2026-08-16)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** add Icon Xaero's ([f5e250c](https://github.com/izmystic/kookykraft/commit/f5e250cc868a63a96a2f00c6d64ae2010e6fc89d))
+* **kookykraft:** add Midnighttigger's Default Connected Textures ([cbed274](https://github.com/izmystic/kookykraft/commit/cbed27458c940457bc359a65ef1a4c2975cc547f))
+* **kookykraft:** add Too Fast ([a88586d](https://github.com/izmystic/kookykraft/commit/a88586d7804b5222cac40335c90aea42ff77dd9e))
+* **kookykraft:** add Unique Dark ([2061db0](https://github.com/izmystic/kookykraft/commit/2061db0c21f1c490ad6d80d6f304d8e2d1107654))
+* **kookykraft:** remove Default Dark Mode ([fdda0b0](https://github.com/izmystic/kookykraft/commit/fdda0b0a11bd36950f06b31269f8ba01a24e25b4))
+
+
+### ⚘ Modpack Updates
+
+* **kookykraft:** update Async Logger ([248a4aa](https://github.com/izmystic/kookykraft/commit/248a4aae49a383c5fcf30b854abf6bb6f7f22f9e))
+* **kookykraft:** update Balm ([cb8e725](https://github.com/izmystic/kookykraft/commit/cb8e7259a32b6bbfcb62a1ca64ed542447ccf705))
+* **kookykraft:** update Chat Heads ([3b21835](https://github.com/izmystic/kookykraft/commit/3b2183549c0b7a8404bb87e89a94ce47cffee5f3))
+* **kookykraft:** update Client Sort ([abc8dc2](https://github.com/izmystic/kookykraft/commit/abc8dc29aefabdb63cf38e80fa63cded29982e7d))
+* **kookykraft:** update Concurrent Chunk Management Engine ([32ad2d3](https://github.com/izmystic/kookykraft/commit/32ad2d32733c76b91f0c14b24580bb789d5c1315))
+* **kookykraft:** update Create: Central Kitchen ([1df108e](https://github.com/izmystic/kookykraft/commit/1df108e145d8bdff31d2e609ab794a2a9686ad35))
+* **kookykraft:** update Create: Dragons Plus ([226b7b0](https://github.com/izmystic/kookykraft/commit/226b7b0d64b6fbe40df57eef69771f43511cba12))
+* **kookykraft:** update Create: Enchantment Industry ([6a920f9](https://github.com/izmystic/kookykraft/commit/6a920f9ba00aa97ef45b8e02f29eab9026aea07f))
+* **kookykraft:** update Create: Food ([c8f9fa6](https://github.com/izmystic/kookykraft/commit/c8f9fa6a0f2b8b2ec412d1a7c983d3c1b07cc16d))
+* **kookykraft:** update Create: SchematicChecker ([8e48824](https://github.com/izmystic/kookykraft/commit/8e48824ba8f2d18c8a6aa085166260e3df37c924))
+* **kookykraft:** update CreativeCore ([7352a3b](https://github.com/izmystic/kookykraft/commit/7352a3bc5e9f654ee198353d1b469855ce09d43a))
+* **kookykraft:** update Critters and Companions ([38ae713](https://github.com/izmystic/kookykraft/commit/38ae713d1a45554a7ad22182a61f29bc3730eb79))
+* **kookykraft:** update Forgified Fabric API ([536350e](https://github.com/izmystic/kookykraft/commit/536350e79b1273b01ec74431e23fcc92aa964764))
+* **kookykraft:** update Ixeris ([85a6a0a](https://github.com/izmystic/kookykraft/commit/85a6a0a9185737a3998e1d93c69f69b620bec647))
+* **kookykraft:** update Just Enough Items ([9c27a33](https://github.com/izmystic/kookykraft/commit/9c27a335e3eedb4dacfcf5ad43b9125e25b14009))
+* **kookykraft:** update Lithostitched ([3e8fe24](https://github.com/izmystic/kookykraft/commit/3e8fe2429d76d42b745ce14fa733fd780566d6fb))
+* **kookykraft:** update Moonlight Lib ([f7d766d](https://github.com/izmystic/kookykraft/commit/f7d766daf2589ece036a50633d82d4cd2fbe5fe3))
+* **kookykraft:** update Runes ([cce1726](https://github.com/izmystic/kookykraft/commit/cce1726fcd2e7843b510893d10ca38fd6b18eb36))
+* **kookykraft:** update Sophisticated Backpacks ([d167bea](https://github.com/izmystic/kookykraft/commit/d167bea1b3083cbec8a02f81c0ea332f52739ffb))
+* **kookykraft:** update Sophisticated Core ([e13297e](https://github.com/izmystic/kookykraft/commit/e13297ef5084d50ffe6acfd8762bee5a0785a610))
+* **kookykraft:** update Spell Power Attributes ([a0458e3](https://github.com/izmystic/kookykraft/commit/a0458e3f64cf6ef5b63415d0db260a4e4066b7d7))
+* **kookykraft:** update SuperMartijn642's Core Lib ([5e757eb](https://github.com/izmystic/kookykraft/commit/5e757eb74bb790f7bab086d1a479195a897939f7))
+* **kookykraft:** update Supplementaries ([b3ecbc0](https://github.com/izmystic/kookykraft/commit/b3ecbc0966acac7a414edea0f2d81e94055d9b59))
+* **kookykraft:** update Towns and Towers ([3e44db3](https://github.com/izmystic/kookykraft/commit/3e44db310a72e82ce87bbce8605024a9e9494eb5))
+* **kookykraft:** update Trash Cans ([c325681](https://github.com/izmystic/kookykraft/commit/c3256812ba5951cbb224c247bb8d9309c2dd0817))
+* **kookykraft:** update Village Taverns (RPG Series) ([3fd2257](https://github.com/izmystic/kookykraft/commit/3fd2257d141c248b6ccf148dfd6ef7974696a9cf))
+* **kookykraft:** update Waystones ([c79cc06](https://github.com/izmystic/kookykraft/commit/c79cc06365d4dea7b0cf2231130aa0437078d615))
+
 ## [3.1.4](https://github.com/izmystic/kookykraft/compare/kookykraft-v3.1.3...kookykraft-v3.1.4) (2026-08-10)
 
 
